@@ -1,6 +1,6 @@
 [
   {
-    "id": "aws-amazon-application-r",
+    "id": "aws-amazon-application-recove",
     "cloud": "aws",
     "service": "Application",
     "feature": "Amazon Application Recovery Controller region switch now supports three new capabilities",
@@ -11,7 +11,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-aws-private-ca-ocsp-",
+    "id": "aws-aws-private-ca-ocsp-now-a",
     "cloud": "aws",
     "service": "General",
     "feature": "AWS Private CA OCSP now available in China and AWS GovCloud (US) Regions",
@@ -22,7 +22,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-amazon-sagemaker-stu",
+    "id": "aws-amazon-sagemaker-studio-n",
     "cloud": "aws",
     "service": "SageMaker",
     "feature": "Amazon SageMaker Studio now supports SOCI indexing for faster container startup times",
@@ -33,7 +33,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-amazon-rds-enhances-",
+    "id": "aws-amazon-rds-enhances-obser",
     "cloud": "aws",
     "service": "RDS",
     "feature": "Amazon RDS enhances observability for snapshot exports to Amazon S3",
@@ -44,7 +44,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-amazon-bedrock-data-",
+    "id": "aws-amazon-bedrock-data-autom",
     "cloud": "aws",
     "service": "Bedrock",
     "feature": "Amazon Bedrock Data Automation launches instruction optimization for your document blueprints",
@@ -55,7 +55,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-timestream-for-influ",
+    "id": "aws-timestream-for-influxdb-n",
     "cloud": "aws",
     "service": "General",
     "feature": "Timestream for InfluxDB Now Supports Restart API Calls",
@@ -66,7 +66,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-announcing-cost-allo",
+    "id": "aws-announcing-cost-allocatio",
     "cloud": "aws",
     "service": "General",
     "feature": "Announcing Cost Allocation Tags support for Account Tags",
@@ -77,7 +77,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-amazon-ecr-now-suppo",
+    "id": "aws-amazon-ecr-now-supports-c",
     "cloud": "aws",
     "service": "ECR",
     "feature": "Amazon ECR now supports creating repositories on push",
@@ -88,7 +88,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-aws-iot-now-offers-e",
+    "id": "aws-aws-iot-now-offers-event-",
     "cloud": "aws",
     "service": "General",
     "feature": "AWS IoT now offers event-based logging to help optimize observability costs",
@@ -99,7 +99,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-amazon-workspaces-ap",
+    "id": "aws-amazon-workspaces-applica",
     "cloud": "aws",
     "service": "WorkSpaces",
     "feature": "Amazon WorkSpaces Applications now supports Microsoft Windows Server 2025",
@@ -110,7 +110,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-amazon-redshift-odbc",
+    "id": "aws-amazon-redshift-odbc-2-x-",
     "cloud": "aws",
     "service": "Redshift",
     "feature": "Amazon Redshift ODBC 2.x Driver now supports Apple macOS",
@@ -121,7 +121,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-zero-etl-for-self-ma",
+    "id": "aws-zero-etl-for-self-managed",
     "cloud": "aws",
     "service": "General",
     "feature": "Zero-ETL for self-managed Database Sources now available in 7 new regions",
@@ -132,7 +132,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-amazon-ec2-now-suppo",
+    "id": "aws-amazon-ec2-now-supports-a",
     "cloud": "aws",
     "service": "EC2",
     "feature": "Amazon EC2 now supports Availability Zone ID across its APIs",
@@ -143,7 +143,7 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-amazon-aurora-now-su",
+    "id": "aws-amazon-aurora-now-support",
     "cloud": "aws",
     "service": "Aurora",
     "feature": "Amazon Aurora now supports PostgreSQL 17.7, 16.11, 15.15, 14.20 and 13.23",
@@ -154,7 +154,7 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-amazon-workspaces-ap",
+    "id": "aws-amazon-workspaces-applica",
     "cloud": "aws",
     "service": "WorkSpaces",
     "feature": "Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS",
@@ -165,7 +165,7 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-amazon-ec2-c8a-insta",
+    "id": "aws-amazon-ec2-c8a-instances-",
     "cloud": "aws",
     "service": "EC2",
     "feature": "Amazon EC2 C8a instances now available in the Europe (Spain) region",
@@ -176,7 +176,7 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-aws-iot-core-adds-me",
+    "id": "aws-aws-iot-core-adds-message",
     "cloud": "aws",
     "service": "General",
     "feature": "AWS IoT Core adds message batching to HTTP rule action",
@@ -187,7 +187,7 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-amazon-msk-connect-n",
+    "id": "aws-amazon-msk-connect-now-su",
     "cloud": "aws",
     "service": "MSK",
     "feature": "Amazon MSK Connect now supports dual-stack (IPv4 and IPv6) connectivity for new connectors",
@@ -198,7 +198,7 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-amazon-workspaces-no",
+    "id": "aws-amazon-workspaces-now-sup",
     "cloud": "aws",
     "service": "WorkSpaces",
     "feature": "Amazon WorkSpaces now supports IPv6",
@@ -209,7 +209,7 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-amazon-ecs-managed-i",
+    "id": "aws-amazon-ecs-managed-instan",
     "cloud": "aws",
     "service": "ECS",
     "feature": "Amazon ECS Managed Instances now supports Amazon EC2 Spot Instances",
@@ -220,18 +220,73 @@
     "date": "2025-12-18"
   },
   {
-    "id": "azure-microsoft-named-a-le",
+    "id": "aws-amazon-ec2-r8i-and-r8i-fl",
+    "cloud": "aws",
+    "service": "EC2",
+    "feature": "Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8i-r8i-flex-instances-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "aws-aws-lambda-durable-functi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda durable functions are now available in 14 additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/lambda-durable-functions-14-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "aws-aws-direct-connect-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Direct Connect now supports resilience testing with AWS Fault Injection Service",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "aws-aws-clean-rooms-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Clean Rooms now supports change requests for existing collaborations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/clean-rooms-change-requests-existing-collaborations/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "aws-announcing-176-new-aws-se",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing 176 new AWS Security Hub controls  in AWS Control Tower",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/176-security-hub-controls-control-tower/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "azure-microsoft-named-a-leader-",
     "cloud": "azure",
     "service": "General",
     "feature": "Microsoft named a Leader in Gartner\u00ae Magic Quadrant\u2122 for AI Application Development Platforms",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2025-12-17"
   },
   {
-    "id": "azure-azure-updates-for-pa",
+    "id": "azure-azure-updates-for-partner",
     "cloud": "azure",
     "service": "updates",
     "feature": "Azure updates for partners: December 2025",
@@ -242,7 +297,7 @@
     "date": "2025-12-16"
   },
   {
-    "id": "azure-introducing-gpt-5-2-",
+    "id": "azure-introducing-gpt-5-2-in-mi",
     "cloud": "azure",
     "service": "General",
     "feature": "Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI",
@@ -253,7 +308,7 @@
     "date": "2025-12-11"
   },
   {
-    "id": "azure-azure-storage-innova",
+    "id": "azure-azure-storage-innovations",
     "cloud": "azure",
     "service": "Storage",
     "feature": "Azure Storage innovations: Unlocking the future of data",
@@ -264,7 +319,7 @@
     "date": "2025-12-11"
   },
   {
-    "id": "azure-actioning-agentic-ai",
+    "id": "azure-actioning-agentic-ai--5-w",
     "cloud": "azure",
     "service": "General",
     "feature": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
@@ -275,7 +330,7 @@
     "date": "2025-12-10"
   },
   {
-    "id": "azure-microsoft-s-commitme",
+    "id": "azure-microsoft-s-commitment-to",
     "cloud": "azure",
     "service": "General",
     "feature": "Microsoft\u2019s\u00a0commitment\u00a0to supporting cloud infrastructure demand in\u00a0the United States",
@@ -286,18 +341,18 @@
     "date": "2025-12-09"
   },
   {
-    "id": "azure-new-options-for-ai-p",
+    "id": "azure-new-options-for-ai-powere",
     "cloud": "azure",
     "service": "General",
     "feature": "New options for AI-powered innovation, resiliency, and control with Microsoft Azure",
     "link": "https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/",
     "status": "Supported",
-    "version": "v4.56.0",
-    "lag": 8,
+    "version": "v4.55.0",
+    "lag": 1,
     "date": "2025-12-03"
   },
   {
-    "id": "azure-introducing-mistral-",
+    "id": "azure-introducing-mistral-large",
     "cloud": "azure",
     "service": "General",
     "feature": "Introducing Mistral Large 3 in Microsoft Foundry:\u00a0Open, capable, and ready for production workloads",
@@ -308,18 +363,18 @@
     "date": "2025-12-02"
   },
   {
-    "id": "azure-a-decade-of-open-inn",
+    "id": "azure-a-decade-of-open-innovati",
     "cloud": "azure",
     "service": "General",
     "feature": "A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership",
     "link": "https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/",
     "status": "Supported",
-    "version": "v4.56.0",
-    "lag": 9,
+    "version": "v4.55.0",
+    "lag": 2,
     "date": "2025-12-02"
   },
   {
-    "id": "azure-azure-networking-upd",
+    "id": "azure-azure-networking-updates-",
     "cloud": "azure",
     "service": "networking",
     "feature": "Azure networking updates on security, reliability, and high availability",
@@ -548,5 +603,60 @@
     "version": "--",
     "lag": 23,
     "date": "2025-11-28"
+  },
+  {
+    "id": "gcp-november-27--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 27, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#November_27_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 24,
+    "date": "2025-11-27"
+  },
+  {
+    "id": "gcp-november-26--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 26, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#November_26_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 25,
+    "date": "2025-11-26"
+  },
+  {
+    "id": "gcp-november-25--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 25, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#November_25_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 26,
+    "date": "2025-11-25"
+  },
+  {
+    "id": "gcp-november-24--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 24, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#November_24_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 27,
+    "date": "2025-11-24"
+  },
+  {
+    "id": "gcp-november-23--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 23, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#November_23_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 28,
+    "date": "2025-11-23"
   }
 ]
