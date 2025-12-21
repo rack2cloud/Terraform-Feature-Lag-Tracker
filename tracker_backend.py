@@ -51,7 +51,7 @@ SYNONYMS = {
 
 GITHUB_API_BASE = "https://api.github.com/repos"
 OUTPUT_FILE = "r2c_lag_data.json"
-HEADERS = {'User-Agent': 'Rack2Cloud-Bot/2.0', 'Accept': 'application/rss+xml, application/xml, text/xml, */*'}
+HEADERS = {'User-Agent': 'Rack2Cloud-Bot/2.1', 'Accept': 'application/rss+xml, application/xml, text/xml, */*'}
 
 def make_aware(dt):
     if dt is None: return datetime.now(timezone.utc)
@@ -96,7 +96,6 @@ def fetch_aws_archive():
             soup = BeautifulSoup(r.content, 'html.parser')
             
             # Find generic list items rather than specific classes
-            # AWS usually puts links inside a 'directory-item' or just list tags
             for item in soup.find_all('li'):
                 # Look for a link inside the list item
                 link_tag = item.find('a')
@@ -132,4 +131,45 @@ def fetch_azure_blog_archive():
         d = feedparser.parse(url)
         for entry in d.entries:
             dt = parser.parse(entry.published)
-            # Accept anything from 20
+            # Accept anything from 2024 onwards
+            if dt.year < 2024: continue 
+            
+            title = entry.title
+            match = re.search(r"Azure\s+(.*?)\b", title)
+            service = match.group(1) if match else "General"
+            
+            articles.append(FeatureRecord("azure", service, title, dt, entry.link))
+    except: pass
+    print(f"   ✅ Found {len(articles)} historical Azure items.")
+    return articles
+
+# --- STANDARD FETCHERS ---
+def fetch_feed_with_failover(cloud_name, config):
+    print(f"📡 [{cloud_name.upper()}] Fetching Live Feed...")
+    valid_entries = []
+    for url in config['urls']:
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=15)
+            if resp.status_code != 200: continue
+            feed = feedparser.parse(resp.content)
+            if not feed.entries: continue
+            valid_entries = feed.entries[:35]
+            break
+        except: continue
+            
+    records = []
+    for entry in valid_entries:
+        title = entry.title
+        match = re.search(config['service_heuristic'], title)
+        service = match.group(1).replace(",", "").strip() if match else "General"
+        try: dt = parser.parse(entry.get('updated', entry.get('published')))
+        except: dt = datetime.now(timezone.utc)
+        records.append(FeatureRecord(cloud_name, service, title, dt, entry.link))
+    return records
+
+def fetch_tf_releases(repo):
+    print(f"📦 [{repo}] Fetching Terraform Releases...")
+    # Fetch 3 pages to get deeper history (needed for 2024 matching)
+    all_releases = []
+    for page in range(1, 4): 
+        url = f"{GITHUB_API_BASE}/{repo}/
