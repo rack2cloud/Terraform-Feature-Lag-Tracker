@@ -37,18 +37,24 @@ jobs:
             exit 1
           fi
 
-      - name: Commit and Push
+    - name: Commit and Push
         run: |
           git config --global user.name "Rack2Cloud Bot"
           git config --global user.email "bot@rack2cloud.com"
           
-          # Force add the file (covers both New and Modified cases)
+          # Force add the file
           git add r2c_lag_data.json
           
-          # Only commit if there are staged changes
+          # Check for changes
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "data: daily lag tracker update [skip ci]"
+            
+            # --- THE FIX IS HERE ---
+            # Pull the latest changes from the remote repo to avoid conflict
+            git pull --rebase origin main
+            
+            # Now push safely
             git push
           fi
