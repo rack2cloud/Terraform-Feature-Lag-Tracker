@@ -220,6 +220,116 @@
     "date": "2025-12-18"
   },
   {
+    "id": "azure-microsoft-named-a-le",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft named a Leader in Gartner\u00ae Magic Quadrant\u2122 for AI Application Development Platforms",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "azure-azure-updates-for-pa",
+    "cloud": "azure",
+    "service": "updates",
+    "feature": "Azure updates for partners: December 2025",
+    "link": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+    "status": "Supported",
+    "version": "v4.57.0",
+    "lag": 2,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "azure-introducing-gpt-5-2-",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/",
+    "status": "Supported",
+    "version": "v4.56.0",
+    "lag": 0,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "azure-azure-storage-innova",
+    "cloud": "azure",
+    "service": "Storage",
+    "feature": "Azure Storage innovations: Unlocking the future of data",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
+    "status": "Supported",
+    "version": "v4.56.0",
+    "lag": 0,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "azure-actioning-agentic-ai",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
+    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
+    "status": "Supported",
+    "version": "v4.56.0",
+    "lag": 1,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "azure-microsoft-s-commitme",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft\u2019s\u00a0commitment\u00a0to supporting cloud infrastructure demand in\u00a0the United States",
+    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 12,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "azure-new-options-for-ai-p",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "New options for AI-powered innovation, resiliency, and control with Microsoft Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/",
+    "status": "Supported",
+    "version": "v4.56.0",
+    "lag": 8,
+    "date": "2025-12-03"
+  },
+  {
+    "id": "azure-introducing-mistral-",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Introducing Mistral Large 3 in Microsoft Foundry:\u00a0Open, capable, and ready for production workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 19,
+    "date": "2025-12-02"
+  },
+  {
+    "id": "azure-a-decade-of-open-inn",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership",
+    "link": "https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/",
+    "status": "Supported",
+    "version": "v4.56.0",
+    "lag": 9,
+    "date": "2025-12-02"
+  },
+  {
+    "id": "azure-azure-networking-upd",
+    "cloud": "azure",
+    "service": "networking",
+    "feature": "Azure networking updates on security, reliability, and high availability",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 20,
+    "date": "2025-12-01"
+  },
+  {
     "id": "gcp-december-19--2025",
     "cloud": "gcp",
     "service": "General",
