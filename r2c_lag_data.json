@@ -1,6 +1,6 @@
 [
   {
-    "id": "aws-application-amazon-applicat",
+    "id": "aws-amazon-application-r",
     "cloud": "aws",
     "service": "Application",
     "feature": "Amazon Application Recovery Controller region switch now supports three new capabilities",
@@ -11,7 +11,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-general-aws-private-ca-",
+    "id": "aws-aws-private-ca-ocsp-",
     "cloud": "aws",
     "service": "General",
     "feature": "AWS Private CA OCSP now available in China and AWS GovCloud (US) Regions",
@@ -22,7 +22,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-sagemaker-amazon-sagemake",
+    "id": "aws-amazon-sagemaker-stu",
     "cloud": "aws",
     "service": "SageMaker",
     "feature": "Amazon SageMaker Studio now supports SOCI indexing for faster container startup times",
@@ -33,7 +33,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-rds-amazon-rds-enha",
+    "id": "aws-amazon-rds-enhances-",
     "cloud": "aws",
     "service": "RDS",
     "feature": "Amazon RDS enhances observability for snapshot exports to Amazon S3",
@@ -44,7 +44,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-bedrock-amazon-bedrock-",
+    "id": "aws-amazon-bedrock-data-",
     "cloud": "aws",
     "service": "Bedrock",
     "feature": "Amazon Bedrock Data Automation launches instruction optimization for your document blueprints",
@@ -55,7 +55,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-general-timestream-for-",
+    "id": "aws-timestream-for-influ",
     "cloud": "aws",
     "service": "General",
     "feature": "Timestream for InfluxDB Now Supports Restart API Calls",
@@ -66,7 +66,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-general-announcing-cost",
+    "id": "aws-announcing-cost-allo",
     "cloud": "aws",
     "service": "General",
     "feature": "Announcing Cost Allocation Tags support for Account Tags",
@@ -77,7 +77,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-ecr-amazon-ecr-now-",
+    "id": "aws-amazon-ecr-now-suppo",
     "cloud": "aws",
     "service": "ECR",
     "feature": "Amazon ECR now supports creating repositories on push",
@@ -88,7 +88,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-general-aws-iot-now-off",
+    "id": "aws-aws-iot-now-offers-e",
     "cloud": "aws",
     "service": "General",
     "feature": "AWS IoT now offers event-based logging to help optimize observability costs",
@@ -99,7 +99,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-workspaces-amazon-workspac",
+    "id": "aws-amazon-workspaces-ap",
     "cloud": "aws",
     "service": "WorkSpaces",
     "feature": "Amazon WorkSpaces Applications now supports Microsoft Windows Server 2025",
@@ -110,7 +110,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-redshift-amazon-redshift",
+    "id": "aws-amazon-redshift-odbc",
     "cloud": "aws",
     "service": "Redshift",
     "feature": "Amazon Redshift ODBC 2.x Driver now supports Apple macOS",
@@ -121,7 +121,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-general-zero-etl-for-se",
+    "id": "aws-zero-etl-for-self-ma",
     "cloud": "aws",
     "service": "General",
     "feature": "Zero-ETL for self-managed Database Sources now available in 7 new regions",
@@ -132,7 +132,7 @@
     "date": "2025-12-19"
   },
   {
-    "id": "aws-ec2-amazon-ec2-now-",
+    "id": "aws-amazon-ec2-now-suppo",
     "cloud": "aws",
     "service": "EC2",
     "feature": "Amazon EC2 now supports Availability Zone ID across its APIs",
@@ -143,7 +143,7 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-aurora-amazon-aurora-n",
+    "id": "aws-amazon-aurora-now-su",
     "cloud": "aws",
     "service": "Aurora",
     "feature": "Amazon Aurora now supports PostgreSQL 17.7, 16.11, 15.15, 14.20 and 13.23",
@@ -154,7 +154,7 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-workspaces-amazon-workspac",
+    "id": "aws-amazon-workspaces-ap",
     "cloud": "aws",
     "service": "WorkSpaces",
     "feature": "Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS",
@@ -165,168 +165,168 @@
     "date": "2025-12-18"
   },
   {
-    "id": "aws-ec2-amazon-ec2-c8a-",
-    "cloud": "aws",
-    "service": "EC2",
-    "feature": "Amazon EC2 C8a instances now available in the Europe (Spain) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8a-instances-europe-spain-region",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-general-aws-iot-core-ad",
-    "cloud": "aws",
+    "id": "gcp-december-19--2025",
+    "cloud": "gcp",
     "service": "General",
-    "feature": "AWS IoT Core adds message batching to HTTP rule action",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-core-message-batching-http-rule-action",
+    "feature": "December 19, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_19_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-msk-amazon-msk-conn",
-    "cloud": "aws",
-    "service": "MSK",
-    "feature": "Amazon MSK Connect now supports dual-stack (IPv4 and IPv6) connectivity for new connectors",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-connect-dual-stack-ipv-and-ipv/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-workspaces-amazon-workspac",
-    "cloud": "aws",
-    "service": "WorkSpaces",
-    "feature": "Amazon WorkSpaces now supports IPv6",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ipv6/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-ecs-amazon-ecs-mana",
-    "cloud": "aws",
-    "service": "ECS",
-    "feature": "Amazon ECS Managed Instances now supports Amazon EC2 Spot Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-managed-instances-ec2-spot-instances",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-ec2-amazon-ec2-r8i-",
-    "cloud": "aws",
-    "service": "EC2",
-    "feature": "Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8i-r8i-flex-instances-additional-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-general-aws-lambda-dura",
-    "cloud": "aws",
-    "service": "General",
-    "feature": "AWS Lambda durable functions are now available in 14 additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/lambda-durable-functions-14-additional-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-general-aws-direct-conn",
-    "cloud": "aws",
-    "service": "General",
-    "feature": "AWS Direct Connect now supports resilience testing with AWS Fault Injection Service",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-general-aws-clean-rooms",
-    "cloud": "aws",
-    "service": "General",
-    "feature": "AWS Clean Rooms now supports change requests for existing collaborations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/clean-rooms-change-requests-existing-collaborations/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-general-announcing-176-",
-    "cloud": "aws",
-    "service": "General",
-    "feature": "Announcing 176 new AWS Security Hub controls  in AWS Control Tower",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/176-security-hub-controls-control-tower/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-ecs-amazon-ecs-now-",
-    "cloud": "aws",
-    "service": "ECS",
-    "feature": "Amazon ECS now enables you to define weekly event windows for scheduling task retirements on AWS Fargate",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/ecs-weekly-windows-scheduling-task-retirements-fargate/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-neptune-amazon-neptune-",
-    "cloud": "aws",
-    "service": "Neptune",
-    "feature": "Amazon Neptune Database is now available in the AWS Europe (Zurich) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-neptune-zurich-region",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-ses-amazon-ses-anno",
-    "cloud": "aws",
-    "service": "SES",
-    "feature": "Amazon SES announces email validation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-email-validation/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-msk-amazon-msk-intr",
-    "cloud": "aws",
-    "service": "MSK",
-    "feature": "Amazon MSK introduces KRaft support for Express Brokers with Apache Kafka v3.9",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-msk-express-brokers-support-kraft/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
-    "date": "2025-12-18"
-  },
-  {
-    "id": "aws-general-aws-databases-a",
-    "cloud": "aws",
-    "service": "General",
-    "feature": "AWS Databases are now available on the Vercel Marketplace",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-databases-are-available-on-the-vercel/",
-    "status": "Supported",
-    "version": "v6.27.0",
     "lag": 0,
-    "date": "2025-12-17"
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-18--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 18, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_18_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-17--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 17, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_17_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-16--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 16, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_16_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-15--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 15, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_15_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-14--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 14, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_14_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-13--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 13, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_13_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-12--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 12, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_12_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-11--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 11, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_11_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-10--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 10, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_10_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-09--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 09, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_09_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-08--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 08, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_08_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-07--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 07, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_07_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-06--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 06, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_06_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "gcp-december-05--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 05, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_05_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2025-12-21"
   }
 ]
