@@ -2,8 +2,8 @@ name: Daily Lag Tracker Refresh
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Runs at 8 AM UTC daily
-  workflow_dispatch:      # Allows manual "Run Now" button
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -28,17 +28,27 @@ jobs:
       - name: Run Ingestion Script
         run: python tracker_backend.py
 
-      - name: Commit and Push Changes
+      - name: Check file existence
+        run: |
+          if [ -f r2c_lag_data.json ]; then
+            echo "File exists, proceeding to commit."
+          else
+            echo "Error: JSON file was not generated."
+            exit 1
+          fi
+
+      - name: Commit and Push
         run: |
           git config --global user.name "Rack2Cloud Bot"
           git config --global user.email "bot@rack2cloud.com"
           
-          # Check if json file exists and has changed
-          if [[ -n $(git status --porcelain r2c_lag_data.json) ]]; then
-            echo "Changes detected. Committing..."
-            git add r2c_lag_data.json
+          # Force add the file (covers both New and Modified cases)
+          git add r2c_lag_data.json
+          
+          # Only commit if there are staged changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
             git commit -m "data: daily lag tracker update [skip ci]"
             git push
-          else
-            echo "No data changes today."
           fi
