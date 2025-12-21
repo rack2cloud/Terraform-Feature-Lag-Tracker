@@ -165,6 +165,61 @@
     "date": "2025-12-18"
   },
   {
+    "id": "aws-amazon-ec2-c8a-insta",
+    "cloud": "aws",
+    "service": "EC2",
+    "feature": "Amazon EC2 C8a instances now available in the Europe (Spain) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8a-instances-europe-spain-region",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "aws-aws-iot-core-adds-me",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IoT Core adds message batching to HTTP rule action",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-core-message-batching-http-rule-action",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "aws-amazon-msk-connect-n",
+    "cloud": "aws",
+    "service": "MSK",
+    "feature": "Amazon MSK Connect now supports dual-stack (IPv4 and IPv6) connectivity for new connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-connect-dual-stack-ipv-and-ipv/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "aws-amazon-workspaces-no",
+    "cloud": "aws",
+    "service": "WorkSpaces",
+    "feature": "Amazon WorkSpaces now supports IPv6",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ipv6/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "aws-amazon-ecs-managed-i",
+    "cloud": "aws",
+    "service": "ECS",
+    "feature": "Amazon ECS Managed Instances now supports Amazon EC2 Spot Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-managed-instances-ec2-spot-instances",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2025-12-18"
+  },
+  {
     "id": "gcp-december-19--2025",
     "cloud": "gcp",
     "service": "General",
@@ -172,8 +227,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_19_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 2,
+    "date": "2025-12-19"
   },
   {
     "id": "gcp-december-18--2025",
@@ -183,8 +238,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_18_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 3,
+    "date": "2025-12-18"
   },
   {
     "id": "gcp-december-17--2025",
@@ -194,8 +249,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_17_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 4,
+    "date": "2025-12-17"
   },
   {
     "id": "gcp-december-16--2025",
@@ -205,8 +260,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_16_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 5,
+    "date": "2025-12-16"
   },
   {
     "id": "gcp-december-15--2025",
@@ -216,8 +271,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_15_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 6,
+    "date": "2025-12-15"
   },
   {
     "id": "gcp-december-14--2025",
@@ -227,8 +282,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_14_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 7,
+    "date": "2025-12-14"
   },
   {
     "id": "gcp-december-13--2025",
@@ -238,8 +293,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_13_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 8,
+    "date": "2025-12-13"
   },
   {
     "id": "gcp-december-12--2025",
@@ -249,8 +304,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_12_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 9,
+    "date": "2025-12-12"
   },
   {
     "id": "gcp-december-11--2025",
@@ -260,8 +315,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_11_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 10,
+    "date": "2025-12-11"
   },
   {
     "id": "gcp-december-10--2025",
@@ -271,8 +326,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_10_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 11,
+    "date": "2025-12-10"
   },
   {
     "id": "gcp-december-09--2025",
@@ -282,8 +337,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_09_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 12,
+    "date": "2025-12-09"
   },
   {
     "id": "gcp-december-08--2025",
@@ -293,8 +348,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_08_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 13,
+    "date": "2025-12-08"
   },
   {
     "id": "gcp-december-07--2025",
@@ -304,8 +359,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_07_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 14,
+    "date": "2025-12-07"
   },
   {
     "id": "gcp-december-06--2025",
@@ -315,8 +370,8 @@
     "link": "https://docs.cloud.google.com/release-notes#December_06_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 15,
+    "date": "2025-12-06"
   },
   {
     "id": "gcp-december-05--2025",
@@ -326,7 +381,62 @@
     "link": "https://docs.cloud.google.com/release-notes#December_05_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
-    "date": "2025-12-21"
+    "lag": 16,
+    "date": "2025-12-05"
+  },
+  {
+    "id": "gcp-december-04--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 04, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_04_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 17,
+    "date": "2025-12-04"
+  },
+  {
+    "id": "gcp-december-03--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 03, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_03_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 18,
+    "date": "2025-12-03"
+  },
+  {
+    "id": "gcp-december-02--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 02, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_02_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 19,
+    "date": "2025-12-02"
+  },
+  {
+    "id": "gcp-december-01--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "December 01, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#December_01_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 20,
+    "date": "2025-12-01"
+  },
+  {
+    "id": "gcp-november-28--2025",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 28, 2025",
+    "link": "https://docs.cloud.google.com/release-notes#November_28_2025",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 23,
+    "date": "2025-11-28"
   }
 ]
