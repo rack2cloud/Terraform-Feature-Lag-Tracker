@@ -1,10 +1,87 @@
 [
   {
+    "id": "aws-amazon-sagemaker-hyperpod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker HyperPod now validates service quotas before creating clusters on console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-validates-service-quotas/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-01-12"
+  },
+  {
+    "id": "aws-amazon-lex-launches-confi",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Lex launches configurable voice activity detection sensitivity",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-lex-configurable-voice-activity-detection-sensitivity/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-01-12"
+  },
+  {
+    "id": "aws-amazon-connect-now-provid",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect now provides agent screen recording status tracking",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-agent-screen-recording-status-tracking",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-01-12"
+  },
+  {
+    "id": "aws-amazon-redshift-serverles",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (New Zealand) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-aws-asia-pacific-new-zealand-region",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-01-12"
+  },
+  {
+    "id": "aws-amazon-inspector-adds-jav",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Inspector adds Java Gradle support and expands ecosystem coverage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-inspector-java-gradle-ecosystem/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-01-12"
+  },
+  {
+    "id": "gcp-january-12--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "January 12, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#January_12_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-01-12"
+  },
+  {
     "id": "gcp-january-11--2026",
     "cloud": "gcp",
     "service": "General",
     "feature": "January 11, 2026",
     "link": "https://docs.cloud.google.com/release-notes#January_11_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-01-11"
+  },
+  {
+    "id": "azure-bridging-the-gap-between-",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
+    "link": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -18,7 +95,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-01-10"
   },
   {
@@ -29,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/larger-managed-database-bundles-lightsail/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-01-09"
   },
   {
@@ -40,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-emr-serverless-adds-job-run-level",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-01-09"
   },
   {
@@ -51,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-sql-server-cross-region-read-replica-in-additional-aws-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-01-09"
   },
   {
@@ -62,7 +139,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-01-09"
   },
   {
@@ -73,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8i-r8i-flex-instances-additional-aws-regions",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-01-08"
   },
   {
@@ -84,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-certificate-based-authentication-mutual-tls-rabbitmq/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-01-08"
   },
   {
@@ -95,7 +172,7 @@
     "link": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-documentdb-mongodb-compatibility-asia-pacific-jakarta-region",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-01-08"
   },
   {
@@ -106,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/3p-agent-in-quick/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-01-08"
   },
   {
@@ -117,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m8i-instances-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-01-08"
   },
   {
@@ -128,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-dot-net-10/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-01-08"
   },
   {
@@ -139,7 +216,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-01-08"
   },
   {
@@ -150,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-client-vpn-onboarding-quickstart-setup",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-01-07"
   },
   {
@@ -194,7 +271,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-01-07"
   },
   {
@@ -205,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-seller-reporting-collections/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-01-06"
   },
   {
@@ -227,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-http-based-rabbitmq-brokers/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-01-06"
   },
   {
@@ -249,7 +326,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-01-06"
   },
   {
@@ -304,7 +381,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-01-05"
   },
   {
@@ -315,7 +392,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-01-05"
   },
   {
@@ -370,7 +447,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_30_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2025-12-30"
   },
   {
@@ -425,7 +502,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_26_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2025-12-26"
   },
   {
@@ -447,7 +524,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_24_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2025-12-24"
   },
   {
@@ -579,7 +656,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_23_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2025-12-23"
   },
   {
@@ -700,7 +777,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_22_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2025-12-22"
   },
   {
@@ -854,7 +931,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_19_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2025-12-19"
   },
   {
@@ -1041,7 +1118,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_18_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2025-12-18"
   },
   {
@@ -1118,7 +1195,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2025-12-17"
   },
   {
@@ -1173,7 +1250,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_14_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 29,
+    "lag": 30,
     "date": "2025-12-14"
   },
   {
@@ -1228,7 +1305,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_11_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 32,
+    "lag": 33,
     "date": "2025-12-11"
   },
   {
@@ -1305,7 +1382,7 @@
     "link": "https://docs.cloud.google.com/release-notes#December_06_2025",
     "status": "Not Supported",
     "version": "--",
-    "lag": 37,
+    "lag": 38,
     "date": "2025-12-06"
   },
   {
