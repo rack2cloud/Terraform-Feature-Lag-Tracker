@@ -1,5 +1,82 @@
 [
   {
+    "id": "aws-amazon-bedrock-increases-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock increases default quotas for Anthropic\u2019s Claude Sonnet 4.5 model in AWS GovCloud (US)",
+    "link": "https://aws.amazon.comabout-aws/whats-new/2026/02/amazon-bedrock-increases-default-sonnet-4.5-quotas-aws-govcloud-us",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-12"
+  },
+  {
+    "id": "aws-ai-troubleshooting-in-the",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AI Troubleshooting in the AWS Support Center Console now supports 7 additional languages",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/ai-troubleshooting-in-aws-support-center/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-12"
+  },
+  {
+    "id": "aws-amazon-rds-for-postgresql",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for PostgreSQL supports minor versions  18.2, 17.8, 16.12, 15.16 and 14.21",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-2-17-8-16-12-15-16-14-21",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-12"
+  },
+  {
+    "id": "aws-announcing-new-amazon-ec2",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing new Amazon EC2 general purpose M8azn instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-12"
+  },
+  {
+    "id": "aws-amazon-s3-tables-add-part",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Tables add partition and sort order definition in the CreateTable API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/s3-tables-partition-and-sort-order-createtable-api/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-12"
+  },
+  {
+    "id": "aws-aws-backup-adds-cross-reg",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Backup adds cross-Region database snapshot copy to logically air-gapped vaults",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-adds-cross-region-database-snapshot-logically-air-gapped-vaults/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-12"
+  },
+  {
+    "id": "gcp-february-12--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "February 12, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#February_12_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-02-12"
+  },
+  {
     "id": "aws-aws-payment-cryptography-",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/payment-cryptography-cartes-bancaires",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-11"
   },
   {
@@ -29,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-auto-accept",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-11"
   },
   {
@@ -51,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-msk-express-brokers-support-broker-logs",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-11"
   },
   {
@@ -62,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elastic-beanstalk-github-action",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-11"
   },
   {
@@ -73,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-lake-formation-cross-account-sharing",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-11"
   },
   {
@@ -139,7 +216,62 @@
     "link": "https://docs.cloud.google.com/release-notes#February_11_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-02-11"
+  },
+  {
+    "id": "aws-amazon-ec2-r8i-and-r8i-fl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8i-r8i-flex-instances-AKL-DXB-region/",
+    "status": "Supported",
+    "version": "v6.32.0",
+    "lag": 0,
+    "date": "2026-02-11"
+  },
+  {
+    "id": "aws-aws-announces-6-new-locat",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces 6 new locations for AWS Data Transfer Terminal",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-data-transfer-terminal-6-new-locations/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 1,
+    "date": "2026-02-11"
+  },
+  {
+    "id": "aws-msk-simplifies-kafka-topi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "MSK simplifies Kafka topic management with new APIs and console integration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-msk-kafka-topics-public-apis/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-02-11"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Browser now supports proxy configuration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/bedrock-agentcore-browser-proxy",
+    "status": "Supported",
+    "version": "v6.32.0",
+    "lag": 0,
+    "date": "2026-02-11"
+  },
+  {
+    "id": "azure-agentic-cloud-operations-",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Agentic cloud operations: A new way to run the cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+    "status": "Supported",
+    "version": "v4.60.0",
+    "lag": 0,
     "date": "2026-02-11"
   },
   {
@@ -161,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-global-database-managed-minor/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-10"
   },
   {
@@ -172,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-sagemaker-hyperpod-node-actions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-10"
   },
   {
@@ -205,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-adds-support-six-open-weights-models",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-10"
   },
   {
@@ -216,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-serverless-supports-collection-groups/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-10"
   },
   {
@@ -227,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-auto-mode-enhanced-logging",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-10"
   },
   {
@@ -238,7 +370,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-10"
   },
   {
@@ -260,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-healthomics-introduces-kiro-plugin-for-bioinformatics-workflow-development/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-02-09"
   },
   {
@@ -271,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-allocate-extra-compute-for-automatic-optimizations",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-02-09"
   },
   {
@@ -282,7 +414,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-02-09"
   },
   {
@@ -304,7 +436,7 @@
     "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-02-09"
   },
   {
@@ -326,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-07"
   },
   {
@@ -403,7 +535,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-02-06"
   },
   {
@@ -513,7 +645,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-02-05"
   },
   {
@@ -656,7 +788,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-02-04"
   },
   {
@@ -665,9 +797,9 @@
     "service": "",
     "feature": "Enhanced\u00a0storage\u00a0resiliency with Azure NetApp Files Elastic\u00a0zone-redundant service",
     "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 7,
+    "status": "Supported",
+    "version": "v4.60.0",
+    "lag": 8,
     "date": "2026-02-04"
   },
   {
@@ -887,7 +1019,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-02-02"
   },
   {
@@ -953,7 +1085,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-01-31"
   },
   {
@@ -1052,7 +1184,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-01-30"
   },
   {
@@ -1910,7 +2042,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-01-19"
   },
   {
@@ -1921,7 +2053,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-01-18"
   },
   {
@@ -2141,7 +2273,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 29,
     "date": "2026-01-15"
   },
   {
@@ -2152,7 +2284,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 27,
+    "lag": 28,
     "date": "2026-01-15"
   },
   {
@@ -2240,7 +2372,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 29,
+    "lag": 30,
     "date": "2026-01-14"
   },
   {
@@ -2249,9 +2381,9 @@
     "service": "General",
     "feature": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 28,
+    "status": "Supported",
+    "version": "v4.60.0",
+    "lag": 29,
     "date": "2026-01-14"
   },
   {
@@ -2473,17 +2605,6 @@
     "version": "v7.17.0",
     "lag": 18,
     "date": "2026-01-09"
-  },
-  {
-    "id": "aws-amazon-ec2-r8i-and-r8i-fl",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8i-r8i-flex-instances-additional-aws-regions",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 7,
-    "date": "2026-01-08"
   },
   {
     "id": "aws-amazon-mq-now-supports-ce",
