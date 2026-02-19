@@ -1,12 +1,89 @@
 [
   {
+    "id": "aws-amazon-aurora-dsql-now-in",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-integrates-with-kiro-powers-and-agent-skills",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-18"
+  },
+  {
+    "id": "aws-amazon-connect-cases-now-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Cases now supports AWS Service Quotas",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-aws-service-quotas",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-18"
+  },
+  {
+    "id": "aws-amazon-managed-grafana-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Managed Grafana now supports AWS KMS customer managed keys",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-managed-grafana-customer-managed-keys",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-18"
+  },
+  {
+    "id": "aws-aws-clean-rooms-announces",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Clean Rooms announces support for remote Apache Iceberg REST catalogs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-clean-rooms-remote-iceberg-catalogs",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-18"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service expands support for Graviton4 (c8g,m8g & r8g ) instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-expands-support-graviton4-based-instances",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-02-18"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service now supports storage optimized  i7i  instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-supports-i7i-instances",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-02-18"
+  },
+  {
+    "id": "gcp-february-18--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "February 18, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#February_18_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-02-18"
+  },
+  {
     "id": "aws-amazon-bedrock-reinforcem",
     "cloud": "aws",
     "service": "",
     "feature": "Amazon Bedrock reinforcement fine-tuning adds support for open-weight models with OpenAI-compatible APIs",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-reinforcement-fine-tuning-openai",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.33.0",
     "lag": 0,
     "date": "2026-02-17"
   },
@@ -18,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-time-off-draft-schedules",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-17"
   },
   {
@@ -27,9 +104,9 @@
     "service": "",
     "feature": "Amazon Connect now supports multi-line text fields on case templates",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-multiline-text-fields/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 1,
     "date": "2026-02-17"
   },
   {
@@ -38,9 +115,9 @@
     "service": "",
     "feature": "Amazon EC2 C8a instances now available in the Europe (Frankfurt) and Europe (Ireland) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8a-instances-europe-frankfurt-europe-ireland-regions",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 1,
     "date": "2026-02-17"
   },
   {
@@ -49,9 +126,9 @@
     "service": "",
     "feature": "Amazon MSK now supports dual-stack (IPv4 and IPv6) connectivity for existing clusters",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-msk-dual-stack-ipv4-and-ipv6",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 1,
     "date": "2026-02-17"
   },
   {
@@ -60,9 +137,9 @@
     "service": "",
     "feature": "Claude Sonnet 4.6 now available in Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/claude-sonnet-4.6-available-in-amazon-bedrock/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 1,
     "date": "2026-02-17"
   },
   {
@@ -73,6 +150,28 @@
     "link": "https://docs.cloud.google.com/release-notes#February_17_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-02-17"
+  },
+  {
+    "id": "aws-amazon-ec2-r8i-and-r8i-fl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8i and R8i-flex instances are now available in Europe (Ireland) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8i-r8i-flex-instances-DUB-region/",
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 0,
+    "date": "2026-02-17"
+  },
+  {
+    "id": "aws-amazon-aurora-mysql-3-12-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora MySQL 3.12 (compatible with MySQL 8.0.44) is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-mysql-312-available/",
+    "status": "Supported",
+    "version": "v6.33.0",
     "lag": 1,
     "date": "2026-02-17"
   },
@@ -84,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-healthimaging-additional-metrics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-16"
   },
   {
@@ -93,8 +192,8 @@
     "service": "",
     "feature": "Announcing new high performance computing Amazon EC2 Hpc8a instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-ec2-hpc8a-instances/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.33.0",
     "lag": 1,
     "date": "2026-02-16"
   },
@@ -104,9 +203,9 @@
     "service": "",
     "feature": "Announcing Amazon DocumentDB long-term support (LTS) on 5.0",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-documentdb-5-0-long-term-support",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 2,
     "date": "2026-02-16"
   },
   {
@@ -115,9 +214,9 @@
     "service": "General",
     "feature": "AWS Glue 5.1 is now available in 18 additional regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-5-1-eighteen-additional-regions",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 2,
     "date": "2026-02-16"
   },
   {
@@ -128,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-announces-privatelink-sap-hana-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-16"
   },
   {
@@ -137,9 +236,9 @@
     "service": "",
     "feature": "Amazon EC2 M7i instances are now available in the Israel (Tel Aviv) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m7i-israel-tel-aviv-regions",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 2,
     "date": "2026-02-16"
   },
   {
@@ -148,8 +247,8 @@
     "service": "",
     "feature": "Amazon EC2 supports nested virtualization on virtual Amazon EC2 instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-nested-virtualization-on-virtual",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.33.0",
     "lag": 2,
     "date": "2026-02-16"
   },
@@ -161,7 +260,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-02-16"
   },
   {
@@ -170,9 +269,20 @@
     "service": "",
     "feature": "Amazon Aurora now supports Server-Side Encryption by default",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-server-side-encryption-at-rest",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 2,
+    "date": "2026-02-16"
+  },
+  {
+    "id": "aws-kiro-is-now-available-in-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Kiro is now available in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/kiro-launch-aws-govcloud-us/",
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 2,
     "date": "2026-02-16"
   },
   {
@@ -183,7 +293,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-02-15"
   },
   {
@@ -194,7 +304,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-14"
   },
   {
@@ -205,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-provides-job-queue-share-utilization",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-13"
   },
   {
@@ -216,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-in-app-notifications",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-13"
   },
   {
@@ -225,9 +335,9 @@
     "service": "",
     "feature": "Amazon Connect now provides real time AI-powered overviews and recommended next actions for Tasks",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/connect-tasks-ai-assistance",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.33.0",
+    "lag": 5,
     "date": "2026-02-13"
   },
   {
@@ -247,8 +357,8 @@
     "service": "",
     "feature": "Amazon Aurora DSQL adds support for identity columns and sequence objects",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-adds-identity-columns-sequence/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.33.0",
     "lag": 5,
     "date": "2026-02-13"
   },
@@ -260,7 +370,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-13"
   },
   {
@@ -269,8 +379,8 @@
     "service": "",
     "feature": "Amazon EC2 High Memory U7i instances now available in additional regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-highmem-instances-available/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.33.0",
     "lag": 4,
     "date": "2026-02-13"
   },
@@ -348,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-02-12"
   },
   {
@@ -357,8 +467,8 @@
     "service": "",
     "feature": "Announcing Amazon EC2 C8i, M8i, and R8i instances on second-generation AWS Outposts racks",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-m8i-and-r8i-instances-on-aws-outposts/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.33.0",
     "lag": 5,
     "date": "2026-02-12"
   },
@@ -390,8 +500,8 @@
     "service": "",
     "feature": "Amazon Bedrock expands support for AWS PrivateLink",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-expands-aws-privatelink-support-openai-api-endpoints/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.33.0",
     "lag": 5,
     "date": "2026-02-12"
   },
@@ -579,7 +689,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-02-11"
   },
   {
@@ -733,7 +843,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-02-10"
   },
   {
@@ -799,7 +909,7 @@
     "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-02-09"
   },
   {
@@ -1448,7 +1558,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-01-31"
   },
   {
@@ -1547,7 +1657,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-01-30"
   },
   {
@@ -2636,7 +2746,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 33,
+    "lag": 34,
     "date": "2026-01-15"
   },
   {
