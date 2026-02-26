@@ -1,5 +1,137 @@
 [
   {
+    "id": "aws-aws-outposts-racks-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Outposts racks now support additional Amazon CloudWatch metrics in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-outposts-racks-cloudwatch-metrics-govcloud-regions/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-aws-security-agent-adds-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Agent adds support for penetration tests on shared VPCs across AWS accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-security-agent-adds-penetration-tests-shared/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-amazon-aurora-dsql-launch",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL launches Playground for interactive database exploration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-launches-playground/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-aurora-dsql-launches-new-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Aurora DSQL launches new support for Tortoise, Flyway, and Prisma",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-tortoise-flyway-prisma/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-aurora-dsql-launches-new-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Aurora DSQL launches new integrations for Visual Studio Code SQLTools and DBeaver",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-visual-studio-code-sqltools-dbeaver/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-amazon-ec2-r8a-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8a instances now available in the Europe (Ireland) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-amazon-ec2-m8i-and-m8i-fl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8i and M8i-flex instances are now available in Africa (Cape Town) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-africa-cape-town-regions/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-amazon-location-service-i",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-location-service-introduces-kiro-power-claude-skill-llm-context/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-amazon-workspaces-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Applications extends support for 4K resolution",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-applications-4K-resolution/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-announcing-new-metal-size",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing new metal sizes for Amazon EC2 M8gn and M8gb instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-aws-backup-extends-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup extends support for Amazon Neptune to five additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-extends-amazon-neptune-five-additional-regions/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 0,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "gcp-february-25--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "February 25, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#February_25_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-02-25"
+  },
+  {
     "id": "aws-mediaconvert-introduces-n",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-mediaconvert-introduces-video-probe/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-24"
   },
   {
@@ -16,9 +148,9 @@
     "service": "",
     "feature": "Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rds-custom-supports-latest-gdr-updates-for-microsoft-sql-server/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -27,8 +159,8 @@
     "service": "",
     "feature": "Amazon Bedrock now supports server-side tool execution with AgentCore Gateway",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-server-side-tool-execution-agentcore-gateway/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.34.0",
     "lag": 0,
     "date": "2026-02-24"
   },
@@ -40,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-compute-optimizer-applies-tags-ebs-snapshots/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -49,9 +181,9 @@
     "service": "General",
     "feature": "AWS Observability now available as a Kiro power",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-observability-kiro-power/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -62,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elemental-inference-generally-avail/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -71,9 +203,9 @@
     "service": "",
     "feature": "Amazon RDS Snapshot Export to S3 now available in AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/rds-exports-s3-available-gov-cloud/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -82,9 +214,9 @@
     "service": "General",
     "feature": "AWS Deadline Cloud now supports running tasks together in chunks",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-deadline-cloud-running-tasks-together-in/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -93,9 +225,9 @@
     "service": "",
     "feature": "Amazon EC2 R7a instances are now available in the Asia Pacific (Hyderabad) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r7a-instances-asia-pacific-hyderabad-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -104,9 +236,9 @@
     "service": "",
     "feature": "Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific (Malaysia) and South America (Sao Paulo) regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-malaysia-south-america-sao--paulo-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -117,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-appconfig-new-relic-for-automated-rollback/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -126,9 +258,9 @@
     "service": "",
     "feature": "Amazon EC2 M8a instances now available in AWS Europe (Frankfurt) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8a-instances-europe-frankfurt/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -137,9 +269,9 @@
     "service": "",
     "feature": "Amazon EC2 I7ie instances now available in AWS Africa (Cape Town) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec-i-ie-instances-available-aws-africa/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -148,9 +280,9 @@
     "service": "",
     "feature": "Amazon EKS Node Monitoring Agent is now open source",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-node-monitoring-agent-open-source/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
     "date": "2026-02-24"
   },
   {
@@ -159,6 +291,39 @@
     "service": "General",
     "feature": "February 24, 2026",
     "link": "https://docs.cloud.google.com/release-notes#February_24_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-02-24"
+  },
+  {
+    "id": "aws-amazon-ec2-c7i-and-c7i-fl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C7i and C7i-flex instances are now available in the Africa (Cape Town) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c7i-c7i-flex-instances-africa-cape-town-regions/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
+    "date": "2026-02-24"
+  },
+  {
+    "id": "aws-aws-waf-announces-ai-acti",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS WAF announces AI activity dashboard for visibility into AI bot and agent traffic",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-ai-activity-dashboard/",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 1,
+    "date": "2026-02-24"
+  },
+  {
+    "id": "azure-microsoft-sovereign-cloud",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
+    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -172,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/trusted-advisor-unused-nat-gateway-check/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-23"
   },
   {
@@ -181,9 +346,9 @@
     "service": "",
     "feature": "Amazon announces generative AI-based artifacts in Amazon Q Developer for visualizing resource and cost data",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/generative-ai-based-Amazon-Q-artifacts/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 2,
     "date": "2026-02-23"
   },
   {
@@ -192,9 +357,9 @@
     "service": "General",
     "feature": "AWS IAM Policy Autopilot is now available as a Kiro Power",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-policy-autopilot-kiro-power/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 2,
     "date": "2026-02-23"
   },
   {
@@ -205,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/elemental-Malaysia/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-23"
   },
   {
@@ -216,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-serverless-three-year-reservations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-23"
   },
   {
@@ -225,8 +390,8 @@
     "service": "",
     "feature": "Amazon S3 Tables are now available in AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-tables-aws-govcloud-us/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.34.0",
     "lag": 2,
     "date": "2026-02-23"
   },
@@ -238,7 +403,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-02-23"
   },
   {
@@ -247,8 +412,19 @@
     "service": "General",
     "feature": "Automated Reasoning policies now include references to the source document",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/automated-reasoning-policies-include-references/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.34.0",
+    "lag": 2,
+    "date": "2026-02-23"
+  },
+  {
+    "id": "aws-amazon-s3-now-provides-aw",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 now provides AWS source region information in server access logs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-source-region-information/",
+    "status": "Supported",
+    "version": "v6.34.0",
     "lag": 1,
     "date": "2026-02-23"
   },
@@ -260,7 +436,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-02-22"
   },
   {
@@ -271,7 +447,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-21"
   },
   {
@@ -293,7 +469,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-20"
   },
   {
@@ -370,7 +546,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-02-19"
   },
   {
@@ -381,7 +557,7 @@
     "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-19"
   },
   {
@@ -601,7 +777,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-02-17"
   },
   {
@@ -887,7 +1063,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-02-12"
   },
   {
@@ -1118,7 +1294,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-02-11"
   },
   {
@@ -1272,7 +1448,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-02-10"
   },
   {
@@ -1338,7 +1514,7 @@
     "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-02-09"
   },
   {
@@ -1987,7 +2163,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-01-31"
   },
   {
@@ -2086,7 +2262,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 27,
     "date": "2026-01-30"
   },
   {
