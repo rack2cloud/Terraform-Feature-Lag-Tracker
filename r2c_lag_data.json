@@ -1,5 +1,126 @@
 [
   {
+    "id": "aws-amazon-ecs-managed-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS Managed Instances now integrates with Amazon EC2 Capacity Reservations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-ec2-capacity-reservations/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "aws-aws-marketplace-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace now supports multiple purchases of SaaS and Professional Services products",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/concurrent-agreements-february/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "aws-amazon-connect-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect now supports dynamic dialing mode switching for outbound campaigns",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-now-pro",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch now provides lock contention diagnostics for Amazon RDS for PostgreSQL",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cloudwatch-lock-contention-diagnostics-rds-postgresql/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "aws-aws-security-hub-launches",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub launches Extended plan for pay-as-you-go partner solutions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "aws-amazon-cognito-enhances-c",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Cognito enhances client secret management with secret rotation and custom secrets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "aws-amazon-ec2-m8i-and-m8i-fl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8i and M8i-flex instances are available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "aws-introducing-amazon-ec2-i8",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing Amazon EC2 I8g.metal-48xl instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-i8g-metal-48xl-generally-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "aws-amazon-sns-now-supports-p",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SNS now supports push notifications in the Europe (Spain) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-sns-push-expansion-spain/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "aws-aws-lambda-durable-execut",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda Durable Execution SDK for Java now available in Developer Preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/lambda-durable-execution-java-preview/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "gcp-february-26--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "February 26, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#February_26_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-02-26"
+  },
+  {
     "id": "aws-aws-outposts-racks-now-su",
     "cloud": "aws",
     "service": "",
@@ -40,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-tortoise-flyway-prisma/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-25"
   },
   {
@@ -51,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-visual-studio-code-sqltools-dbeaver/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-02-25"
   },
   {
@@ -128,6 +249,17 @@
     "link": "https://docs.cloud.google.com/release-notes#February_25_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-02-25"
+  },
+  {
+    "id": "aws-aws-launches-a-playground",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS launches a playground for interactive Aurora DSQL database exploration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-launches-playground/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 1,
     "date": "2026-02-25"
   },
@@ -172,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-compute-optimizer-applies-tags-ebs-snapshots/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-24"
   },
   {
@@ -194,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elemental-inference-generally-avail/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-24"
   },
   {
@@ -249,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-appconfig-new-relic-for-automated-rollback/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-24"
   },
   {
@@ -293,7 +425,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-02-24"
   },
   {
@@ -326,7 +458,7 @@
     "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-02-24"
   },
   {
@@ -403,7 +535,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-02-23"
   },
   {
@@ -436,7 +568,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-22"
   },
   {
@@ -447,7 +579,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-21"
   },
   {
@@ -469,7 +601,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-02-20"
   },
   {
@@ -546,7 +678,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-02-19"
   },
   {
@@ -555,9 +687,9 @@
     "service": "General",
     "feature": "Introducing Budget Bytes: Build powerful AI apps for under $25",
     "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 6,
+    "status": "Supported",
+    "version": "v4.62.0",
+    "lag": 7,
     "date": "2026-02-19"
   },
   {
@@ -777,7 +909,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-02-17"
   },
   {
@@ -1063,7 +1195,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-02-12"
   },
   {
@@ -1294,7 +1426,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-02-11"
   },
   {
@@ -1448,7 +1580,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-02-10"
   },
   {
@@ -1514,7 +1646,7 @@
     "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-02-09"
   },
   {
@@ -2163,7 +2295,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 27,
     "date": "2026-01-31"
   },
   {
@@ -2262,7 +2394,7 @@
     "link": "https://docs.cloud.google.com/release-notes#January_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 27,
+    "lag": 28,
     "date": "2026-01-30"
   },
   {
