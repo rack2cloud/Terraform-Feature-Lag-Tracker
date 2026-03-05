@@ -1,5 +1,82 @@
 [
   {
+    "id": "aws-aws-simplifies-iam-role-c",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS simplifies IAM role creation and setup in service workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-simplifies-iam-role-creation-and-setup/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-04"
+  },
+  {
+    "id": "aws-amazon-sagemaker-hyperpod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker HyperPod now provides comprehensive observability for Restricted Instance Groups",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-observability-rig/",
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 0,
+    "date": "2026-03-04"
+  },
+  {
+    "id": "aws-amazon-lightsail-now-offe",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Lightsail now offers OpenClaw, a private self-hosted AI assistant",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-lightsail-openclaw/",
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 0,
+    "date": "2026-03-04"
+  },
+  {
+    "id": "aws-amazon-opensearch-ingesti",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-supports-amazon-managed-service-prometheus-sink",
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 0,
+    "date": "2026-03-04"
+  },
+  {
+    "id": "aws-amazon-opensearch-ingesti",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Ingestion now supports unified ingestion endpoint for OpenTelemetry data",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-unified-ingestion-endpoint-opentelemetry",
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 0,
+    "date": "2026-03-04"
+  },
+  {
+    "id": "aws-amazon-gamelift-servers-l",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GameLift Servers launches DDoS Protection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-ddos-protection/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-04"
+  },
+  {
+    "id": "gcp-march-04--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 04, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_04_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-04"
+  },
+  {
     "id": "aws-amazon-sagemaker-unified-",
     "cloud": "aws",
     "service": "",
@@ -7,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-3p-catalogs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-03"
   },
   {
@@ -16,8 +93,8 @@
     "service": "",
     "feature": "Amazon SageMaker Unified Studio now supports AWS Glue 5.1 for data processing jobs",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-aws-glue-5-1/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.35.0",
     "lag": 0,
     "date": "2026-03-03"
   },
@@ -27,9 +104,9 @@
     "service": "",
     "feature": "Amazon SageMaker Unified Studio launches support for remote connection from Kiro IDE",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-kiro-ide/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 1,
     "date": "2026-03-03"
   },
   {
@@ -38,9 +115,9 @@
     "service": "",
     "feature": "Policy in Amazon Bedrock AgentCore is now generally available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/policy-amazon-bedrock-agentcore-generally-available/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 1,
     "date": "2026-03-03"
   },
   {
@@ -49,6 +126,17 @@
     "service": "General",
     "feature": "March 03, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_03_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-03-03"
+  },
+  {
+    "id": "azure-unlocking-document-unders",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Unlocking document understanding with Mistral Document AI in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -60,9 +148,9 @@
     "service": "General",
     "feature": "AWS Config now supports 30 new resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-config-new-resource-types/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 2,
     "date": "2026-03-02"
   },
   {
@@ -73,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-configurable-scale-down-delay/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-02"
   },
   {
@@ -88,6 +176,17 @@
     "date": "2026-03-02"
   },
   {
+    "id": "azure-instant-access-incrementa",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Instant access incremental snapshots: Restore without waiting",
+    "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-03-02"
+  },
+  {
     "id": "aws-aws-announces-pricing-for",
     "cloud": "aws",
     "service": "General",
@@ -95,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/vpc-encryption-controls-pricing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-01"
   },
   {
@@ -117,7 +216,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-28"
   },
   {
@@ -128,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-medialive-introduces-srt-listener/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-28"
   },
   {
@@ -139,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/wordpress-blueprint-lightsail/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-27"
   },
   {
@@ -148,8 +247,8 @@
     "service": "General",
     "feature": "EC2 Image Builder enhances lifecycle policies with wildcard support and simplified IAM",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-image-builder-lifecycle-enhancements/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.35.0",
     "lag": 4,
     "date": "2026-02-27"
   },
@@ -159,8 +258,8 @@
     "service": "General",
     "feature": "ARC Region switch adds three new capabilities: post-recovery workflows, RDS orchestration and AWS provider support for Terraform",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/arc-region-switch-post-recovery-rdsblock/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.35.0",
     "lag": 4,
     "date": "2026-02-27"
   },
@@ -170,9 +269,9 @@
     "service": "",
     "feature": "AWS Network Firewall now supports firewall state change notifications through Amazon EventBridge",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/firewall-state-change-notifications/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 5,
     "date": "2026-02-27"
   },
   {
@@ -183,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-batch-inference-supports-converse-api-format/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-27"
   },
   {
@@ -192,9 +291,9 @@
     "service": "",
     "feature": "Amazon CloudWatch logs centralization rules now support customizable destination log group structure",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/cloudwatch-centralization-custom-groups/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 5,
     "date": "2026-02-27"
   },
   {
@@ -203,9 +302,9 @@
     "service": "General",
     "feature": "AWS Resource Access Manager now supports maintaining shares when accounts change organizations",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-resource-access-manager/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 5,
     "date": "2026-02-27"
   },
   {
@@ -216,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/aws-supports-bacs-direct-debit-payment-method/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-02-27"
   },
   {
@@ -225,9 +324,9 @@
     "service": "",
     "feature": "Amazon OpenSearch Service adds new insights for improved cluster stability",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-adds-new-insights-improved-cluster-stability/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 5,
     "date": "2026-02-27"
   },
   {
@@ -236,8 +335,8 @@
     "service": "General",
     "feature": "Oracle Database@AWS is now available in the Dublin AWS Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/oracle-database-aws-available-dublin-aws-region/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.35.0",
     "lag": 5,
     "date": "2026-02-27"
   },
@@ -247,8 +346,8 @@
     "service": "",
     "feature": "Amazon RDS for PostgreSQL supports minor versions 18.3, 17.9, 16.13, 15.17, and 14.22",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-3-17-9-16-13-15-17-14-22/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.35.0",
     "lag": 5,
     "date": "2026-02-27"
   },
@@ -271,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-ipv6-asia-pacific-govcloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-27"
   },
   {
@@ -282,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-ec2-capacity-reservations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-26"
   },
   {
@@ -304,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-26"
   },
   {
@@ -313,9 +412,9 @@
     "service": "",
     "feature": "Amazon CloudWatch now provides lock contention diagnostics for Amazon RDS for PostgreSQL",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cloudwatch-lock-contention-diagnostics-rds-postgresql/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 6,
     "date": "2026-02-26"
   },
   {
@@ -326,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-26"
   },
   {
@@ -335,9 +434,9 @@
     "service": "",
     "feature": "Amazon Cognito enhances client secret management with secret rotation and custom secrets",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 6,
     "date": "2026-02-26"
   },
   {
@@ -403,7 +502,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-projects-api-mantle-inference-engine/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-26"
   },
   {
@@ -414,7 +513,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/concurrent-agreements-february/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-26"
   },
   {
@@ -423,8 +522,8 @@
     "service": "",
     "feature": "Amazon SageMaker HyperPod now supports API-driven Slurm configuration",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-sagemaker-hyperpod-slurm/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.35.0",
     "lag": 5,
     "date": "2026-02-26"
   },
@@ -434,9 +533,9 @@
     "service": "General",
     "feature": "Application Performance Monitoring Enabled by Default in CloudWatch Observability EKS Add-on",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/application-performance-monitoring-cloudwatch-eks/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 6,
     "date": "2026-02-26"
   },
   {
@@ -777,7 +876,7 @@
     "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-02-24"
   },
   {
@@ -1228,7 +1327,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-02-17"
   },
   {
@@ -1514,7 +1613,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-02-12"
   },
   {
@@ -1745,7 +1844,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-02-11"
   },
   {
@@ -1899,7 +1998,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-02-10"
   },
   {
@@ -1965,7 +2064,7 @@
     "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-02-09"
   },
   {
