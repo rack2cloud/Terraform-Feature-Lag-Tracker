@@ -1,5 +1,115 @@
 [
   {
+    "id": "aws-multi-party-approval-now-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Multi-party approval now supports approval team baselining",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/multi-party-approval-team-baselining/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-database-savings-plans-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Database Savings Plans now supports Amazon OpenSearch Service and Amazon Neptune Analytics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/dbsp-opensearch-service-neptune-analytics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-aws-elastic-beanstalk-now",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elastic Beanstalk now offers AI-powered environment analysis",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-ai-analysis/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-aws-shield-network-securi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Shield network security director findings are now available in AWS Security Hub",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/network-security-director-findings/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-amazon-ec2-i8ge-instances",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 I8ge instances now generally available in Europe (Ireland) AWS region.",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-I8ge-expansion-ireland/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service introduces capacity optimized blue/green deployments",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-bg/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-introducing-amazon-connec",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing Amazon Connect Health, Agentic AI Built for Healthcare",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-health-agentic-ai-healthcare/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-aws-healthlake-announces-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS HealthLake announces data transformation agent for automated CCDA-to-FHIR data conversion (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthlake-data-transformation-agent/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-accelerate-lambda-durable",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Accelerate Lambda durable functions development with new Kiro power",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-durable-kiro-power/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "gcp-march-05--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 05, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-05"
+  },
+  {
     "id": "aws-aws-simplifies-iam-role-c",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-simplifies-iam-role-creation-and-setup/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-04"
   },
   {
@@ -62,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-ddos-protection/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-04"
   },
   {
@@ -71,6 +181,17 @@
     "service": "General",
     "feature": "March 04, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_04_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-03-04"
+  },
+  {
+    "id": "aws-amazon-ec2-m8g-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8g instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8g-instances-africa-cape-town-asia-pacific-malaysia-europe-milan-zurich-canada-west-calgary-regions",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -84,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-3p-catalogs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-03"
   },
   {
@@ -128,7 +249,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-03"
   },
   {
@@ -139,7 +260,7 @@
     "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-03"
   },
   {
@@ -161,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-configurable-scale-down-delay/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-02"
   },
   {
@@ -183,7 +304,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-02"
   },
   {
@@ -194,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/vpc-encryption-controls-pricing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-01"
   },
   {
@@ -216,7 +337,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-28"
   },
   {
@@ -227,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-medialive-introduces-srt-listener/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-28"
   },
   {
@@ -238,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/wordpress-blueprint-lightsail/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-27"
   },
   {
@@ -282,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-batch-inference-supports-converse-api-format/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-27"
   },
   {
@@ -315,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/aws-supports-bacs-direct-debit-payment-method/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-02-27"
   },
   {
@@ -876,7 +997,7 @@
     "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-02-24"
   },
   {
@@ -1325,9 +1446,9 @@
     "service": "",
     "feature": "Azure reliability, resiliency, and recoverability: Build continuity by design",
     "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 15,
+    "status": "Supported",
+    "version": "v4.63.0",
+    "lag": 16,
     "date": "2026-02-17"
   },
   {
@@ -1613,7 +1734,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-02-12"
   },
   {
@@ -1844,7 +1965,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-02-11"
   },
   {
@@ -1998,7 +2119,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-02-10"
   },
   {
@@ -2064,7 +2185,7 @@
     "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-02-09"
   },
   {
