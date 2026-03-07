@@ -1,5 +1,49 @@
 [
   {
+    "id": "aws-amazon-redshift-introduce",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift introduces reusable templates for COPY operations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-reusable-templates-copy/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-06"
+  },
+  {
+    "id": "aws-amazon-redshift-introduce",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift introduces new array functions for semi-structured data processing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-nine-new-array-functions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-06"
+  },
+  {
+    "id": "aws-amazon-ec2-r8g-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8g instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8g-instances-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-06"
+  },
+  {
+    "id": "gcp-march-06--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 06, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_06_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-06"
+  },
+  {
     "id": "aws-multi-party-approval-now-",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +51,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/multi-party-approval-team-baselining/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-05"
   },
   {
@@ -18,7 +62,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/dbsp-opensearch-service-neptune-analytics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-05"
   },
   {
@@ -29,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-ai-analysis/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-05"
   },
   {
@@ -40,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/network-security-director-findings/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-05"
   },
   {
@@ -51,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-I8ge-expansion-ireland/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-05"
   },
   {
@@ -62,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-bg/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-05"
   },
   {
@@ -73,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-health-agentic-ai-healthcare/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-05"
   },
   {
@@ -84,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthlake-data-transformation-agent/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-05"
   },
   {
@@ -95,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-durable-kiro-power/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-05"
   },
   {
@@ -104,6 +148,28 @@
     "service": "General",
     "feature": "March 05, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-amazon-redshift-serverles",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift Serverless now maintains datashare permissions during restore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-serverless-maintains-datashare-permissions-on-restore/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio adds light mode support for IAM-based domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-light-mode/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -117,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-simplifies-iam-role-creation-and-setup/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-04"
   },
   {
@@ -172,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-ddos-protection/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-04"
   },
   {
@@ -183,7 +249,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-04"
   },
   {
@@ -194,6 +260,28 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8g-instances-africa-cape-town-asia-pacific-malaysia-europe-milan-zurich-canada-west-calgary-regions",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-03-04"
+  },
+  {
+    "id": "aws-amazon-eventbridge-schedu",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EventBridge Scheduler now provides a higher default quota for the CreateSchedule API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/2/eventbridge-default-quota-increase/",
+    "status": "Supported",
+    "version": "v6.35.0",
+    "lag": 0,
+    "date": "2026-03-04"
+  },
+  {
+    "id": "azure-azure-iaas-series--explor",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+    "status": "Supported",
+    "version": "v4.63.0",
     "lag": 1,
     "date": "2026-03-04"
   },
@@ -205,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-3p-catalogs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-03"
   },
   {
@@ -249,7 +337,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-03"
   },
   {
@@ -260,7 +348,7 @@
     "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-03"
   },
   {
@@ -282,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-configurable-scale-down-delay/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-02"
   },
   {
@@ -304,7 +392,18 @@
     "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
+    "date": "2026-03-02"
+  },
+  {
+    "id": "aws-opensearch-or2-and-om2-in",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "OpenSearch OR2 and OM2 instances in AWS GovCloud (US-East, US-West) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-or2-om2-us-gov-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
     "date": "2026-03-02"
   },
   {
@@ -315,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/vpc-encryption-controls-pricing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-01"
   },
   {
@@ -337,7 +436,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-02-28"
   },
   {
@@ -348,7 +447,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-medialive-introduces-srt-listener/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-02-28"
   },
   {
@@ -359,7 +458,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/wordpress-blueprint-lightsail/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-02-27"
   },
   {
@@ -997,7 +1096,7 @@
     "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-02-24"
   },
   {
@@ -1734,7 +1833,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-02-12"
   },
   {
@@ -1965,7 +2064,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-02-11"
   },
   {
@@ -2119,7 +2218,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-02-10"
   },
   {
