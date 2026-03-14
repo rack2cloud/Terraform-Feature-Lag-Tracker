@@ -1,5 +1,104 @@
 [
   {
+    "id": "aws-amazon-cloudwatch-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Application Signals adds new SLO capabilities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-application-signals-adds-slo-capabilities/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "aws-accelerate-serverless-app",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Accelerate serverless application development with new SAM Kiro power",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-sam-kiro-power/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "aws-amazon-ec2-r8a-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8a instances are now available in Asia Pacific (Tokyo) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-tokyo/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "aws-amazon-ec2-m8azn-instance",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8azn instances are now available in US East (Ohio) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8azn-instances-ohio/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "aws-amazon-msk-announces-supp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK announces support for Standard brokers Graviton-3 instance in Africa (Cape Town) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-msk-standardm7g-cpt-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "aws-aws-network-firewall-laun",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Network Firewall Launch in the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/network-firewall-european-sovereign-cloud-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "aws-amazon-ec2-hpc8a-instance",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 Hpc8a instances are now available in Asia Pacific (Tokyo) and AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-hpc8a-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "aws-aws-lambda-managed-instan",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda Managed Instances now supports Rust",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-lambda-managed-instances-rust/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "gcp-march-13--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 13, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-13"
+  },
+  {
     "id": "aws-opensearch-ui-supports-cr",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-ui-cross-account-data-access-domains/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -18,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-deployments-tab/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -29,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-connector-scep-privatelink/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -40,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-cdk-mixins/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -51,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-memory-streaming-ltm/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -62,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8i-m8i-flex-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -73,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-glue-zetl-dynamodb-configurations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -84,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-workspaces-windows-server-2025/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -95,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-account-regional-namespaces/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -106,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-logically-air-gapped-vault-amazon-eks/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-12"
   },
   {
@@ -115,6 +214,17 @@
     "service": "General",
     "feature": "March 12, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_12_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-03-12"
+  },
+  {
+    "id": "aws-new-lza-mcp-server-for-ai",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "New LZA MCP Server for AI-assisted configuration management",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/new-lza-mcp-server-ai-assisted/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -128,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-high-memory-u7i-instances/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-11"
   },
   {
@@ -139,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-neptune-hyderabad/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-11"
   },
   {
@@ -249,6 +359,17 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 3,
+    "date": "2026-03-11"
+  },
+  {
+    "id": "aws-aws-firewall-manager-laun",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Firewall Manager launches in AWS Asia Pacific (New Zealand) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-asia-pacific-new-zealand/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 2,
     "date": "2026-03-11"
   },
@@ -293,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-predictive-insights/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-10"
   },
   {
@@ -337,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-10"
   },
   {
@@ -403,7 +524,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-09"
   },
   {
@@ -447,7 +568,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-08"
   },
   {
@@ -502,7 +623,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-03-06"
   },
   {
@@ -513,7 +634,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-03-06"
   },
   {
@@ -623,7 +744,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-03-05"
   },
   {
@@ -821,7 +942,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-03-03"
   },
   {
@@ -832,7 +953,7 @@
     "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-03-03"
   },
   {
@@ -876,7 +997,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-03-02"
   },
   {
@@ -1580,7 +1701,7 @@
     "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-02-24"
   },
   {
@@ -2306,7 +2427,7 @@
     "link": "https://docs.cloud.google.com/release-notes#February_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 29,
+    "lag": 30,
     "date": "2026-02-12"
   },
   {
