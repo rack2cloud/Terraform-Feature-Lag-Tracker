@@ -5,9 +5,152 @@
     "service": "",
     "feature": "Amazon Connect expands agentic speech-to-speech voice experiences to the London (Europe) region and adds three new voices",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-london-europe-region/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-minimax-m2-5-and-glm-5-mo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Minimax M2.5 and GLM 5 models now available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-minimax-glm/",
     "status": "Not Supported",
     "version": "--",
     "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-amazon-ec2-high-memory-u7",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 High Memory U7i-6TB instances now available in Asia Pacific (Malaysia)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-high-memory-u7i-6tb-asia-pacific/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-nvidia-nemotron-3-super-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "NVIDIA Nemotron 3 Super now available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-nemotron-3-super/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-amazon-ecr-now-supports-p",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECR now supports pull through cache for Chainguard",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecr-pull-through-cache-chainguard/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-amazon-s3-access-grants-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Access Grants are now available in the AWS Asia Pacific (New Zealand) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-access-grants-new-zealand/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-amazon-ec2-m6in-and-m6idn",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M6in and M6idn instances are now available in Europe (London) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m6in-m6idn-instances-london/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-amazon-ec2-c8a-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C8a instances now available in the Asia Pacific (Tokyo) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-asia-pacific-tokyo-regions/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-amazon-inspector-expands-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Inspector expands agentless EC2 scanning and introduces Windows KB-based findings",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-inspector-agentless-ec2-scanning-windows/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-aws-config-launches-75-ne",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Config launches 75 new managed rules",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-launches-new-rules/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-amazon-redshift-increases",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift increases performance for new queries in dashboards and ETL workloads by up to 7x",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-increases-performance-for-new-queries/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio adds custom metadata filters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-smus-custom-metadata-search/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service now supports OpenSearch version 3.5",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-version-3-5/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "gcp-march-18--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 18, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_18_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-03-18"
   },
   {
@@ -16,8 +159,8 @@
     "service": "",
     "feature": "Amazon Connect voice AI agents now supports 13 new languages",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-voice-ai-agents-13-languages/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.37.0",
     "lag": 0,
     "date": "2026-03-17"
   },
@@ -26,9 +169,9 @@
     "cloud": "aws",
     "service": "",
     "feature": "Amazon SageMaker Unified Studio supports aggregated view of data lineage",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sageMaker-unified-studio-aggregated-view -data-lineage/",
-    "status": "Not Supported",
-    "version": "--",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-aggregated-lineage/",
+    "status": "Supported",
+    "version": "v6.37.0",
     "lag": 0,
     "date": "2026-03-17"
   },
@@ -40,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-training-plan-extension/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-17"
   },
   {
@@ -49,9 +192,9 @@
     "service": "General",
     "feature": "AWS Blu Insights is now AWS Transform for mainframe refactor",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-transform-mainframe-refactor/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 1,
     "date": "2026-03-17"
   },
   {
@@ -60,9 +203,9 @@
     "service": "",
     "feature": "Amazon MSK expands Express brokers to Africa (Cape Town) and Asia Pacific (Taipei) regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-msk-express-2-new-aws-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 1,
     "date": "2026-03-17"
   },
   {
@@ -71,9 +214,9 @@
     "service": "",
     "feature": "Amazon Bedrock AgentCore Runtime now supports shell command execution",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-shell-command/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 1,
     "date": "2026-03-17"
   },
   {
@@ -82,9 +225,9 @@
     "service": "",
     "feature": "Amazon Corretto 26 is now generally available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-corretto-26-generally-available/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 1,
     "date": "2026-03-17"
   },
   {
@@ -93,8 +236,8 @@
     "service": "",
     "feature": "Amazon RDS enhancements for SQL Server Developer Edition",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-enhancements-for-sql-server-developer-edition/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.37.0",
     "lag": 1,
     "date": "2026-03-17"
   },
@@ -104,8 +247,8 @@
     "service": "",
     "feature": "Simplified permissions for Amazon S3 Tables and Iceberg materialized views",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/gdc-simplified-permissions-s3tables-iceberg-views/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.37.0",
     "lag": 1,
     "date": "2026-03-17"
   },
@@ -115,8 +258,8 @@
     "service": "",
     "feature": "Amazon Bedrock is now available in Asia Pacific (New Zealand)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-asia-pacific-new-zealand/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.37.0",
     "lag": 1,
     "date": "2026-03-17"
   },
@@ -132,13 +275,46 @@
     "date": "2026-03-17"
   },
   {
+    "id": "aws-aws-elemental-mediaconnec",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental MediaConnect adds support for NDI\u00ae inputs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/mediaconnect-ndi-inputs/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-17"
+  },
+  {
+    "id": "aws-aws-security-agent-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Agent now supports downloading penetration testing reports",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-generates-customizable/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-17"
+  },
+  {
+    "id": "aws-amazon-connect-adds-new-g",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect adds new generative text-to-speech voices and expands to new regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-adds-generative-text-to-speech-voices/",
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 0,
+    "date": "2026-03-17"
+  },
+  {
     "id": "aws-amazon-cloudwatch-introdu",
     "cloud": "aws",
     "service": "",
     "feature": "Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-org-enablement-ec2-metrics/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.37.0",
     "lag": 1,
     "date": "2026-03-16"
   },
@@ -148,8 +324,8 @@
     "service": "",
     "feature": "Amazon CloudWatch Logs now supports log ingestion using HTTP-based protocol",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-http-log-collector/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.37.0",
     "lag": 1,
     "date": "2026-03-16"
   },
@@ -159,9 +335,9 @@
     "service": "General",
     "feature": "SageMaker HyperPod now supports idle resource sharing for dynamic cluster utilization",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-hyperpod-idle-resource-sharing/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 2,
     "date": "2026-03-16"
   },
   {
@@ -170,9 +346,9 @@
     "service": "",
     "feature": "Amazon Neptune now supports reading S3 data using openCyper",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/neptune-read-s3-opencypher/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 2,
     "date": "2026-03-16"
   },
   {
@@ -181,9 +357,9 @@
     "service": "",
     "feature": "Amazon Timestream for InfluxDB 3 Now Supports Expanded Multi-Node Cluster Configurations",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-3-multi-node-cluster/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 2,
     "date": "2026-03-16"
   },
   {
@@ -192,9 +368,9 @@
     "service": "General",
     "feature": "Announcing AWS Partner Central agents to accelerate co-sell",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-partner-central-agents-accelerate-co-sell/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 2,
     "date": "2026-03-16"
   },
   {
@@ -203,9 +379,9 @@
     "service": "",
     "feature": "Amazon SimpleDB now supports exporting domain data to Amazon S3",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-simpledb-domain-export-to-amazon-s3/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 2,
     "date": "2026-03-16"
   },
   {
@@ -214,9 +390,9 @@
     "service": "",
     "feature": "Amazon Connect now enables agents to forward email contacts to external email addresses",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-forward-email-contacts/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.37.0",
+    "lag": 2,
     "date": "2026-03-16"
   },
   {
@@ -238,7 +414,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-15"
   },
   {
@@ -249,7 +425,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-14"
   },
   {
@@ -348,7 +524,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-13"
   },
   {
@@ -360,6 +536,17 @@
     "status": "Not Supported",
     "version": "--",
     "lag": 4,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "aws-aws-security-agent-now-av",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Agent now available with Service Quotas",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-available-with-service/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 5,
     "date": "2026-03-13"
   },
   {
@@ -480,7 +667,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-03-12"
   },
   {
@@ -623,7 +810,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-03-11"
   },
   {
@@ -755,7 +942,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-03-10"
   },
   {
@@ -821,7 +1008,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-03-09"
   },
   {
@@ -865,7 +1052,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-03-08"
   },
   {
@@ -920,7 +1107,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-03-06"
   },
   {
@@ -931,7 +1118,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-03-06"
   },
   {
@@ -1041,7 +1228,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-03-05"
   },
   {
@@ -1250,7 +1437,7 @@
     "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-03-03"
   },
   {
@@ -1294,7 +1481,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-03-02"
   },
   {
@@ -1998,7 +2185,7 @@
     "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-02-24"
   },
   {
