@@ -1,5 +1,82 @@
 [
   {
+    "id": "aws-amazon-ec2-c8gn-instances",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C8gn instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-c8gn-instances-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "aws-amazon-ec2-fleet-now-supp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 Fleet now supports interruptible Capacity Reservations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-fleet-interruptible-capacity-reservations/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "aws-aws-adds-support-for-nixl",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS adds support for NIXL with EFA to accelerate LLM inference at scale",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-support-nixl-with-efa/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "aws-amazon-redshift-supports-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift supports federated permissions with IAM Identity Center in multiple AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/redshift-federated-permissions-idc-mrr/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "aws-aws-lambda-now-supports-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda now supports Availability Zone metadata",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-availability-zone-metadata/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "aws-aws-direct-connect-announ",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Direct Connect announces new location in Sydney, Australia",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-sydney-sy5/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "aws-amazon-rds-custom-for-sql",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS Custom for SQL Server adds ability to view and schedule new operating system updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-custom-sql-server-operating-system-updates/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-19"
+  },
+  {
     "id": "aws-amazon-connect-expands-ag",
     "cloud": "aws",
     "service": "",
@@ -18,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-minimax-glm/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-18"
   },
   {
@@ -51,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecr-pull-through-cache-chainguard/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-18"
   },
   {
@@ -95,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-inspector-agentless-ec2-scanning-windows/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-18"
   },
   {
@@ -150,6 +227,28 @@
     "link": "https://docs.cloud.google.com/release-notes#March_18_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "azure-advancing-agentic-ai-with",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Advancing agentic AI with Microsoft databases across a unified data estate",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "azure-fabcon-and-sqlcon-2026--u",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform",
+    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
+    "status": "Supported",
+    "version": "v4.65.0",
     "lag": 1,
     "date": "2026-03-18"
   },
@@ -183,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-training-plan-extension/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-17"
   },
   {
@@ -407,6 +506,28 @@
     "date": "2026-03-16"
   },
   {
+    "id": "azure-microsoft-at-nvidia-gtc--",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
+    "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
+    "status": "Supported",
+    "version": "v4.65.0",
+    "lag": 2,
+    "date": "2026-03-16"
+  },
+  {
+    "id": "azure-from-legacy-to-leadership",
+    "cloud": "azure",
+    "service": "",
+    "feature": "From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation",
+    "link": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
+    "status": "Supported",
+    "version": "v4.65.0",
+    "lag": 3,
+    "date": "2026-03-16"
+  },
+  {
     "id": "gcp-march-15--2026",
     "cloud": "gcp",
     "service": "General",
@@ -414,7 +535,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-15"
   },
   {
@@ -425,7 +546,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-14"
   },
   {
@@ -524,7 +645,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-03-13"
   },
   {
@@ -667,7 +788,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-03-12"
   },
   {
@@ -810,7 +931,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-03-11"
   },
   {
@@ -832,7 +953,7 @@
     "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 8,
     "date": "2026-03-11"
   },
   {
@@ -843,7 +964,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 8,
     "date": "2026-03-11"
   },
   {
@@ -854,7 +975,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 9,
     "date": "2026-03-11"
   },
   {
@@ -942,7 +1063,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-03-10"
   },
   {
@@ -1008,7 +1129,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-03-09"
   },
   {
@@ -1041,7 +1162,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 10,
     "date": "2026-03-09"
   },
   {
@@ -1052,7 +1173,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-03-08"
   },
   {
@@ -1107,7 +1228,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-03-06"
   },
   {
@@ -1118,7 +1239,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-03-06"
   },
   {
@@ -1228,7 +1349,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-03-05"
   },
   {
@@ -3341,17 +3462,6 @@
     "status": "Supported",
     "version": "v7.20.0",
     "lag": 8,
-    "date": "2026-02-09"
-  },
-  {
-    "id": "aws-amazon-ec2-c8gn-instances",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 C8gn instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8gn-instances-additional-regions",
-    "status": "Supported",
-    "version": "v6.32.0",
-    "lag": 2,
     "date": "2026-02-09"
   },
   {
