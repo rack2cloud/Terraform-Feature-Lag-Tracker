@@ -1,5 +1,16 @@
 [
   {
+    "id": "gcp-march-24--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 24, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-24"
+  },
+  {
     "id": "aws-aws-healthimaging-is-now-",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +18,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-europe-london/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-23"
   },
   {
@@ -18,7 +29,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-23"
   },
   {
@@ -29,7 +40,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-20"
   },
   {
@@ -40,7 +51,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-webrtc/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-20"
   },
   {
@@ -51,7 +62,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-eks-announces-sla-8xl-scaling-tier/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-20"
   },
   {
@@ -62,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-20"
   },
   {
@@ -73,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-datasync-secrets-manager/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-20"
   },
   {
@@ -84,7 +95,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-20"
   },
   {
@@ -95,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-polly-expands-TTS-new-voices-and-bidirectional-streaming/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-20"
   },
   {
@@ -106,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-c8gn-instances-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-19"
   },
   {
@@ -117,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-fleet-interruptible-capacity-reservations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-19"
   },
   {
@@ -128,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-support-nixl-with-efa/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-19"
   },
   {
@@ -139,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/redshift-federated-permissions-idc-mrr/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-19"
   },
   {
@@ -150,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-availability-zone-metadata/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-19"
   },
   {
@@ -161,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-sydney-sy5/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-19"
   },
   {
@@ -172,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-custom-sql-server-operating-system-updates/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-19"
   },
   {
@@ -181,8 +192,8 @@
     "service": "General",
     "feature": "March 19, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_19_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.25.0",
     "lag": 5,
     "date": "2026-03-19"
   },
@@ -194,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-mcp-server-preview-enhanced-monitoring/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-19"
   },
   {
@@ -216,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-minimax-glm/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-18"
   },
   {
@@ -249,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecr-pull-through-cache-chainguard/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-18"
   },
   {
@@ -293,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-inspector-agentless-ec2-scanning-windows/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-18"
   },
   {
@@ -346,8 +357,8 @@
     "service": "General",
     "feature": "March 18, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_18_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.25.0",
     "lag": 6,
     "date": "2026-03-18"
   },
@@ -359,7 +370,7 @@
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 6,
     "date": "2026-03-18"
   },
   {
@@ -403,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-training-plan-extension/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-03-17"
   },
   {
@@ -654,8 +665,8 @@
     "service": "General",
     "feature": "March 15, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_15_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.25.0",
     "lag": 9,
     "date": "2026-03-15"
   },
@@ -665,8 +676,8 @@
     "service": "General",
     "feature": "March 14, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_14_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.25.0",
     "lag": 10,
     "date": "2026-03-14"
   },
@@ -766,7 +777,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-03-13"
   },
   {
@@ -907,8 +918,8 @@
     "service": "General",
     "feature": "March 12, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_12_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.25.0",
     "lag": 12,
     "date": "2026-03-12"
   },
@@ -1052,7 +1063,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-03-11"
   },
   {
@@ -1063,7 +1074,7 @@
     "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-03-11"
   },
   {
@@ -1074,7 +1085,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-03-11"
   },
   {
@@ -1085,7 +1096,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-03-11"
   },
   {
@@ -1171,8 +1182,8 @@
     "service": "General",
     "feature": "March 10, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_10_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.25.0",
     "lag": 14,
     "date": "2026-03-10"
   },
@@ -1239,7 +1250,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-03-09"
   },
   {
@@ -1272,7 +1283,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-03-09"
   },
   {
@@ -1283,7 +1294,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-03-08"
   },
   {
@@ -1336,8 +1347,8 @@
     "service": "General",
     "feature": "March 06, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_06_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.25.0",
     "lag": 18,
     "date": "2026-03-06"
   },
@@ -1349,7 +1360,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-03-06"
   },
   {
@@ -1459,7 +1470,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-03-05"
   },
   {
