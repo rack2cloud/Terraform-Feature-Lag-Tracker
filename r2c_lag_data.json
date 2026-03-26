@@ -1,5 +1,214 @@
 [
   {
+    "id": "aws-aws-firewall-manager-laun",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Firewall Manager launches in AWS Asia Pacific (New Zealand) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-ec2-i7ie-instances",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 I7ie instances now available in additional AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-i7ie-instances-additional-aws-regions/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-accelerate-ai-assisted-de",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Accelerate AI-assisted development with Agent Plugin for AWS Serverless",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/agent-plugin-aws-serverless/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-aws-batch-now-provides-am",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Batch now provides AMI status and supports AWS Health Planned Lifecycle Events",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-ami-status-aws-health/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio launches support for remote connection from Cursor IDE",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-cursor-ide/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-browser-policies-root-ca/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-aws-batch-now-supports-qu",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Batch now supports quota management and preemption for SageMaker Training jobs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-quota-management-preemption-sagemaker/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-route-53-profiles-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Route 53 Profiles now supports granular IAM permissions for resource and VPC associations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-profiles-granular-iam/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-quick-now-availabl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick Now Available in the AWS Tokyo Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-tokyo-region/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-aurora-postgresql-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora PostgreSQL now available with the AWS Free Tier",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-aws-free-tier/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-aurora-postgresql-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora PostgreSQL now supports creating and connecting to a database in seconds",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-database/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-quick-now-availabl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick Now Available in the AWS Frankfurt Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-frankfurt-region/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-quick-now-availabl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick Now Available in the AWS London Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-london-region/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI now supports serverless reinforcement fine-tuning for 12 additional models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-ai-serverless-additional-models/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-aws-backup-expands-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup expands support for Amazon DocumentDB to 12 Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-amazon-documentdb-regions/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-aws-transfer-family-as2-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transfer Family AS2 now supports receipts of MDNs asynchronously",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-transfer-family-as2-mdns/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-sagemaker-hyperpod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker HyperPod now supports continuous provisioning for Slurm-orchestrated clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-continuous-provisioning/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Runtime now supports managed session storage for persistent agent filesystem state (preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-session-storage/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "gcp-march-25--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 25, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_25_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-25"
+  },
+  {
     "id": "gcp-march-24--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,6 +216,17 @@
     "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-03-24"
+  },
+  {
+    "id": "aws-amazon-timestream-for-inf",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Timestream for InfluxDB is now available in the Mexico (Central), Japan (Osaka), and Brazil (Sao Paulo) AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-influxdb-mexico-osaka-sao-paulo/",
+    "status": "Supported",
+    "version": "v6.38.0",
     "lag": 1,
     "date": "2026-03-24"
   },
@@ -16,8 +236,8 @@
     "service": "General",
     "feature": "AWS HealthImaging is now available in Europe (London)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-europe-london/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.38.0",
     "lag": 2,
     "date": "2026-03-23"
   },
@@ -29,19 +249,8 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-23"
-  },
-  {
-    "id": "aws-aws-firewall-manager-laun",
-    "cloud": "aws",
-    "service": "General",
-    "feature": "AWS Firewall Manager launches in AWS Asia Pacific (New Zealand) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
-    "date": "2026-03-20"
   },
   {
     "id": "aws-amazon-bedrock-agentcore-",
@@ -49,8 +258,8 @@
     "service": "",
     "feature": "Amazon Bedrock AgentCore Runtime adds WebRTC support for real-time bidirectional streaming",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-webrtc/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.38.0",
     "lag": 4,
     "date": "2026-03-20"
   },
@@ -60,8 +269,8 @@
     "service": "",
     "feature": "Amazon EKS announces 99.99% Service Level Agreement and new 8XL scaling tier for Provisioned Control Plane clusters",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-eks-announces-sla-8xl-scaling-tier/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.38.0",
     "lag": 4,
     "date": "2026-03-20"
   },
@@ -71,8 +280,8 @@
     "service": "",
     "feature": "AWS Neuron announces support for Dynamic Resource Allocation with Amazon EKS",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.38.0",
     "lag": 4,
     "date": "2026-03-20"
   },
@@ -84,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-datasync-secrets-manager/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-20"
   },
   {
@@ -95,7 +304,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-20"
   },
   {
@@ -104,9 +313,9 @@
     "service": "",
     "feature": "Amazon Polly expands Generative TTS engine with 10 new voices, 2 new regions, and Bidirectional Streaming API",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-polly-expands-TTS-new-voices-and-bidirectional-streaming/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 5,
     "date": "2026-03-20"
   },
   {
@@ -115,9 +324,9 @@
     "service": "",
     "feature": "Amazon EC2 C8gn instances are now available in additional regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-c8gn-instances-additional-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 6,
     "date": "2026-03-19"
   },
   {
@@ -128,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-fleet-interruptible-capacity-reservations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-19"
   },
   {
@@ -137,9 +346,9 @@
     "service": "General",
     "feature": "AWS adds support for NIXL with EFA to accelerate LLM inference at scale",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-support-nixl-with-efa/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 6,
     "date": "2026-03-19"
   },
   {
@@ -148,9 +357,9 @@
     "service": "",
     "feature": "Amazon Redshift supports federated permissions with IAM Identity Center in multiple AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/redshift-federated-permissions-idc-mrr/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 6,
     "date": "2026-03-19"
   },
   {
@@ -161,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-availability-zone-metadata/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-19"
   },
   {
@@ -172,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-sydney-sy5/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-19"
   },
   {
@@ -181,8 +390,8 @@
     "service": "",
     "feature": "Amazon RDS Custom for SQL Server adds ability to view and schedule new operating system updates",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-custom-sql-server-operating-system-updates/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.38.0",
     "lag": 6,
     "date": "2026-03-19"
   },
@@ -203,8 +412,8 @@
     "service": "General",
     "feature": "AWS MCP Server (Preview) now with enhanced monitoring and semantic search capability",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-mcp-server-preview-enhanced-monitoring/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.38.0",
     "lag": 5,
     "date": "2026-03-19"
   },
@@ -225,8 +434,8 @@
     "service": "",
     "feature": "Minimax M2.5 and GLM 5 models now available on Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-minimax-glm/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.38.0",
     "lag": 6,
     "date": "2026-03-18"
   },
@@ -370,7 +579,7 @@
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-03-18"
   },
   {
@@ -777,7 +986,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-03-13"
   },
   {
@@ -1063,7 +1272,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-03-11"
   },
   {
@@ -1074,7 +1283,7 @@
     "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-03-11"
   },
   {
@@ -1085,7 +1294,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-03-11"
   },
   {
@@ -1096,7 +1305,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-03-11"
   },
   {
@@ -1250,7 +1459,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-03-09"
   },
   {
@@ -1283,7 +1492,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-03-09"
   },
   {
@@ -1294,7 +1503,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-03-08"
   },
   {
@@ -1360,7 +1569,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-03-06"
   },
   {
@@ -1470,7 +1679,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-03-05"
   },
   {
@@ -5813,17 +6022,6 @@
     "service": "",
     "feature": "Announcing Apache Airflow 2.11 Support in Amazon Managed Workflows for Apache Airflow",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/apache-airflow-2-11-support-amazon-managed-workflows/",
-    "status": "Supported",
-    "version": "v6.28.0",
-    "lag": 0,
-    "date": "2026-01-07"
-  },
-  {
-    "id": "aws-amazon-ec2-i7ie-instances",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 I7ie instances now available in additional AWS regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-i7ie-instances-additional-aws-regions/",
     "status": "Supported",
     "version": "v6.28.0",
     "lag": 0,
