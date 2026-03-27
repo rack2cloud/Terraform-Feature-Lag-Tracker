@@ -1,5 +1,137 @@
 [
   {
+    "id": "aws-amazon-ec2-high-memory-u7",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 High Memory U7i instances now available in Europe (Milan)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-u7i-europe-milan/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-amazon-sagemaker-studio-l",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Studio launches support for Kiro and Cursor IDEs as remote IDEs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-studio-kiro-cursor/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-amazon-ecs-managed-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS Managed Instances now supports FIPS-certified workloads on Graviton and GPU accelerated instances in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-supports-fips-graviron-gpu/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-aurora-dsql-launches-conn",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Aurora DSQL launches connector that simplifies building Ruby applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-connector-for-ruby/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-aws-lambda-increases-the-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda increases the file descriptor limit to 4,096 for functions running on Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-Lambda-file-descriptors-increase-4096/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-aws-appconfig-adds-enhanc",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS AppConfig adds enhanced targeting during feature flag rollout",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/appconfig-enhanced-targeting-feature-flag-rollout/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-the-aws-advanced-jdbc-wra",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "The AWS Advanced JDBC Wrapper now supports automatic query caching with Valkey",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-jdbc-caching-with-valkey/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-amazon-ec2-r8gd-instances",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8gd instances are now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8gd-aws-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-amazon-ec2-m8a-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8a instances now available in AWS Europe (Ireland) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-europe-ireland-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-amazon-ec2-m8a-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8a instances now available in AWS GovCloud (US-West) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-govcloud-us-west-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "aws-aws-storage-gateway-terra",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Storage Gateway Terraform modules now support Amazon Linux 2023",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/storage-gateway-terraform-al2023/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-26"
+  },
+  {
+    "id": "gcp-march-26--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 26, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_26_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-26"
+  },
+  {
     "id": "aws-aws-firewall-manager-laun",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-25"
   },
   {
@@ -29,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/agent-plugin-aws-serverless/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-25"
   },
   {
@@ -40,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-ami-status-aws-health/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-25"
   },
   {
@@ -73,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-quota-management-preemption-sagemaker/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-25"
   },
   {
@@ -172,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-transfer-family-as2-mdns/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-25"
   },
   {
@@ -205,7 +337,18 @@
     "link": "https://docs.cloud.google.com/release-notes#March_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "aws-aws-parallelcluster-3-15-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS ParallelCluster 3.15 with support for P6-B300 and Slurm 25.11",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-parallelcluster-p6-b300-slurm/",
+    "status": "Supported",
+    "version": "v6.38.0",
+    "lag": 0,
     "date": "2026-03-25"
   },
   {
@@ -216,7 +359,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-24"
   },
   {
@@ -228,6 +371,17 @@
     "status": "Supported",
     "version": "v6.38.0",
     "lag": 1,
+    "date": "2026-03-24"
+  },
+  {
+    "id": "aws-aws-healthomics-introduce",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS HealthOmics introduces batch run operations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthomics-introduces-batch-run/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
     "date": "2026-03-24"
   },
   {
@@ -249,7 +403,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-23"
   },
   {
@@ -304,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-03-20"
   },
   {
@@ -986,7 +1140,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-03-13"
   },
   {
@@ -1272,7 +1426,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-03-11"
   },
   {
@@ -1283,7 +1437,7 @@
     "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-03-11"
   },
   {
@@ -1294,7 +1448,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-03-11"
   },
   {
@@ -1305,7 +1459,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-03-11"
   },
   {
@@ -1459,7 +1613,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-03-09"
   },
   {
@@ -1492,7 +1646,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-03-09"
   },
   {
@@ -1503,7 +1657,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-03-08"
   },
   {
@@ -1569,7 +1723,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-03-06"
   },
   {
@@ -1679,7 +1833,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-03-05"
   },
   {
@@ -1888,7 +2042,7 @@
     "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 23,
     "date": "2026-03-03"
   },
   {
