@@ -1,5 +1,104 @@
 [
   {
+    "id": "aws-amazon-cloudwatch-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch now supports multi-account and region log centralization based on data source",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-centralization-datasource/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "aws-aws-security-hub-is-now-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub is now available in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-hub-govcloud-us-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "aws-aws-healthomics-introduce",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS HealthOmics introduces VPC-connected workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthomics-vpc-connected-workflows/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "aws-aws-elemental-mediatailor",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental MediaTailor now available in Europe (London)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-elemental-mediatailor-london-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "aws-amazon-athena-launches-ca",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Athena launches Capacity Reservations in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-athena-adding-cap-reservation-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "aws-access-cluster-insights-t",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Access Cluster Insights through the Amazon OpenSearch Service Console and Amazon EventBridge events",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/access-cluster-insights-opensearch/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "aws-amazon-sagemaker-data-age",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Data Agent is now available in the Amazon SageMaker Unified Studio Query Editor",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-data-agent-query-editor/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "aws-aws-direct-connect-adds-c",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Direct Connect adds CloudWatch metrics for BGP monitoring",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-cloudwatch-bgp-monitoring/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "gcp-march-30--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 30, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_30_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-30"
+  },
+  {
     "id": "gcp-march-29--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +106,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_29_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-29"
   },
   {
@@ -18,7 +117,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-28"
   },
   {
@@ -29,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-advanced-metrics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-27"
   },
   {
@@ -40,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-infrequent-access-log-class/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-27"
   },
   {
@@ -51,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-32-gb-memory-16-vcpus/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-27"
   },
   {
@@ -62,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/account-customizations-console/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-27"
   },
   {
@@ -73,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-expands-instance-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-27"
   },
   {
@@ -84,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-study-level-access-control/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-27"
   },
   {
@@ -95,7 +194,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-27"
   },
   {
@@ -106,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-u7i-europe-milan/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -117,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-studio-kiro-cursor/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -128,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-supports-fips-graviron-gpu/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -139,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-connector-for-ruby/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -150,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-Lambda-file-descriptors-increase-4096/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -161,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/appconfig-enhanced-targeting-feature-flag-rollout/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -172,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-jdbc-caching-with-valkey/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -183,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8gd-aws-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -194,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-europe-ireland-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -205,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-govcloud-us-west-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -216,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/storage-gateway-terraform-al2023/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -227,7 +326,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_26_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-26"
   },
   {
@@ -238,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-step-functions-sdk-integrations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -249,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/palmyra-vision-7b-writer-bedrock/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -260,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/res-2026-03-is-now-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -271,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-pcs-manages-slurmdbd-cgroups-settings/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -282,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-i8ge-available-new-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-26"
   },
   {
@@ -293,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-25"
   },
   {
@@ -315,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/agent-plugin-aws-serverless/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-25"
   },
   {
@@ -326,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-ami-status-aws-health/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-03-25"
   },
   {
@@ -491,7 +590,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-25"
   },
   {
@@ -524,7 +623,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-03-24"
   },
   {
@@ -579,7 +678,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-03-23"
   },
   {
@@ -634,7 +733,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-03-20"
   },
   {
@@ -909,7 +1008,7 @@
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-03-18"
   },
   {
@@ -1316,7 +1415,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-03-13"
   },
   {
@@ -1602,7 +1701,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-03-11"
   },
   {
@@ -1613,7 +1712,7 @@
     "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-03-11"
   },
   {
@@ -1624,7 +1723,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-03-11"
   },
   {
@@ -1635,7 +1734,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-03-11"
   },
   {
@@ -1789,7 +1888,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-03-09"
   },
   {
@@ -1822,7 +1921,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-03-09"
   },
   {
@@ -1833,7 +1932,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-03-08"
   },
   {
@@ -2009,7 +2108,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-03-05"
   },
   {
