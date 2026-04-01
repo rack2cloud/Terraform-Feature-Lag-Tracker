@@ -3,11 +3,352 @@
     "id": "aws-amazon-cloudwatch-now-sup",
     "cloud": "aws",
     "service": "",
+    "feature": "Amazon CloudWatch now supports ingesting Security Hub CSPM findings with organization-wide enablement",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-securityhub-findings/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-launches-sustainabili",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS launches Sustainability console for carbon emissions tracking",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-launches-sustainability-console/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service introduces agentic AI for log analytics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-agentic-ai-log-analytics-observability/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-iam-identity-center-i",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IAM Identity Center is now available in AWS European Sovereign Cloud (Germany) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-iam-identity-center-european-sovereign-cloud-germany-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-managed-service-fo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Managed Service for Apache Flink now supports Apache Flink 2.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-managed-service-flink-2-2/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio adds Observability for AWS Glue jobs via CloudWatch metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-organizations-now-pro",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Organizations now provides organization paths in API responses",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-organizations-paths-api-responses/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-deadline-cloud-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Deadline Cloud now supports new fleet scaling configurations for render farms",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/deadline-cloud-fleet-scaling/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-marketplace-sellers-c",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace sellers can now self-serve refunds and agreement cancellations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-marketplace-seller-self-service-refund-cancel/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aurora-dsql-launches-new-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Aurora DSQL launches new connectors that simplify building .NET and Rust applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-s3-vectors-expands",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Vectors expands to 17 additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/s3-vectors-expands-17-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-announces-end-user-me",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces End User Messaging Notify",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-end-user-messaging-notify/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-service-availability-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Service Availability Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-ecs-managed-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS Managed Instances now supports Amazon EC2 instance store",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-local-storage/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Evaluations is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-evaluations-generally-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-end-user-messaging-no",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS End User Messaging now supports RCS for Business",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/rcs-business-messaging/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-devops-agent-is-now-g",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS DevOps Agent is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-devops-agent-generally-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-connect-now-expand",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect now expands testing and simulation capabilities to chats",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-expands-simulation-chat/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-security-agent-on-dem",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Agent on-demand penetration testing is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-private-ca-now-publis",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Private CA now publishes utilization metrics to Amazon CloudWatch",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-publishes-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-location-service-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Location Service now supports GrabMaps with enhanced APIs for Southeast Asia",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-location-service-grabmaps/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-logs-in",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Logs introduces lookup query command",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-lookup-query-command/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-backup-expands-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup expands support for Amazon Redshift Serverless to seven Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-redshift-serverless-seven-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-transform-custom-anno",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform custom announces general availability of automated codebase analysis",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-codebase-analysis/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-aws-transform-custom-intr",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform custom introduces new AWS-managed transformations to modernize code at scale",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-transformations/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-announcing-amazon-rds-for",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing Amazon RDS for Oracle on AWS Outposts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-oracle-aws-outposts/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-rds-for-db2-is-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for Db2 is now available in Asia Pacific (New Zealand)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-db2-available-Aisa-Pacific-New-Zealand/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-rds-for-sql-server",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for SQL Server Developer Edition is now available in the AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-sql-server-developer-edition-available-aws-govcloud-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-cloudfront-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront now supports BYOIP for IPv6 through VPC IPAM integration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudfront-byoip-ipv6-vpc-ipam/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-s3-express-one-zon",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Express One Zone now supports request metrics in Amazon CloudWatch",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/s3-express-one-zone-cloudwatch-request-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "gcp-march-31--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "March 31, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_31_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-now-sup",
+    "cloud": "aws",
+    "service": "",
     "feature": "Amazon CloudWatch now supports multi-account and region log centralization based on data source",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-centralization-datasource/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-30"
   },
   {
@@ -18,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-hub-govcloud-us-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-30"
   },
   {
@@ -29,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthomics-vpc-connected-workflows/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-30"
   },
   {
@@ -40,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-elemental-mediatailor-london-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-30"
   },
   {
@@ -51,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-athena-adding-cap-reservation-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-03-30"
   },
   {
@@ -93,8 +434,8 @@
     "service": "General",
     "feature": "March 30, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_30_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.26.0",
     "lag": 1,
     "date": "2026-03-30"
   },
@@ -104,8 +445,8 @@
     "service": "General",
     "feature": "March 29, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_29_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.26.0",
     "lag": 2,
     "date": "2026-03-29"
   },
@@ -117,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-28"
   },
   {
@@ -192,8 +533,8 @@
     "service": "General",
     "feature": "March 27, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_27_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.26.0",
     "lag": 4,
     "date": "2026-03-27"
   },
@@ -324,8 +665,8 @@
     "service": "General",
     "feature": "March 26, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_26_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.26.0",
     "lag": 5,
     "date": "2026-03-26"
   },
@@ -590,7 +931,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-03-25"
   },
   {
@@ -623,7 +964,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-03-24"
   },
   {
@@ -678,7 +1019,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-03-23"
   },
   {
@@ -733,7 +1074,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-03-20"
   },
   {
@@ -1008,7 +1349,7 @@
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-03-18"
   },
   {
@@ -1415,7 +1756,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-03-13"
   },
   {
@@ -1701,7 +2042,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-03-11"
   },
   {
@@ -1712,7 +2053,7 @@
     "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-03-11"
   },
   {
@@ -1723,7 +2064,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-03-11"
   },
   {
@@ -1734,7 +2075,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-03-11"
   },
   {
@@ -1888,7 +2229,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-03-09"
   },
   {
@@ -1921,7 +2262,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-03-09"
   },
   {
@@ -1932,7 +2273,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-03-08"
   },
   {
@@ -2108,7 +2449,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 27,
     "date": "2026-03-05"
   },
   {
