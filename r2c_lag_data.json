@@ -1,5 +1,104 @@
 [
   {
+    "id": "aws-amazon-elasticache-server",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ElastiCache Serverless now supports IPv6 and dual stack connectivity",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-elasticache-serverless-ipv6-dual-stack/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-launche",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "aws-aws-deadline-cloud-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Deadline Cloud now supports configurable job scheduling modes for queues",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-job-scheduling/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "aws-announcing-compute-optimi",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing compute-optimized instance bundles for Amazon Lightsail",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/lightsail-compute-optimized-instances/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-expands",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch expands auto-enablement to Amazon CloudFront logs and 3 additional resource types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cloudfront-enablement/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "aws-aws-direct-connect-announ",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Direct Connect announces 100G expansion in Auckland, New Zealand",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-direct-connect-100g-auckland/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch now supports OpenTelemetry metrics in public preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-opentelemetry-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "aws-amazon-workspaces-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Applications improves multi-session fleet management",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-applications-drain-mode/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "gcp-april-02--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "April 02, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_02_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-02"
+  },
+  {
     "id": "aws-amazon-ses-mail-manager-a",
     "cloud": "aws",
     "service": "",
@@ -7,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ses-mail-manager-introduces-new-features/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-01"
   },
   {
@@ -18,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-managed-daemons/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-01"
   },
   {
@@ -29,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/sage-maker-da-infr-jp-au/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-01"
   },
   {
@@ -51,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudfront-sha-256-signed-urls/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-01"
   },
   {
@@ -62,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/rds-oracle-cross-account-snapshot-sharing-additional-storage-volume/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-01"
   },
   {
@@ -95,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/oracle-database-aws-launches-high-performance-networking/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-01"
   },
   {
@@ -106,7 +205,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-01"
   },
   {
@@ -128,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-launches-sustainability-console/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-31"
   },
   {
@@ -194,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/deadline-cloud-fleet-scaling/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-31"
   },
   {
@@ -205,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-marketplace-seller-self-service-refund-cancel/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-31"
   },
   {
@@ -216,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-31"
   },
   {
@@ -238,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-end-user-messaging-notify/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-31"
   },
   {
@@ -282,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/rcs-business-messaging/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-03-31"
   },
   {
@@ -447,7 +546,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-31"
   },
   {
@@ -579,7 +678,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-03-28"
   },
   {
@@ -1052,7 +1151,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-03-25"
   },
   {
@@ -1085,7 +1184,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-03-24"
   },
   {
@@ -1140,7 +1239,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-03-23"
   },
   {
@@ -1195,7 +1294,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-03-20"
   },
   {
@@ -1468,9 +1567,9 @@
     "service": "General",
     "feature": "Advancing agentic AI with Microsoft databases across a unified data estate",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 14,
+    "status": "Supported",
+    "version": "v4.67.0",
+    "lag": 15,
     "date": "2026-03-18"
   },
   {
@@ -1877,7 +1976,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-03-13"
   },
   {
@@ -2163,7 +2262,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-03-11"
   },
   {
@@ -2174,7 +2273,7 @@
     "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-03-11"
   },
   {
@@ -2185,7 +2284,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-03-11"
   },
   {
@@ -2196,7 +2295,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-03-11"
   },
   {
@@ -2350,7 +2449,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-03-09"
   },
   {
@@ -2381,9 +2480,9 @@
     "service": "General",
     "feature": "Unpacking your top questions on agentic AI: The Shift podcast",
     "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 23,
+    "status": "Supported",
+    "version": "v4.67.0",
+    "lag": 24,
     "date": "2026-03-09"
   },
   {
@@ -2394,7 +2493,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-03-08"
   },
   {
@@ -2570,7 +2669,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 29,
     "date": "2026-03-05"
   },
   {
