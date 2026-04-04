@@ -1,5 +1,104 @@
 [
   {
+    "id": "aws-apache-spark-troubleshoot",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Apache Spark troubleshooting and upgrade agents now available as Kiro powers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-spark-troubleshooting-upgrade-kiro-power/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-03"
+  },
+  {
+    "id": "aws-aws-glue-schema-registry-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Glue Schema Registry is now available in three more AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-gsr-3-more-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-03"
+  },
+  {
+    "id": "aws-amazon-sagemaker-data-age",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Data Agent introduces charting capabilities and support for materialized views",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-03"
+  },
+  {
+    "id": "aws-amazon-bedrock-guardrails",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock Guardrails announces general availability of cross-account safeguards",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-guardrails-cross-account-safeguards/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-03"
+  },
+  {
+    "id": "aws-partner-revenue-measureme",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Partner Revenue Measurement now supports User Agent string for certain AWS services",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-03"
+  },
+  {
+    "id": "aws-partner-revenue-measureme",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Partner Revenue Measurement now supports AWS Marketplace Metering for certain AWS Marketplace products",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-supports-mp-metering/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-03"
+  },
+  {
+    "id": "aws-aws-secrets-manager-conso",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Secrets Manager console now supports custom input for AWS KMS keys",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-console-custom-kms-key-input/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-03"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-introdu",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch introduces PromQL querying with Query Studio Preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-query-studio-preview/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-03"
+  },
+  {
+    "id": "gcp-april-03--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "April 03, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_03_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-03"
+  },
+  {
     "id": "aws-amazon-elasticache-server",
     "cloud": "aws",
     "service": "",
@@ -7,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-elasticache-serverless-ipv6-dual-stack/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-02"
   },
   {
@@ -18,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-02"
   },
   {
@@ -29,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-job-scheduling/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-02"
   },
   {
@@ -40,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/lightsail-compute-optimized-instances/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-02"
   },
   {
@@ -51,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cloudfront-enablement/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-02"
   },
   {
@@ -62,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-direct-connect-100g-auckland/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-02"
   },
   {
@@ -73,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-opentelemetry-metrics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-02"
   },
   {
@@ -84,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-applications-drain-mode/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-02"
   },
   {
@@ -95,7 +194,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-02"
   },
   {
@@ -106,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ses-mail-manager-introduces-new-features/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-01"
   },
   {
@@ -117,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-managed-daemons/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-01"
   },
   {
@@ -128,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/sage-maker-da-infr-jp-au/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-01"
   },
   {
@@ -150,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudfront-sha-256-signed-urls/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-01"
   },
   {
@@ -161,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/rds-oracle-cross-account-snapshot-sharing-additional-storage-volume/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-01"
   },
   {
@@ -194,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/oracle-database-aws-launches-high-performance-networking/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-04-01"
   },
   {
@@ -203,6 +302,17 @@
     "service": "General",
     "feature": "April 01, 2026",
     "link": "https://docs.cloud.google.com/release-notes#April_01_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2026-04-01"
+  },
+  {
+    "id": "azure-azure-iaas--keep-critical",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
     "status": "Not Supported",
     "version": "--",
     "lag": 2,
@@ -227,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-launches-sustainability-console/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-31"
   },
   {
@@ -293,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/deadline-cloud-fleet-scaling/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-31"
   },
   {
@@ -304,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-marketplace-seller-self-service-refund-cancel/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-31"
   },
   {
@@ -315,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-03-31"
   },
   {
@@ -546,7 +656,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-03-31"
   },
   {
@@ -558,6 +668,17 @@
     "status": "Supported",
     "version": "v6.39.0",
     "lag": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "azure-building-sovereign-ai-at-",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters",
+    "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
+    "status": "Supported",
+    "version": "v4.67.0",
+    "lag": 2,
     "date": "2026-03-31"
   },
   {
@@ -660,6 +781,28 @@
     "date": "2026-03-30"
   },
   {
+    "id": "azure-navigating-digital-sovere",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Navigating digital sovereignty at the frontier of transformation",
+    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
+    "status": "Supported",
+    "version": "v4.67.0",
+    "lag": 2,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "azure-microsoft-named-a-leader-",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft named a Leader in 2026 Gartner\u00ae Magic Quadrant\u2122 for Integration Platform as a Service",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/",
+    "status": "Supported",
+    "version": "v4.67.0",
+    "lag": 3,
+    "date": "2026-03-30"
+  },
+  {
     "id": "gcp-march-29--2026",
     "cloud": "gcp",
     "service": "General",
@@ -678,7 +821,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-03-28"
   },
   {
@@ -1151,7 +1294,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-03-25"
   },
   {
@@ -1184,7 +1327,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-03-24"
   },
   {
@@ -1239,7 +1382,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-03-23"
   },
   {
@@ -1294,7 +1437,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-03-20"
   },
   {
@@ -1976,7 +2119,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-03-13"
   },
   {
@@ -2262,7 +2405,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-03-11"
   },
   {
@@ -2449,7 +2592,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-03-09"
   },
   {
@@ -2493,7 +2636,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 27,
     "date": "2026-03-08"
   },
   {
@@ -2669,7 +2812,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 29,
+    "lag": 30,
     "date": "2026-03-05"
   },
   {
