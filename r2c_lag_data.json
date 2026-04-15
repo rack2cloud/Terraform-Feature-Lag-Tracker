@@ -1,5 +1,60 @@
 [
   {
+    "id": "aws-amazon-ec2-p6-b300-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 P6-B300 instances are now available in the AWS GovCloud (US-East) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-p6-b300-govcloud-us-east/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-14"
+  },
+  {
+    "id": "aws-aws-transform-is-now-avai",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform is now available in Kiro and VS Code",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-kiro-vscode/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-14"
+  },
+  {
+    "id": "aws-aws-secrets-manager-now-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Secrets Manager now supports hybrid post-quantum TLS to protect secrets from quantum threats",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-post-quantum-tls/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-14"
+  },
+  {
+    "id": "aws-amazon-ec2-c8gn--m8gn--an",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C8gn, M8gn, and R8gn instances now support higher Amazon EBS-optimized performance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8gn-m8gn-r8gn-ebs/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-14"
+  },
+  {
+    "id": "gcp-april-14--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "April 14, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_14_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-14"
+  },
+  {
     "id": "aws-amazon-opensearch-serverl",
     "cloud": "aws",
     "service": "",
@@ -7,7 +62,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-derived-source/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-13"
   },
   {
@@ -18,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-topk-optimization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-13"
   },
   {
@@ -29,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-dsql-connector-for-php/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-13"
   },
   {
@@ -40,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-m8i-flex-govcloud-us-west/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-13"
   },
   {
@@ -51,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-logs-insights-query-params/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-13"
   },
   {
@@ -62,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-r8i-instances-govcloud-us-west/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-13"
   },
   {
@@ -73,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-israel-tel-aviv-europe-milan/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-13"
   },
   {
@@ -84,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-copying-backups-opt-in-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-13"
   },
   {
@@ -95,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-elastic-disaster-recovery-ipv6/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-13"
   },
   {
@@ -104,6 +159,50 @@
     "service": "General",
     "feature": "April 13, 2026",
     "link": "https://docs.cloud.google.com/release-notes#April_13_2026",
+    "status": "Supported",
+    "version": "v7.28.0",
+    "lag": 1,
+    "date": "2026-04-13"
+  },
+  {
+    "id": "aws-nvidia-nemotron-3-super-1",
+    "cloud": "aws",
+    "service": "",
+    "feature": "NVIDIA Nemotron-3-Super-120B, Qwen3.5-9B, and Qwen3.5-27B models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/nemotron3super-120b-qwen3.5-9b-qwen3.5-27b-on-sagemaker-jumpstart/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-13"
+  },
+  {
+    "id": "aws-amazon-quick-now-supports",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick now supports document-level access controls for Google Drive knowledge bases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-google-drive/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-13"
+  },
+  {
+    "id": "aws-aws-announces-general-ava",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces general availability of AWS Interconnect - last mile",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-last-mile/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-13"
+  },
+  {
+    "id": "aws-aws-announces-general-ava",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces general availability of AWS Interconnect - multicloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-multicloud/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -115,8 +214,8 @@
     "service": "General",
     "feature": "April 12, 2026",
     "link": "https://docs.cloud.google.com/release-notes#April_12_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.28.0",
     "lag": 2,
     "date": "2026-04-12"
   },
@@ -128,7 +227,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-11"
   },
   {
@@ -139,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-supports-latest-cu-gdr-updates-microsoft-sq-server/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-10"
   },
   {
@@ -150,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8i-instances-CDG-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-10"
   },
   {
@@ -161,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-conditional/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-10"
   },
   {
@@ -172,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-monitor-creation/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-10"
   },
   {
@@ -183,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-pipelines-compliance-governance/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-10"
   },
   {
@@ -194,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/second-gen-amazon-fsx-ontap-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-10"
   },
   {
@@ -205,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-10"
   },
   {
@@ -216,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-rtb-fabric-health-checks/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-10"
   },
   {
@@ -227,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/backup-extends-fsx-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-10"
   },
   {
@@ -236,6 +335,17 @@
     "service": "General",
     "feature": "April 10, 2026",
     "link": "https://docs.cloud.google.com/release-notes#April_10_2026",
+    "status": "Supported",
+    "version": "v7.28.0",
+    "lag": 4,
+    "date": "2026-04-10"
+  },
+  {
+    "id": "aws-amazon-quick-now-supports",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick now supports document-level access controls for ACL support for S3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-acl-s3/",
     "status": "Not Supported",
     "version": "--",
     "lag": 4,
@@ -249,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-09"
   },
   {
@@ -260,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-iam-cost-allocation/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-09"
   },
   {
@@ -271,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-09"
   },
   {
@@ -282,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/s3-lifecycle-pauses-actions-on-objects/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-09"
   },
   {
@@ -293,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/rds-proxy-blue-green/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-09"
   },
   {
@@ -304,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-discovery-api/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-09"
   },
   {
@@ -315,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-09"
   },
   {
@@ -326,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-zstandard-index-compression/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-09"
   },
   {
@@ -348,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-04-09"
   },
   {
@@ -370,7 +480,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-09"
   },
   {
@@ -467,8 +577,8 @@
     "service": "General",
     "feature": "April 08, 2026",
     "link": "https://docs.cloud.google.com/release-notes#April_08_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.28.0",
     "lag": 6,
     "date": "2026-04-08"
   },
@@ -744,7 +854,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-04-04"
   },
   {
@@ -843,7 +953,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-04-03"
   },
   {
@@ -1063,7 +1173,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-04-01"
   },
   {
@@ -1074,7 +1184,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-04-01"
   },
   {
@@ -1413,8 +1523,8 @@
     "service": "General",
     "feature": "March 31, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_31_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.28.0",
     "lag": 14,
     "date": "2026-03-31"
   },
@@ -1580,7 +1690,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-03-28"
   },
   {
@@ -2051,8 +2161,8 @@
     "service": "General",
     "feature": "March 25, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_25_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.28.0",
     "lag": 20,
     "date": "2026-03-25"
   },
@@ -2086,7 +2196,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-03-24"
   },
   {
@@ -2141,7 +2251,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-03-23"
   },
   {
@@ -2194,8 +2304,8 @@
     "service": "General",
     "feature": "March 20, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_20_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.28.0",
     "lag": 25,
     "date": "2026-03-20"
   },
