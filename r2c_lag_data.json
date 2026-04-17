@@ -1,5 +1,93 @@
 [
   {
+    "id": "aws-amazon-cloudwatch-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "aws-aws-elastic-disaster-reco",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elastic Disaster Recovery is now available in the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/drs-thf/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "aws-amazon-workspaces-persona",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Personal and Amazon WorkSpaces Core are now available in two additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-available-two-new-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "aws-amazon-fsx-for-lustre-per",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon FSx for Lustre Persistent-2 file systems are now available in four additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-lustre-persistent-2-aws/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "aws-introducing-amazon-ec2-c8",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing Amazon EC2 C8in and C8ib instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "aws-amazon-quick-now-supports",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick now supports multi-account sign-in within the same browser",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-multi-account-sign-in/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "aws-claude-opus-4-7-is-now-av",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Claude Opus 4.7 is now available in Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/claude-opus-4.7-amazon-bedrock/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "gcp-april-16--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "April 16, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_16_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-16"
+  },
+  {
     "id": "aws-aws-payment-cryptography-",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-payment-cryptography-south/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-15"
   },
   {
@@ -18,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sheet-tooltips/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-15"
   },
   {
@@ -27,6 +115,17 @@
     "service": "General",
     "feature": "April 15, 2026",
     "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-04-15"
+  },
+  {
+    "id": "azure-cloud-cost-optimization--",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Cloud Cost Optimization: Principles that still matter",
+    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -62,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-post-quantum-tls/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-14"
   },
   {
@@ -73,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8gn-m8gn-r8gn-ebs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-14"
   },
   {
@@ -84,7 +183,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-04-14"
   },
   {
@@ -95,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-multicloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-14"
   },
   {
@@ -104,9 +203,9 @@
     "service": "General",
     "feature": "Optimize object storage costs automatically with smart tier\u2014now generally available",
     "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v4.69.0",
+    "lag": 2,
     "date": "2026-04-14"
   },
   {
@@ -139,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-dsql-connector-for-php/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-04-13"
   },
   {
@@ -205,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-elastic-disaster-recovery-ipv6/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-04-13"
   },
   {
@@ -238,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-google-drive/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-04-13"
   },
   {
@@ -271,7 +370,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-04-11"
   },
   {
@@ -348,7 +447,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-04-10"
   },
   {
@@ -359,7 +458,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-rtb-fabric-health-checks/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-04-10"
   },
   {
@@ -502,7 +601,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-04-09"
   },
   {
@@ -524,7 +623,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-04-09"
   },
   {
@@ -898,7 +997,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-04-04"
   },
   {
@@ -997,7 +1096,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-04-03"
   },
   {
@@ -1217,7 +1316,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-04-01"
   },
   {
@@ -1226,8 +1325,8 @@
     "service": "",
     "feature": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v4.69.0",
     "lag": 14,
     "date": "2026-04-01"
   },
@@ -1734,7 +1833,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-03-28"
   },
   {
@@ -2240,7 +2339,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-03-24"
   },
   {
@@ -2295,7 +2394,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-03-23"
   },
   {
