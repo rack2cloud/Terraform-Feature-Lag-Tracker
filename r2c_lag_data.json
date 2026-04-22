@@ -7,6 +7,171 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing/",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-amazon-sagemaker-now-supp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker now supports multi-region replication from IAM Identity Center",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-five-new-qwen-models-for-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Five new Qwen models for coding agents and efficient reasoning are now available in Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/qwen-models-on-sagemaker-jumpstart/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-introducing-the-amazon-ek",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-aws-marketplace-streamlin",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace streamlines VAT payment for deemed supply transactions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-amazon-athena-spark-adds-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Athena Spark adds support for AWS PrivateLink",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena-spark-aws-privatelink/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-aws-lambda-functions-can-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-pipelin",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch pipelines now supports configuration of processors via AI",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-ai-configuration/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-aws-glue-now-supports-oau",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-oauth-snowflake-connectivity/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-aws-transform-custom-is-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform custom is now available in six additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-amazon-ec2-g7e-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-amazon-location-service-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Location Service now offers bulk address validation for the United States, Canada, Australia, and the United Kingdom",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-location-service-bulk-address-validation/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-amazon-aurora-serverless-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-serverless-smarter-scaling/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-aws-backup-adds-amazon-re",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup adds Amazon Redshift Serverless and Aurora DSQL support for AWS Organizations backup policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/backup-policies-aurora-dsql-redshift-serverless/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "aws-aws-lambda-durable-execut",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda Durable Execution SDK for Java GA",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-execution-java-ga/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-21"
+  },
+  {
+    "id": "gcp-april-21--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "April 21, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_21_2026",
+    "status": "Supported",
+    "version": "v7.29.0",
     "lag": 0,
     "date": "2026-04-21"
   },
@@ -18,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ebs-four-volume-modifications-european-sovereign-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -29,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-evs-windows-server-licensing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -40,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-greengrass-v217/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -51,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-mongodb-in-place-version-upgrade-5-0-to-8-0/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -62,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-iam-condition-keys/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -73,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-campaign-hourly-refresh/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -84,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-logs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -95,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-enhanced-consumer-offset-synchronization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -106,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-external-kafka-cluster-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -117,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-express-one-zone-supports-s3-inventory/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-20"
   },
   {
@@ -128,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-managed-microsoft-ad-2016-functional-level/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-20"
   },
   {
@@ -139,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-managed-microsoft-ad-kerberose-encrption-logs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-20"
   },
   {
@@ -148,6 +313,39 @@
     "service": "General",
     "feature": "April 20, 2026",
     "link": "https://docs.cloud.google.com/release-notes#April_20_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-04-20"
+  },
+  {
+    "id": "aws-amazon-connect-expands-ag",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect expands agentic voice speech-to-speech experiences to three new AWS Regions and ten locales",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-aws/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-20"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-logs-in",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Logs Insights introduces JOIN and sub-query commands",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-logs-insights-join-sub-query/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-20"
+  },
+  {
+    "id": "aws-amazon-connect-adds-touch",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect adds touchtone buffering for AI-powered self-service",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-touchtone-buffering/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -161,7 +359,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-04-19"
   },
   {
@@ -172,7 +370,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-18"
   },
   {
@@ -183,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-high-memory-u7i-asia-pacific/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-17"
   },
   {
@@ -194,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-flexible-instance-groups/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-17"
   },
   {
@@ -205,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecr-pull-through-cache-referrers/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-17"
   },
   {
@@ -216,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-ai-troubleshooting/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-17"
   },
   {
@@ -249,7 +447,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-17"
   },
   {
@@ -272,6 +470,17 @@
     "status": "Not Supported",
     "version": "--",
     "lag": 3,
+    "date": "2026-04-17"
+  },
+  {
+    "id": "aws-aws-neuron-sdk-2-29-0-now",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Neuron SDK 2.29.0 now available with NKI and Neuron Explorer out of Beta, a new CPU Simulator, and an expanded NKI Library",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-2-29/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
     "date": "2026-04-17"
   },
   {
@@ -359,7 +568,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-04-16"
   },
   {
@@ -414,7 +623,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-04-15"
   },
   {
@@ -425,7 +634,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-04-15"
   },
   {
@@ -480,7 +689,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-04-14"
   },
   {
@@ -667,7 +876,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-04-11"
   },
   {
@@ -898,7 +1107,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-04-09"
   },
   {
@@ -920,7 +1129,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-04-09"
   },
   {
@@ -1294,7 +1503,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-04-04"
   },
   {
@@ -1393,7 +1602,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-04-03"
   },
   {
@@ -1611,8 +1820,8 @@
     "service": "General",
     "feature": "April 01, 2026",
     "link": "https://docs.cloud.google.com/release-notes#April_01_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.29.0",
     "lag": 20,
     "date": "2026-04-01"
   },
@@ -2130,7 +2339,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-03-28"
   },
   {
@@ -2634,8 +2843,8 @@
     "service": "General",
     "feature": "March 24, 2026",
     "link": "https://docs.cloud.google.com/release-notes#March_24_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.29.0",
     "lag": 28,
     "date": "2026-03-24"
   },
@@ -2691,7 +2900,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 29,
+    "lag": 30,
     "date": "2026-03-23"
   },
   {
