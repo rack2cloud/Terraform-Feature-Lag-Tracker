@@ -1,5 +1,93 @@
 [
   {
+    "id": "aws-amazon-ec2-high-memory-u7",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 High Memory U7i instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-24"
+  },
+  {
+    "id": "aws-aws-lambda-provisioned-mo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-Lambda-provisioned-esm-region-expansion/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-24"
+  },
+  {
+    "id": "aws-amazon-quick-now-integrat",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick now integrates with Visier\u2019s Vee agent for workforce intelligence",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-visier-vee/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-24"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Gateway and Identity support VPC egress",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2024/04/agentcore-gateway-identity-vpc/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-24"
+  },
+  {
+    "id": "aws-amazon-connect-now-provid",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect now provides eight new metrics to measure and improve AI agent performance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-24"
+  },
+  {
+    "id": "aws-aws-marketplace-managemen",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace Management Portal now supports bank account deletion",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-management-portal/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-24"
+  },
+  {
+    "id": "aws-aws-deadline-cloud-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Deadline Cloud now supports custom scripting for job submission workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-deadline-cloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-24"
+  },
+  {
+    "id": "gcp-april-24--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "April 24, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_24_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-24"
+  },
+  {
     "id": "aws-amazon-athena-simplifies-",
     "cloud": "aws",
     "service": "",
@@ -7,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -18,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-automatic-slurm-topology/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -29,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-pcs-slurm-25-11/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -40,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-idc/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -51,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/attributed-revenue-dashboard-launch/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -62,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-ai-analysis-windows/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -73,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/second-generation-aws-outposts-racks-sydney-seoul-paris/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -84,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-sharepoint/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -95,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8g-instances-europe-ireland/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -106,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -117,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -128,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-five-additional-checksum-algorithms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -139,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-backup-amazon-aurora-pitr/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-23"
   },
   {
@@ -150,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-unified-studio-vpc/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-23"
   },
   {
@@ -159,6 +247,39 @@
     "service": "General",
     "feature": "April 23, 2026",
     "link": "https://docs.cloud.google.com/release-notes#April_23_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-04-23"
+  },
+  {
+    "id": "aws-aws-client-vpn-now-suppor",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Client VPN now supports native AWS Transit Gateway integration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-client-vpn-transit-gateway/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-23"
+  },
+  {
+    "id": "aws-aws-compute-optimizer-sup",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Compute Optimizer supports 162 new EC2 instance types and 32 new RDS DB instance classes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-compute-optimizer-ec2-rds/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-23"
+  },
+  {
+    "id": "azure-openai-s-gpt-5-5-in-micro",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "OpenAI\u2019s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
+    "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -337,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-04-22"
   },
   {
@@ -346,6 +467,17 @@
     "service": "",
     "feature": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
+    "status": "Supported",
+    "version": "v4.70.0",
+    "lag": 1,
+    "date": "2026-04-22"
+  },
+  {
+    "id": "azure-microsoft-discovery--adva",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft Discovery: Advancing agentic R&D at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
     "status": "Supported",
     "version": "v4.70.0",
     "lag": 1,
@@ -689,7 +821,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-20"
   },
   {
@@ -733,7 +865,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-04-19"
   },
   {
@@ -744,7 +876,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-04-18"
   },
   {
@@ -821,7 +953,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-04-17"
   },
   {
@@ -942,7 +1074,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-04-16"
   },
   {
@@ -997,7 +1129,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-04-15"
   },
   {
@@ -1008,7 +1140,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-04-15"
   },
   {
@@ -1063,7 +1195,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-04-14"
   },
   {
@@ -1250,7 +1382,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-04-11"
   },
   {
@@ -1481,7 +1613,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-04-09"
   },
   {
@@ -1503,7 +1635,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-04-09"
   },
   {
@@ -1877,7 +2009,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-04-04"
   },
   {
@@ -1976,7 +2108,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-04-03"
   },
   {
@@ -2713,7 +2845,7 @@
     "link": "https://docs.cloud.google.com/release-notes#March_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 27,
+    "lag": 28,
     "date": "2026-03-28"
   },
   {
@@ -4167,17 +4299,6 @@
     "version": "--",
     "lag": 5,
     "date": "2026-03-12"
-  },
-  {
-    "id": "aws-amazon-ec2-high-memory-u7",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 High Memory U7i instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-high-memory-u7i-instances/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
-    "date": "2026-03-11"
   },
   {
     "id": "aws-amazon-neptune-database-i",
