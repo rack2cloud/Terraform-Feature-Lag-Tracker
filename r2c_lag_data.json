@@ -1,13 +1,156 @@
 [
   {
+    "id": "aws-amazon-rds-for-mysql-anno",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-mysql-innovation/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-amazon-documentdb--with-m",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon DocumentDB (with MongoDB compatibility) is Now Available in the Canada West (Calgary) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-available-in-canada-west-region/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-amazon-cloudfront-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront now supports invalidation by cache tag",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-paraphrase-multilingual-m",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Paraphrase-multilingual-MiniLM-L12-v2, Table Transformer Detection, and Bielik-11B-v3.0-Instruct are now available in Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/paraphrase-multilingual-table-transformer-bielik-on-sagemaker-jumpstart/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-gemma-4-models-are-now-av",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Gemma 4 models are now available in Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/gemma-4-models-on-sagemaker-jumpstart/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-adds-vi",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch adds visual agent configuration to the EC2 console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-agent-ec2/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-openai-gpt-oss-and-nvidia",
+    "cloud": "aws",
+    "service": "",
+    "feature": "OpenAI GPT OSS and NVIDIA Nemotron Models Available on Amazon Bedrock in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/openai-gpt-oss-nvidia-nemotron-govcloud/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-amazon-quick-adds-custom-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick Adds Custom Sort for Filter Controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-filter-control-sort/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-aws-transfer-family-terra",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transfer Family Terraform module now supports Okta and Microsoft Entra ID integration examples",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-terraform-okta-microsoft-entra-id/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-amazon-rds-for-db2-is-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for Db2 is now available in the AWS GovCloud (US-East, US-West) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-db2-available-aws-govcloud-us-east-us-west-regions/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-amazon-emr-7-13-now-avail",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EMR 7.13 now available with Python 3.11",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-713-python-311/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service now supports JWKS URL configuration for JWT authentication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-jwks-url-jwt/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 0,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "gcp-april-29--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "April 29, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_29_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-29"
+  },
+  {
     "id": "aws-amazon-ec2-c8gn-instances",
     "cloud": "aws",
     "service": "",
     "feature": "Amazon EC2 C8gn instances are now available in additional regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8gn-milan-hong-kong/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -16,9 +159,9 @@
     "service": "General",
     "feature": "AWS Glue 5.1 is now available in all AWS Commercial and AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-5-1-all-govcloud-commercial-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -29,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-optimization-hub-csv-download/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -38,9 +181,9 @@
     "service": "",
     "feature": "Amazon WorkSpaces Personal enhances PCoIP to DCV protocol migration",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-pcoip/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -49,9 +192,9 @@
     "service": "",
     "feature": "Amazon Connect Talent for AI-powered hiring (now available in Preview)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-talent-ai-powered/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -60,9 +203,9 @@
     "service": "",
     "feature": "Amazon Bedrock now offers OpenAI models, Codex, and Managed Agents (Limited Preview)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -73,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -84,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -93,9 +236,9 @@
     "service": "",
     "feature": "Amazon Quick now available as a desktop application for macOS and Windows (Preview)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -104,9 +247,9 @@
     "service": "",
     "feature": "Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -115,9 +258,9 @@
     "service": "",
     "feature": "Amazon Quick now supports document and visual creation in chat",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -126,9 +269,9 @@
     "service": "",
     "feature": "Start using Amazon Quick for free in minutes with Free and Plus pricing plans",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-free-plus/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
     "date": "2026-04-28"
   },
   {
@@ -143,14 +286,36 @@
     "date": "2026-04-28"
   },
   {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Runtime now supports Node.js for direct code deployment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-runtime/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 1,
+    "date": "2026-04-28"
+  },
+  {
+    "id": "aws-amazon-gamelift-streams-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GameLift Streams now supports Proton 10 runtime",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-gamelift-streams-proton-10-runtime/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-28"
+  },
+  {
     "id": "aws-amazon-redshift-serverles",
     "cloud": "aws",
     "service": "",
     "feature": "Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 2,
     "date": "2026-04-27"
   },
   {
@@ -161,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-27"
   },
   {
@@ -170,9 +335,9 @@
     "service": "",
     "feature": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 2,
     "date": "2026-04-27"
   },
   {
@@ -181,9 +346,9 @@
     "service": "",
     "feature": "Amazon Connect increases attachment file sizes and adds custom file types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 2,
     "date": "2026-04-27"
   },
   {
@@ -192,9 +357,9 @@
     "service": "",
     "feature": "Amazon FSx for OpenZFS Single-AZ (HA) file systems are now available in 17 additional AWS commercial and AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 2,
     "date": "2026-04-27"
   },
   {
@@ -205,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-27"
   },
   {
@@ -258,9 +423,9 @@
     "service": "",
     "feature": "Amazon EVS now supports i7i.metal-24xl Amazon EC2 instance type",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-evs-i7i-instance-type/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 2,
     "date": "2026-04-27"
   },
   {
@@ -271,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-conductor-launches-passthrough/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-27"
   },
   {
@@ -283,6 +448,17 @@
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
+    "date": "2026-04-27"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-rum-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch RUM now supports an improved App Monitors overview with health, SLO, and tracing status",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-rum-app-monitors/",
+    "status": "Supported",
+    "version": "v6.43.0",
+    "lag": 2,
     "date": "2026-04-27"
   },
   {
@@ -370,7 +546,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-04-24"
   },
   {
@@ -557,7 +733,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-04-23"
   },
   {
@@ -777,7 +953,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-04-22"
   },
   {
@@ -1140,7 +1316,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-04-20"
   },
   {
@@ -1184,7 +1360,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-04-19"
   },
   {
@@ -1195,7 +1371,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-04-18"
   },
   {
@@ -1448,7 +1624,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-04-15"
   },
   {
@@ -1459,7 +1635,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-04-15"
   },
   {
@@ -1954,7 +2130,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-04-09"
   },
   {
