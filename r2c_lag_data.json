@@ -1,5 +1,126 @@
 [
   {
+    "id": "aws-aws-outposts-racks-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Outposts racks now support LagStatus CloudWatch metric",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-amazon-ecs-managed-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS Managed Instances now supports NVIDIA GPU metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-amazon-mq-for-rabbitmq-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MQ for RabbitMQ now supports Prometheus metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Identity now supports On-Behalf-Of (OBO) token exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-aws-neuron-sdk-now-availa",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Neuron SDK now available with Neuron Agentic Development for NKI kernel development on Trainium",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-optimization-preview/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-aws-lambda-adds-support-f",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda adds support for Ruby 4.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-amazon-quick-adds-microso",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service now supports index-level encryption",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-supports-index-level-encryption/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "azure-enforcing-trust-and-trans",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
+    "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
+    "status": "Supported",
+    "version": "v4.71.0",
+    "lag": 0,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "gcp-april-30--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "April 30, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_30_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-04-30"
+  },
+  {
     "id": "aws-amazon-rds-for-mysql-anno",
     "cloud": "aws",
     "service": "",
@@ -95,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-terraform-okta-microsoft-entra-id/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-04-29"
   },
   {
@@ -139,7 +260,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_29_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-29"
   },
   {
@@ -172,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-optimization-hub-csv-download/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-28"
   },
   {
@@ -216,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-28"
   },
   {
@@ -227,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-04-28"
   },
   {
@@ -304,7 +425,18 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-gamelift-streams-proton-10-runtime/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-04-28"
+  },
+  {
+    "id": "azure-microsoft-named-a-leader-",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
+    "status": "Supported",
+    "version": "v4.71.0",
+    "lag": 2,
     "date": "2026-04-28"
   },
   {
@@ -462,6 +594,17 @@
     "date": "2026-04-27"
   },
   {
+    "id": "azure-microsoft-sovereign-priva",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+    "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+    "status": "Supported",
+    "version": "v4.71.0",
+    "lag": 3,
+    "date": "2026-04-27"
+  },
+  {
     "id": "aws-amazon-ec2-high-memory-u7",
     "cloud": "aws",
     "service": "",
@@ -546,7 +689,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-04-24"
   },
   {
@@ -733,7 +876,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-04-23"
   },
   {
@@ -764,9 +907,9 @@
     "service": "General",
     "feature": "OpenAI\u2019s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
     "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v4.71.0",
+    "lag": 6,
     "date": "2026-04-23"
   },
   {
@@ -953,7 +1096,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-04-22"
   },
   {
@@ -1316,7 +1459,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-04-20"
   },
   {
@@ -1360,7 +1503,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-04-19"
   },
   {
@@ -1371,7 +1514,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-04-18"
   },
   {
@@ -1624,7 +1767,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-04-15"
   },
   {
@@ -1635,7 +1778,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-04-15"
   },
   {
@@ -2128,8 +2271,8 @@
     "service": "General",
     "feature": "Microsoft named a Leader in The Forrester Wave\u2122 for Sovereign Cloud Platforms",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v4.71.0",
     "lag": 20,
     "date": "2026-04-09"
   },
