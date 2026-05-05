@@ -1,5 +1,170 @@
 [
   {
+    "id": "aws-amazon-rds-for-sql-server",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for SQL Server supports read replica with additional storage volumes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-read-replica-for-asv/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-logs-in",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Logs Insights supports querying by log group tags",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-logs-query-by-tags/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-workspaces-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Applications now supports host-to-client URL redirection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-aws-entity-resolution-lau",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Entity Resolution launches support for incremental Machine Learning based matching workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-fsx-is-now-availab",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon FSx is now available in the AWS Asia Pacific (New Zealand) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-aws-asia-pacific/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-quick-generates-da",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick generates dashboards from natural language prompts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-aurora-dsql-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL now supports the JSON data type with compression",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aurora-dsql-json-support/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-quick-introduces-d",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick introduces Dataset Q&A for conversational analytics against enterprise data",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-quick-now-supports",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick now supports S3 tables bucket as a data source",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/quick-direct-query-s3-tables/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-eventbridge-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-data-aws-cloudtrail/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-quick-upgrades-the",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick upgrades the extension for Microsoft Outlook (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-launc",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI launches AI agent experience for model customization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-aws-payment-cryptography-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Payment Cryptography announces support for cross account key sharing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/payment-cryptography-resource/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "aws-amazon-rds-for-sql-server",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for SQL Server now supports M8i and R8i instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-m8i-r8i-instances/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "gcp-may-04--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "May 04, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#May_04_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-04"
+  },
+  {
     "id": "gcp-may-03--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +172,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-03"
   },
   {
@@ -18,7 +183,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-02"
   },
   {
@@ -29,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-01"
   },
   {
@@ -40,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-01"
   },
   {
@@ -51,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-01"
   },
   {
@@ -62,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-websockets-vpc-origins/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-01"
   },
   {
@@ -73,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-01"
   },
   {
@@ -84,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/concurrency-scaling-auto-copy-zero-ETL/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-01"
   },
   {
@@ -95,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/quick-bi-migration/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-01"
   },
   {
@@ -106,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/spatial-data-management-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-01"
   },
   {
@@ -117,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/kubernetes-dra-elastic-fabric-adapter/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-01"
   },
   {
@@ -128,18 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-cross-account-snapshot-sharing-additional-storage-volume/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
-    "date": "2026-05-01"
-  },
-  {
-    "id": "aws-amazon-rds-for-sql-server",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon RDS for SQL Server supports read replica with additional storage volumes",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-read-replica-for-asv/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-01"
   },
   {
@@ -150,7 +304,29 @@
     "link": "https://docs.cloud.google.com/release-notes#May_01_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 4,
+    "date": "2026-05-01"
+  },
+  {
+    "id": "aws-general-availability-of-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "General availability of AWS for SAP MCP Server in Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sap-mcp-amazon-bedrock/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 3,
+    "date": "2026-05-01"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI Now Supports Capacity-Aware Inference with Automatic Instance Fallback",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ai-inf-auto-inst/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
     "date": "2026-05-01"
   },
   {
@@ -161,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-30"
   },
   {
@@ -172,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-30"
   },
   {
@@ -183,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-30"
   },
   {
@@ -194,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-30"
   },
   {
@@ -205,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-30"
   },
   {
@@ -271,7 +447,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-04-30"
   },
   {
@@ -282,7 +458,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-payment-cryptography/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-04-30"
   },
   {
@@ -293,7 +469,29 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-one-click-cluster-access/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-aws-iot-core-now-supports",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IoT Core now supports customer managed domains in the AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-core-aws-govcloud-us/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "aws-aws-payment-cryptography-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Payment Cryptography adds integration to Multi-party approval for sensitive operations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-payment-cryptography-multi-party/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
     "date": "2026-04-30"
   },
   {
@@ -436,7 +634,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_29_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-04-29"
   },
   {
@@ -865,7 +1063,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-04-24"
   },
   {
@@ -1052,7 +1250,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-04-23"
   },
   {
@@ -1272,7 +1470,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-04-22"
   },
   {
@@ -1635,7 +1833,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-04-20"
   },
   {
@@ -1679,7 +1877,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-04-19"
   },
   {
@@ -1690,7 +1888,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-04-18"
   },
   {
@@ -1943,7 +2141,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-04-15"
   },
   {
@@ -1954,7 +2152,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-04-15"
   },
   {
