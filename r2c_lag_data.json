@@ -1,12 +1,144 @@
 [
   {
+    "id": "aws-aws-site-to-site-vpn-now-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth/",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-amazon-ec2-p6-b300-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 P6-B300 instances are now available in the US East (N. Virginia) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-aws-marketplace-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace now supports programmatic procurement with Agreements API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-amazon-neptune-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Neptune now supports 1-click connect with CloudShell",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-neptune-cloudshell/",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Memory announces metadata for long-term memory",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-longterm-memory-metadata",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-aws-elastic-beanstalk-now",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-tls-support/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-aws-elemental-mediatailor",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental MediaTailor now supports ad trickplay personalization and compact DASH manifest optimization via dynamic transcoding",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-announcing-agent-toolkit-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing Agent Toolkit for AWS \u2014 help AI coding agents build effectively on AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-the-aws-mcp-server-is-now",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "The AWS MCP Server is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-aws-transfer-family-web-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transfer Family web apps are now available in the AWS Asia Pacific (New Zealand) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-asia-pacific/",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-aws-directory-service-exp",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Directory Service expands directory security settings with STIG-aligned controls for Managed AD",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/add-security-settings-stig-aws-microsoft-ad/",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "gcp-may-06--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "May 06, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#May_06_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-06"
+  },
+  {
     "id": "aws-aws-elemental-mediatailor",
     "cloud": "aws",
     "service": "General",
     "feature": "AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google's ad platforms",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatailor-automatic-google-ad-platform-integration",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.44.0",
     "lag": 0,
     "date": "2026-05-05"
   },
@@ -16,9 +148,9 @@
     "service": "General",
     "feature": "AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -27,9 +159,9 @@
     "service": "",
     "feature": "AWS SAM now supports WebSocket APIs for Amazon API Gateway",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -38,9 +170,9 @@
     "service": "",
     "feature": "Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -51,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -60,9 +192,9 @@
     "service": "General",
     "feature": "AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -71,9 +203,9 @@
     "service": "",
     "feature": "Amazon MQ now supports in-place major version upgrades for RabbitMQ 4",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-inplace-upgrades-rabbitmq4/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -84,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -93,9 +225,9 @@
     "service": "General",
     "feature": "EC2 Instance Store CSI driver now generally available in EKS add-ons",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-csi-eks/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -104,9 +236,9 @@
     "service": "",
     "feature": "Amazon Connect Cases now supports customer profile identity resolution",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -115,9 +247,9 @@
     "service": "",
     "feature": "Amazon Bedrock AgentCore is now available in AWS GovCloud (US-West)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-launch-aws-govcloud-us/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -128,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-amazon-eks-performance-improvement/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -137,9 +269,9 @@
     "service": "",
     "feature": "Amazon OpenSearch Service expands Cluster Insights with a new insight",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-cluster-insights/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 1,
     "date": "2026-05-05"
   },
   {
@@ -148,8 +280,8 @@
     "service": "General",
     "feature": "AWS IAM now provides higher maximum quotas for roles, role trust policies, instance profiles, managed policies, and identity providers",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iam-increased-quotas/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.44.0",
     "lag": 1,
     "date": "2026-05-05"
   },
@@ -161,7 +293,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-05"
   },
   {
@@ -181,8 +313,8 @@
     "service": "",
     "feature": "Amazon CloudWatch Logs Insights supports querying by log group tags",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-logs-query-by-tags/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.44.0",
     "lag": 1,
     "date": "2026-05-04"
   },
@@ -192,9 +324,9 @@
     "service": "",
     "feature": "Amazon WorkSpaces Applications now supports host-to-client URL redirection",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 2,
     "date": "2026-05-04"
   },
   {
@@ -205,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-04"
   },
   {
@@ -214,9 +346,9 @@
     "service": "",
     "feature": "Amazon FSx is now available in the AWS Asia Pacific (New Zealand) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-aws-asia-pacific/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 2,
     "date": "2026-05-04"
   },
   {
@@ -227,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-04"
   },
   {
@@ -236,9 +368,9 @@
     "service": "",
     "feature": "Amazon Aurora DSQL now supports the JSON data type with compression",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aurora-dsql-json-support/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 2,
     "date": "2026-05-04"
   },
   {
@@ -335,9 +467,9 @@
     "service": "",
     "feature": "Amazon EC2 I8ge instances are now generally available in additional AWS regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-i8ge-available-new-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 2,
     "date": "2026-05-04"
   },
   {
@@ -346,9 +478,9 @@
     "service": "",
     "feature": "4 new Qwen models for multimodal reasoning, agentic coding, and multilingual applications are now available in Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/qwen-models-on-sagemaker-jumpstart/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 2,
     "date": "2026-05-04"
   },
   {
@@ -357,9 +489,9 @@
     "service": "",
     "feature": "Amazon VPC Lattice resource configurations now support private domain-name targets",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-lattice/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 2,
     "date": "2026-05-04"
   },
   {
@@ -374,6 +506,17 @@
     "date": "2026-05-04"
   },
   {
+    "id": "aws-aws-console-mobile-app-ad",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Console Mobile App adds interactive graphs, AI log ssummaries, and natural language logs search to CloudWatch Alarms",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-console-mobile-app/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-05-04"
+  },
+  {
     "id": "gcp-may-03--2026",
     "cloud": "gcp",
     "service": "General",
@@ -381,7 +524,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-03"
   },
   {
@@ -392,7 +535,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-02"
   },
   {
@@ -513,7 +656,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-01"
   },
   {
@@ -1283,7 +1426,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-04-24"
   },
   {
@@ -2053,7 +2196,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-04-20"
   },
   {
@@ -2361,7 +2504,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-04-15"
   },
   {
@@ -2372,7 +2515,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-04-15"
   },
   {
