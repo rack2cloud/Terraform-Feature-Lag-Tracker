@@ -1,5 +1,225 @@
 [
   {
+    "id": "aws-amazon-ec2-g6-instances-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 G6 instances now available in AWS European Sovereign Cloud (Germany)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-ec2-x8i-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 X8i instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio adds identity and user management features",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-ec2-g7e-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 G7e instances now available in Europe (London) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g7e-london-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-aws-capabilities-by-regio",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Capabilities by Region now supports availability notifications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-regional-planning-tool-notification",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-aws-elemental-mediatailor",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental MediaTailor launches Monetization Functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-elemental-mediatailor-monetization-functions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-aws-advanced-jdbc-wrapper",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Advanced JDBC Wrapper now provides client-side encryption",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-advanced-jdbc-wrapper-encryption/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-connect-outbound-c",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Outbound Campaigns adds multi-contact time zone detection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-campaign-multitimezone",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-sagemaker-hyperpod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-ami-based-node/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-ec2-m8gn-and-m8gb-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8gn and M8gb instances are now available in AWS Europe (Ireland) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8gn-m8gb-aws-europe/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-aws-india-customers-can-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS India customers can now use UPI Scan and Pay for sign-up and payments",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-india-upi-scanandpay/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-introducing-amazon-ec2-r8",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing Amazon EC2 R8idn and R8idb instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8idn-r8idb/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-introducing-amazon-ec2-m8",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing Amazon EC2 M8idn and M8idb instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8idn-m8idb/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-agents-that-transact--ama",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Agents that transact: Amazon Bedrock AgentCore now includes Payments (preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-aws-resource-explorer-is-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Resource Explorer is now available in AWS GovCloud (US-East) and (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-resource-explorer-available-aws-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-rds-for-sql-server",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for SQL Server now supports instances powered by AMD EPYC processors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-amd-instances/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-ses-mail-manager-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SES Mail Manager now available in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ses-mail-manager-available-aws-govcloud-regions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-redshift-now-scale",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift now scales data ingestion automatically with concurrency scaling for batch workloads",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/concurrencyscaling-support-for-copy",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-service-vpc",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "gcp-may-07--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "May 07, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#May_07_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-07"
+  },
+  {
     "id": "aws-aws-site-to-site-vpn-now-",
     "cloud": "aws",
     "service": "General",
@@ -29,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-06"
   },
   {
@@ -51,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-longterm-memory-metadata",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-06"
   },
   {
@@ -62,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-tls-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-06"
   },
   {
@@ -73,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-06"
   },
   {
@@ -128,6 +348,72 @@
     "link": "https://docs.cloud.google.com/release-notes#May_06_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-amazon-ec2-p6-b200-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-West) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b200-aws-govcloud",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Runtime now supports bring-your-own file system from Amazon S3 Files and Amazon EFS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-agentcore-runtime/",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-amazon-elasticache-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ElastiCache now supports real-time aggregations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-aggregations/",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-amazon-elasticache-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ElastiCache now supports real-time hybrid search with vector and full-text",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-hybrid-search/",
+    "status": "Supported",
+    "version": "v6.44.0",
+    "lag": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "aws-amazon-elasticache-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ElastiCache now supports real-time full-text, exact-match, and numeric range search",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-enchanced-search/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "azure-scaling-cloud-and-ai--mic",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Scaling cloud and AI: Microsoft Azure\u2019s commitment to Europe\u2019s digital future",
+    "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+    "status": "Supported",
+    "version": "v4.72.0",
     "lag": 1,
     "date": "2026-05-06"
   },
@@ -293,7 +579,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-05"
   },
   {
@@ -502,7 +788,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 3,
     "date": "2026-05-04"
   },
   {
@@ -524,7 +810,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-03"
   },
   {
@@ -535,7 +821,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-02"
   },
   {
@@ -656,7 +942,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-05-01"
   },
   {
@@ -1426,7 +1712,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-04-24"
   },
   {
@@ -2196,7 +2482,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-04-20"
   },
   {
@@ -2504,7 +2790,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-04-15"
   },
   {
@@ -2515,7 +2801,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-04-15"
   },
   {
