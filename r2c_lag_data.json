@@ -1,13 +1,57 @@
 [
   {
+    "id": "aws-amazon-sagemaker-data-age",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Data Agent now available for IAM Identity Center domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-data-agent-idc/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-13"
+  },
+  {
+    "id": "aws-amazon-fsx-for-openzfs-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon FSx for OpenZFS now supports creating Multi-AZ file systems in shared VPCs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-openzfs-multi-az-vpcs/",
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 0,
+    "date": "2026-05-13"
+  },
+  {
+    "id": "aws-amazon-rds-for-oracle-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for Oracle now supports M8i and R8i instances with Oracle SE2 License Included",
+    "link": "https://aws.amazon.com/about-aws/whats-new/amazon-oracle-m8i-r8i-license-included",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-13"
+  },
+  {
+    "id": "gcp-may-13--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "May 13, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#May_13_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-13"
+  },
+  {
     "id": "aws-aws-lambda-supports-sched",
     "cloud": "aws",
     "service": "General",
     "feature": "AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 1,
     "date": "2026-05-12"
   },
   {
@@ -16,9 +60,9 @@
     "service": "",
     "feature": "Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 1,
     "date": "2026-05-12"
   },
   {
@@ -29,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-12"
   },
   {
@@ -38,9 +82,9 @@
     "service": "",
     "feature": "Amazon SageMaker Feature Store now supports SageMaker Python SDK V3",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 1,
     "date": "2026-05-12"
   },
   {
@@ -51,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/karpenter-arc-zonal-shift/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-12"
   },
   {
@@ -60,9 +104,9 @@
     "service": "",
     "feature": "Amazon Redshift launches RG instances powered by AWS Graviton",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 1,
     "date": "2026-05-12"
   },
   {
@@ -73,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-12"
   },
   {
@@ -82,9 +126,9 @@
     "service": "",
     "feature": "Amazon Connect Customer now supports embedding Cases and Customer Profiles in custom agent applications",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-sdk-cases-customer-profiles/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 1,
     "date": "2026-05-12"
   },
   {
@@ -95,6 +139,28 @@
     "link": "https://docs.cloud.google.com/release-notes#May_12_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-05-12"
+  },
+  {
+    "id": "aws-announcing-region-expansi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing Region Expansion of P5.48xl instances on SageMaker Studio notebooks",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/p5-48xl-region-expansion-sagemaker-studio-notebooks/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-05-12"
+  },
+  {
+    "id": "aws-announcing-region-expansi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing Region Expansion of G6 instances on SageMaker Notebook Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/g6-region-expansion-sagemaker-notebook-instances/",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 1,
     "date": "2026-05-12"
   },
@@ -106,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-11"
   },
   {
@@ -115,8 +181,8 @@
     "service": "General",
     "feature": "Announcing Region Expansion of G6e instances on SageMaker Studio notebooks",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 1,
     "date": "2026-05-11"
   },
@@ -126,8 +192,8 @@
     "service": "General",
     "feature": "Announcing Region Expansion of G6 instances on SageMaker Studio notebooks",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 1,
     "date": "2026-05-11"
   },
@@ -137,8 +203,8 @@
     "service": "",
     "feature": "ENA Express for Amazon EC2 instances now supports traffic between Availability Zones",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ena-express-availability-zones/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 1,
     "date": "2026-05-11"
   },
@@ -148,8 +214,8 @@
     "service": "General",
     "feature": "Announcing Region Expansion of P4de instances on SageMaker Studio notebooks",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/p4de-region-expansion-sagemaker-studio-notebooks/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 1,
     "date": "2026-05-11"
   },
@@ -159,8 +225,8 @@
     "service": "",
     "feature": "Amazon Aurora DSQL is now available in five additional AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-five-additional-aws-regions/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 1,
     "date": "2026-05-11"
   },
@@ -172,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthomics-caching-cancelled-runs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-11"
   },
   {
@@ -183,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-waf-dynamic-label-interpolation/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-11"
   },
   {
@@ -192,9 +258,9 @@
     "service": "General",
     "feature": "Claude Platform on AWS is now generally available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 2,
     "date": "2026-05-11"
   },
   {
@@ -205,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-11"
   },
   {
@@ -216,7 +282,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-11"
   },
   {
@@ -225,9 +291,9 @@
     "service": "",
     "feature": "Amazon SageMaker Unified Studio adds getting started tutorials and in-product release notes",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-getting-started",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 2,
     "date": "2026-05-11"
   },
   {
@@ -236,9 +302,42 @@
     "service": "",
     "feature": "Amazon Route 53 Domains adds support for 34 new Top Level Domains including .app, .dev, and .health.",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-domains/",
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 2,
+    "date": "2026-05-11"
+  },
+  {
+    "id": "aws-amazon-sagemaker-studio-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Studio notebooks now support P5.4xl instance types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/p5.4xl-new-launch-sagemaker-studio-notebooks/",
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 2,
+    "date": "2026-05-11"
+  },
+  {
+    "id": "azure-red-hat-summit-2026--plat",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
+    "link": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-05-11"
+  },
+  {
+    "id": "azure-build-ai-apps-with-azure-",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026",
+    "link": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
     "date": "2026-05-11"
   },
   {
@@ -249,7 +348,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-09"
   },
   {
@@ -258,8 +357,8 @@
     "service": "General",
     "feature": "AWS Client VPN now supports Ubuntu OS version 26.04 LTS",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 4,
     "date": "2026-05-08"
   },
@@ -269,8 +368,8 @@
     "service": "",
     "feature": "Amazon Connect adds default Step-by-Step Guides for After Contact Work",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 4,
     "date": "2026-05-08"
   },
@@ -280,9 +379,9 @@
     "service": "",
     "feature": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 5,
     "date": "2026-05-08"
   },
   {
@@ -291,9 +390,9 @@
     "service": "General",
     "feature": "AWS Service Catalog is now available in the AWS Asia Pacific (New Zealand) and Canada West (Calgary) regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-service-catalog-calgary-new-zealand-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.45.0",
+    "lag": 5,
     "date": "2026-05-08"
   },
   {
@@ -302,8 +401,8 @@
     "service": "General",
     "feature": "IAM Policy Autopilot adds Java support and Terraform-aware policy generation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/iam-policy-autopilot/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 5,
     "date": "2026-05-08"
   },
@@ -315,7 +414,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-08"
   },
   {
@@ -324,8 +423,8 @@
     "service": "",
     "feature": "Amazon EC2 G6 instances now available in AWS European Sovereign Cloud (Germany)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 5,
     "date": "2026-05-07"
   },
@@ -335,8 +434,8 @@
     "service": "",
     "feature": "Amazon EC2 X8i instances are now available in additional regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 5,
     "date": "2026-05-07"
   },
@@ -535,7 +634,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-05-07"
   },
   {
@@ -544,8 +643,8 @@
     "service": "",
     "feature": "Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.45.0",
     "lag": 5,
     "date": "2026-05-07"
   },
@@ -557,7 +656,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-tax/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-07"
   },
   {
@@ -689,7 +788,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-05-06"
   },
   {
@@ -920,7 +1019,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-05-05"
   },
   {
@@ -1129,7 +1228,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-05-04"
   },
   {
@@ -1151,7 +1250,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-05-03"
   },
   {
@@ -1162,7 +1261,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-05-02"
   },
   {
@@ -3131,7 +3230,7 @@
     "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 29,
     "date": "2026-04-15"
   },
   {
