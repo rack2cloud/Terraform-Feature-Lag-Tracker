@@ -1,5 +1,71 @@
 [
   {
+    "id": "aws-amazon-sagemaker-hyperpod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-20"
+  },
+  {
+    "id": "aws-amazon-mwaa-now-supports-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MWAA now supports Apache Airflow 3.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-19"
+  },
+  {
+    "id": "aws-amazon-inspector-is-now-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-19"
+  },
+  {
+    "id": "aws-amazon-ecs-introduces-pau",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS introduces pause and continue controls for service deployments",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-19"
+  },
+  {
+    "id": "aws-amazon-managed-grafana-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Managed Grafana now supports dual-stack connectivity (IPv6 and IPv4)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-ipv6/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-19"
+  },
+  {
+    "id": "gcp-may-19--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "May 19, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#May_19_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-19"
+  },
+  {
     "id": "aws-aws-management-console-no",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-18"
   },
   {
@@ -18,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-18"
   },
   {
@@ -29,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-18"
   },
   {
@@ -40,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-evs-32-hosts",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-18"
   },
   {
@@ -51,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-18"
   },
   {
@@ -62,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-18"
   },
   {
@@ -73,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-18"
   },
   {
@@ -82,9 +148,20 @@
     "service": "General",
     "feature": "May 18, 2026",
     "link": "https://docs.cloud.google.com/release-notes#May_18_2026",
+    "status": "Supported",
+    "version": "v7.33.0",
+    "lag": 1,
+    "date": "2026-05-18"
+  },
+  {
+    "id": "aws-introducing-pre-fetching-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Introducing pre-fetching and IAM role assumption for AWS Secrets Manager Agent",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-agent-prefetch-and-role-assumption/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-18"
   },
   {
@@ -95,7 +172,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-17"
   },
   {
@@ -104,8 +181,8 @@
     "service": "General",
     "feature": "May 16, 2026",
     "link": "https://docs.cloud.google.com/release-notes#May_16_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.33.0",
     "lag": 3,
     "date": "2026-05-16"
   },
@@ -117,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-15"
   },
   {
@@ -128,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-15"
   },
   {
@@ -139,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-15"
   },
   {
@@ -150,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-related-item/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-15"
   },
   {
@@ -161,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-15"
   },
   {
@@ -172,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-v12-update/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-15"
   },
   {
@@ -183,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-AWS-interconnect-multicloud-oci-preview/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-15"
   },
   {
@@ -194,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-15"
   },
   {
@@ -205,7 +282,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-15"
   },
   {
@@ -216,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -227,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -238,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -249,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -260,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -271,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -282,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -293,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-customer-owned-artifact/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -304,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/image-embeddings-models-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -315,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/region-switch-lambda-esm-execution-block/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -326,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -337,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/speech-models-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -348,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentic-reasoning-models-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -425,7 +502,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-14"
   },
   {
@@ -436,7 +513,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-u7i-aws-europe-paris/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-14"
   },
   {
@@ -478,8 +555,8 @@
     "service": "General",
     "feature": "May 13, 2026",
     "link": "https://docs.cloud.google.com/release-notes#May_13_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.33.0",
     "lag": 6,
     "date": "2026-05-13"
   },
@@ -588,8 +665,8 @@
     "service": "General",
     "feature": "May 12, 2026",
     "link": "https://docs.cloud.google.com/release-notes#May_12_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.33.0",
     "lag": 7,
     "date": "2026-05-12"
   },
@@ -742,8 +819,8 @@
     "service": "General",
     "feature": "May 11, 2026",
     "link": "https://docs.cloud.google.com/release-notes#May_11_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.33.0",
     "lag": 8,
     "date": "2026-05-11"
   },
@@ -810,7 +887,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-05-09"
   },
   {
@@ -876,7 +953,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-05-08"
   },
   {
@@ -1096,7 +1173,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-05-07"
   },
   {
@@ -1250,7 +1327,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-05-06"
   },
   {
@@ -1481,7 +1558,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-05-05"
   },
   {
@@ -1690,7 +1767,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-05-04"
   },
   {
@@ -1712,7 +1789,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-05-03"
   },
   {
@@ -1723,7 +1800,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-05-02"
   },
   {
