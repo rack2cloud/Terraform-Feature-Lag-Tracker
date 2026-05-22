@@ -1,5 +1,82 @@
 [
   {
+    "id": "aws-amazon-rds-custom-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-custom-sql-server-latest-gdr-updates-microsoft-sql-server",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-21"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-logs-in",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Logs Insights adds new query commands and functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-21"
+  },
+  {
+    "id": "aws-amazon-ec2-c7i-flex--m7i-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C7i-flex, M7i-flex & M7i instances now available in Asia Pacific (Hyderabad) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-21"
+  },
+  {
+    "id": "aws-sagemaker-unified-studio-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "SageMaker Unified Studio automates Glue connector provisioning for cross-subnet job retries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-21"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI now supports OpenAI-compatible APIs for inference endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-21"
+  },
+  {
+    "id": "aws-amazon-aurora-mysql-8-4--",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora MySQL 8.4  is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql/8-4/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-21"
+  },
+  {
+    "id": "gcp-may-21--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "May 21, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#May_21_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-21"
+  },
+  {
     "id": "aws-amazon-sagemaker-hyperpod",
     "cloud": "aws",
     "service": "",
@@ -7,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-20"
   },
   {
@@ -51,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-20"
   },
   {
@@ -95,6 +172,50 @@
     "link": "https://docs.cloud.google.com/release-notes#May_20_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-05-20"
+  },
+  {
+    "id": "aws-amazon-bedrock-expands-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock expands support for request-level usage attribution",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-20"
+  },
+  {
+    "id": "aws-amazon-documentdb--with-m",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon DocumentDB (with MongoDB compatibility) Serverless is now available on DocumentDB 8.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/5/docdb8-serverless",
+    "status": "Supported",
+    "version": "v6.46.0",
+    "lag": 0,
+    "date": "2026-05-20"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-quality",
+    "status": "Supported",
+    "version": "v6.46.0",
+    "lag": 0,
+    "date": "2026-05-20"
+  },
+  {
+    "id": "azure-azure-iaas--deploy-high-p",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 1,
     "date": "2026-05-20"
   },
@@ -128,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-19"
   },
   {
@@ -150,7 +271,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-19"
   },
   {
@@ -161,7 +282,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-19"
   },
   {
@@ -238,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-18"
   },
   {
@@ -264,6 +385,17 @@
     "date": "2026-05-18"
   },
   {
+    "id": "aws-amazon-ecs-now-integrates",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS now integrates with Amazon EBS volumes in AWS GovCloud Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/",
+    "status": "Supported",
+    "version": "v6.46.0",
+    "lag": 2,
+    "date": "2026-05-18"
+  },
+  {
     "id": "gcp-may-17--2026",
     "cloud": "gcp",
     "service": "General",
@@ -271,7 +403,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-17"
   },
   {
@@ -315,7 +447,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-15"
   },
   {
@@ -337,7 +469,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-15"
   },
   {
@@ -381,7 +513,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-05-15"
   },
   {
@@ -601,7 +733,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-05-14"
   },
   {
@@ -986,7 +1118,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-05-10"
   },
   {
@@ -997,7 +1129,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-05-09"
   },
   {
@@ -1063,7 +1195,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-05-08"
   },
   {
@@ -1283,7 +1415,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-05-07"
   },
   {
@@ -1437,7 +1569,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-05-06"
   },
   {
@@ -1668,7 +1800,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-05-05"
   },
   {
@@ -1877,7 +2009,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-05-04"
   },
   {
@@ -1899,7 +2031,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-05-03"
   },
   {
@@ -1910,7 +2042,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-05-02"
   },
   {
@@ -3034,17 +3166,6 @@
     "version": "--",
     "lag": 4,
     "date": "2026-04-23"
-  },
-  {
-    "id": "aws-amazon-rds-custom-now-sup",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-custom-sql-server-supports-latest-gdr-updates-for-microsoft-sql-server/",
-    "status": "Supported",
-    "version": "v6.42.0",
-    "lag": 0,
-    "date": "2026-04-22"
   },
   {
     "id": "aws-amazon-sagemaker-unified-",
