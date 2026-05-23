@@ -1,5 +1,104 @@
 [
   {
+    "id": "aws-amazon-sagemaker-expands-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker expands domain management across domain types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "aws-new-agentic-migration-ass",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "New agentic migration assessment capabilities now available with AWS Transform",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "aws-amazon-sagemaker-adds-bus",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "aws-aws-security-agent-adds-v",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Agent adds verification scripts for pentest findings",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "aws-amazon-workspaces-persona",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "aws-amazon-keyspaces--for-apa",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Keyspaces (for Apache Cassandra) expands to Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "aws-aws-clean-rooms-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Clean Rooms now supports mutable payment configurations for collaborations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "aws-aws-secrets-manager-adds-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Secrets Manager adds managed external secrets support for Datadog vended keys and Snowflake Programmatic Access Tokens",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "gcp-may-22--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "May 22, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#May_22_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-22"
+  },
+  {
     "id": "aws-amazon-rds-custom-now-sup",
     "cloud": "aws",
     "service": "",
@@ -7,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-custom-sql-server-latest-gdr-updates-microsoft-sql-server",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-21"
   },
   {
@@ -18,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-21"
   },
   {
@@ -29,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-21"
   },
   {
@@ -40,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-21"
   },
   {
@@ -51,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-21"
   },
   {
@@ -62,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql/8-4/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-05-21"
   },
   {
@@ -73,7 +172,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-21"
   },
   {
@@ -84,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-20"
   },
   {
@@ -128,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-20"
   },
   {
@@ -172,7 +271,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-20"
   },
   {
@@ -183,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-20"
   },
   {
@@ -216,7 +315,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-20"
   },
   {
@@ -249,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-19"
   },
   {
@@ -271,7 +370,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-19"
   },
   {
@@ -282,7 +381,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-19"
   },
   {
@@ -403,7 +502,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-17"
   },
   {
@@ -513,7 +612,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-05-15"
   },
   {
@@ -733,7 +832,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-05-14"
   },
   {
@@ -1118,7 +1217,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-05-10"
   },
   {
@@ -1129,7 +1228,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-05-09"
   },
   {
@@ -1195,7 +1294,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-05-08"
   },
   {
@@ -1415,7 +1514,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-05-07"
   },
   {
@@ -1569,7 +1668,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-05-06"
   },
   {
@@ -1800,7 +1899,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-05-05"
   },
   {
@@ -2009,7 +2108,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-05-04"
   },
   {
@@ -2031,7 +2130,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-05-03"
   },
   {
@@ -2042,7 +2141,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-05-02"
   },
   {
