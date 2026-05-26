@@ -1,5 +1,16 @@
 [
   {
+    "id": "gcp-may-25--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "May 25, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#May_25_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-25"
+  },
+  {
     "id": "gcp-may-24--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +18,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-24"
   },
   {
@@ -18,7 +29,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-23"
   },
   {
@@ -29,7 +40,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-22"
   },
   {
@@ -40,7 +51,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-22"
   },
   {
@@ -51,7 +62,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-22"
   },
   {
@@ -62,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-22"
   },
   {
@@ -73,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-22"
   },
   {
@@ -84,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-22"
   },
   {
@@ -95,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-22"
   },
   {
@@ -106,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -117,7 +128,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -150,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-custom-sql-server-latest-gdr-updates-microsoft-sql-server",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-21"
   },
   {
@@ -161,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-21"
   },
   {
@@ -172,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-21"
   },
   {
@@ -183,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-21"
   },
   {
@@ -194,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-21"
   },
   {
@@ -205,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql/8-4/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-21"
   },
   {
@@ -216,7 +227,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-21"
   },
   {
@@ -227,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-20"
   },
   {
@@ -271,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-20"
   },
   {
@@ -315,7 +326,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-20"
   },
   {
@@ -326,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-20"
   },
   {
@@ -370,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-network-modernization",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-20"
   },
   {
@@ -403,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-19"
   },
   {
@@ -425,7 +436,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-05-19"
   },
   {
@@ -557,7 +568,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-05-17"
   },
   {
@@ -667,7 +678,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-05-15"
   },
   {
@@ -887,7 +898,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-05-14"
   },
   {
@@ -1272,7 +1283,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-05-10"
   },
   {
@@ -1283,7 +1294,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-05-09"
   },
   {
@@ -1349,7 +1360,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-05-08"
   },
   {
@@ -1569,7 +1580,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-05-07"
   },
   {
@@ -1723,7 +1734,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-05-06"
   },
   {
@@ -1954,7 +1965,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-05-05"
   },
   {
@@ -2185,7 +2196,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-05-03"
   },
   {
@@ -2196,7 +2207,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-05-02"
   },
   {
