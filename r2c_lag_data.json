@@ -1,5 +1,71 @@
 [
   {
+    "id": "aws-amazon-rds-now-supports-e",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS now supports ENA Express for Multi-AZ replication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-26"
+  },
+  {
+    "id": "aws-amazon-ec2-r8i-and-r8i-fl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-26"
+  },
+  {
+    "id": "aws-amazon-ec2-m8i-and-m8i-fl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-26"
+  },
+  {
+    "id": "aws-amazon-vpc-ipam-now-suppo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon VPC IPAM now supports tags on IPAM pool allocations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-26"
+  },
+  {
+    "id": "aws-amazon-guardduty-malware-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GuardDuty Malware Protection for AWS Backup supports Amazon S3 continuous backups",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-guardduty-aws-backup-s3-continuous/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-05-26"
+  },
+  {
+    "id": "gcp-may-26--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "May 26, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#May_26_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-05-26"
+  },
+  {
     "id": "gcp-may-25--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +73,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-05-25"
   },
   {
@@ -18,7 +84,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-05-24"
   },
   {
@@ -29,7 +95,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-23"
   },
   {
@@ -40,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -51,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -62,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -73,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -84,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -95,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -106,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -117,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-22"
   },
   {
@@ -128,7 +194,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-22"
   },
   {
@@ -139,7 +205,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -150,7 +216,29 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 4,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio adds interactive interface for managing Feature Store in IAM Domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-feature-store/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "aws-amazon-gamelift-streams-l",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GameLift Streams launches Generation 6e stream classes for high-fidelity game streaming",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-gamelift-streams-g6e-stream-class/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
     "date": "2026-05-22"
   },
   {
@@ -161,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-custom-sql-server-latest-gdr-updates-microsoft-sql-server",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-21"
   },
   {
@@ -172,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-21"
   },
   {
@@ -183,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-21"
   },
   {
@@ -194,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-21"
   },
   {
@@ -205,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-21"
   },
   {
@@ -216,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql/8-4/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-05-21"
   },
   {
@@ -227,7 +315,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-21"
   },
   {
@@ -238,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-05-20"
   },
   {
@@ -282,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-20"
   },
   {
@@ -326,7 +414,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-05-20"
   },
   {
@@ -337,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-05-20"
   },
   {
@@ -370,7 +458,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 6,
     "date": "2026-05-20"
   },
   {
@@ -381,7 +469,18 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-network-modernization",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
+    "date": "2026-05-20"
+  },
+  {
+    "id": "aws-aws-deadline-cloud-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Deadline Cloud now supports browsing job attachments in the monitor",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-deadline-cloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 6,
     "date": "2026-05-20"
   },
   {
@@ -436,7 +535,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-05-19"
   },
   {
@@ -447,7 +546,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 7,
     "date": "2026-05-19"
   },
   {
@@ -568,7 +667,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-05-17"
   },
   {
@@ -678,7 +777,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-05-15"
   },
   {
@@ -898,7 +997,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-05-14"
   },
   {
@@ -1283,7 +1382,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-05-10"
   },
   {
@@ -1294,7 +1393,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-05-09"
   },
   {
@@ -1360,7 +1459,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-05-08"
   },
   {
@@ -1580,7 +1679,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-05-07"
   },
   {
@@ -1734,7 +1833,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-05-06"
   },
   {
@@ -1965,7 +2064,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-05-05"
   },
   {
@@ -2174,7 +2273,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 22,
     "date": "2026-05-04"
   },
   {
@@ -2196,7 +2295,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-05-03"
   },
   {
@@ -2207,7 +2306,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-05-02"
   },
   {
