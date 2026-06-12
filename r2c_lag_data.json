@@ -7,7 +7,95 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-06-11"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-06-11"
+  },
+  {
+    "id": "aws-amazon-aurora-now-support",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora now supports PostgreSQL major version 18",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-11"
+  },
+  {
+    "id": "aws-aws-elastic-beanstalk-con",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-11"
+  },
+  {
+    "id": "aws-amazon-mwaa-serverless-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MWAA Serverless now supports Amazon EventBridge notifications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-11"
+  },
+  {
+    "id": "aws-amazon-managed-service-fo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Managed Service for Prometheus now supports Native Histograms",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-11"
+  },
+  {
+    "id": "aws-amazon-managed-service-fo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Managed Service for Prometheus now supports out of order sample ingestion",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-outoforder-ingestion/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-11"
+  },
+  {
+    "id": "aws-aws-announces-aws-workloa",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces AWS Workload Credentials Provider",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-11"
+  },
+  {
+    "id": "gcp-june-11--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "June 11, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#June_11_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-06-11"
   },
   {
@@ -18,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-10"
   },
   {
@@ -73,7 +161,29 @@
     "link": "https://docs.cloud.google.com/release-notes#June_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-06-10"
+  },
+  {
+    "id": "aws-gemma-4-models-now-availa",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Gemma 4 models now available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/gemma-4-amazon-bedrock/",
+    "status": "Supported",
+    "version": "v6.50.0",
+    "lag": 0,
+    "date": "2026-06-10"
+  },
+  {
+    "id": "aws-amazon-virtual-private-cl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Virtual Private Cloud (VPC) Flow Logs introduces additional metadata",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-flow-logs-metadata",
+    "status": "Supported",
+    "version": "v6.50.0",
+    "lag": 0,
     "date": "2026-06-10"
   },
   {
@@ -84,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer-intelligent-cost-explanations",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-06-09"
   },
   {
@@ -95,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-09"
   },
   {
@@ -128,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-09"
   },
   {
@@ -194,7 +304,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-09"
   },
   {
@@ -205,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-06-08"
   },
   {
@@ -249,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-savings-plans-coverage/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-06-08"
   },
   {
@@ -271,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-region-expansion/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-06-08"
   },
   {
@@ -304,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-ai-powered-cost-investigations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-06-08"
   },
   {
@@ -370,7 +480,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-06-06"
   },
   {
@@ -819,8 +929,8 @@
     "service": "General",
     "feature": "AI alone won\u2019t change your business. The system running it will.",
     "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v4.77.0",
     "lag": 8,
     "date": "2026-06-02"
   },
@@ -854,7 +964,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-06-02"
   },
   {
@@ -865,7 +975,7 @@
     "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-06-02"
   },
   {
@@ -1041,7 +1151,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-06-01"
   },
   {
@@ -1096,7 +1206,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-05-31"
   },
   {
@@ -1118,7 +1228,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-05-30"
   },
   {
@@ -1228,7 +1338,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_29_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-05-29"
   },
   {
@@ -1382,7 +1492,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-05-28"
   },
   {
@@ -1646,7 +1756,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-05-25"
   },
   {
@@ -1657,7 +1767,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-05-24"
   },
   {
@@ -1668,7 +1778,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-05-23"
   },
   {
@@ -1767,7 +1877,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-05-22"
   },
   {
@@ -1778,7 +1888,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-05-22"
   },
   {
@@ -1888,7 +1998,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-05-21"
   },
   {
@@ -1987,7 +2097,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-05-20"
   },
   {
@@ -2108,7 +2218,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-05-19"
   },
   {
@@ -2570,7 +2680,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 29,
     "date": "2026-05-14"
   },
   {
