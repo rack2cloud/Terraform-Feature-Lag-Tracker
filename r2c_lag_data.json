@@ -7,6 +7,248 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-amazon-bedrock-guardrails",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-api-ai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-transform-now-support",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform now supports model-to-model migration assessment for generative AI workloads",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-model-to-model-assessments",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-amazon-s3-vectors-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Vectors now supports up to 10,000 similarity search results per query",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-supports-10000-search-results-per-query",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-transform-for-mainfra",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform for mainframe now delivers a traceable reimagine workflow",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-sign-in-now-supports-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Sign-in now supports resource-based policies and resource control policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-amazon-redshift-rg-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift RG instances powered by AWS Graviton now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-rg-instances-3-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-announces-aws-blocks-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces AWS Blocks, an open-source framework for composing application backends on AWS (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-partner-central-agent",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Partner Central agents now accelerate co-selling on every deal",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-introdu",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-marketplace-announces",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace announces AI-assisted product listing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-partner-central-now-v",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Partner Central now validates Foundational Technical Review in minutes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-partner-central-launc",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Partner Central launches new funding benefits for Business Value Realization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-business-value-realization/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-amazon-rds-for-sql-server",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for SQL Server now supports X2m instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-x2m/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-amazon-s3-vectors-reduces",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Vectors reduces query charges by up to 80% for large vector indexes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-reduces-query-charges-80-percent-large-indexes/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-marketplace-reduces-l",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace reduces listing fee for professional services to 0.5%",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/reduce-listing-fee-professional-services-aws-marketplace",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-partners-can-now-acce",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Partners can now accelerate co-sell deals with express private offers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partners-express-private-offers",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-announces-amazon-conn",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS announces Amazon Connect Customer Services Competency",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-announces-amazon-connect-customer-services-competency",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-marketplace-storefron",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace Storefront is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-marketplace-storefront/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-aws-partner-central-agent",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Partner Central agents now guide new partners from registration to ready-to-sell",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-amazon-s3-adds-annotation",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 adds annotations to provide AI agents and analytics tools with context for data discovery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-annotations-business-context",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "aws-amazon-ec2-p6-b200-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 P6-B200 instances are now available in the Asia Pacific (Mumbai) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-mumbai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "gcp-june-16--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "June 16, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#June_16_2026",
+    "status": "Supported",
+    "version": "v7.37.0",
     "lag": 0,
     "date": "2026-06-16"
   },
@@ -18,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -29,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -40,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -51,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -62,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -73,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -84,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -95,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -106,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -117,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -128,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-15"
   },
   {
@@ -227,6 +469,28 @@
     "link": "https://docs.cloud.google.com/release-notes#June_15_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-06-15"
+  },
+  {
+    "id": "aws-amazon-fsx-for-lustre-int",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon FSx for Lustre Intelligent-Tiering storage class is now available in 13 additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-fsx-lustre-aws-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-15"
+  },
+  {
+    "id": "aws-aws-partner-central-now-p",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Partner Central now provides lead enrichment and prospecting",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/lead-enrichment-and-prospecting",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 1,
     "date": "2026-06-15"
   },
@@ -238,7 +502,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-06-14"
   },
   {
@@ -249,7 +513,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-06-13"
   },
   {
@@ -304,7 +568,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-12"
   },
   {
@@ -403,7 +667,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-06-11"
   },
   {
@@ -458,7 +722,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-11"
   },
   {
@@ -524,7 +788,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-06-10"
   },
   {
@@ -667,7 +931,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-06-09"
   },
   {
@@ -843,7 +1107,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-06-06"
   },
   {
@@ -1327,7 +1591,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-06-02"
   },
   {
@@ -1338,7 +1602,7 @@
     "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-06-02"
   },
   {
@@ -1512,8 +1776,8 @@
     "service": "General",
     "feature": "June 01, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_01_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.37.0",
     "lag": 15,
     "date": "2026-06-01"
   },
@@ -1567,8 +1831,8 @@
     "service": "General",
     "feature": "May 31, 2026",
     "link": "https://docs.cloud.google.com/release-notes#May_31_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.37.0",
     "lag": 16,
     "date": "2026-05-31"
   },
@@ -1591,7 +1855,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-05-30"
   },
   {
@@ -1701,7 +1965,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_29_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-05-29"
   },
   {
@@ -1855,7 +2119,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-05-28"
   },
   {
@@ -2119,7 +2383,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-05-25"
   },
   {
@@ -2130,7 +2394,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-05-24"
   },
   {
@@ -2141,7 +2405,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-05-23"
   },
   {
@@ -2240,7 +2504,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-05-22"
   },
   {
@@ -2251,7 +2515,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-05-22"
   },
   {
@@ -2359,8 +2623,8 @@
     "service": "General",
     "feature": "May 21, 2026",
     "link": "https://docs.cloud.google.com/release-notes#May_21_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.37.0",
     "lag": 26,
     "date": "2026-05-21"
   },
@@ -2458,8 +2722,8 @@
     "service": "General",
     "feature": "May 20, 2026",
     "link": "https://docs.cloud.google.com/release-notes#May_20_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.37.0",
     "lag": 27,
     "date": "2026-05-20"
   },
@@ -2579,8 +2843,8 @@
     "service": "General",
     "feature": "May 19, 2026",
     "link": "https://docs.cloud.google.com/release-notes#May_19_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.37.0",
     "lag": 28,
     "date": "2026-05-19"
   },
