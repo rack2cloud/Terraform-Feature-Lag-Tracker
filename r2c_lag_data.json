@@ -1,5 +1,137 @@
 [
   {
+    "id": "aws-amazon-ec2-c7a-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-amazon-ec2-m8a-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8a instances now available in the Asia Pacific (Mumbai) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-openai-gpt--openai-gpt-os",
+    "cloud": "aws",
+    "service": "",
+    "feature": "OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models on Amazon Bedrock receive FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-aws-network-firewall-now-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Network Firewall now supports managed threat intelligence rules from VisionHeight",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/network-firewall-visionheight-managed-rules",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-kiro-achieves-fedramp-hig",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Kiro achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-amazon-redshift-adds-rese",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift adds Reserved Instance upfront pricing options for RG instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-aws-govcloud--us--now-off",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS GovCloud (US) now offers US-based, US citizen 24/7 technical support for all customers by default",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/default-govcloud-us-based-support/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-aws-backup-enhances-amazo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup enhances Amazon S3 backup copy performance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-s3-copy-enhancement/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-amazon-rds-custom-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-custom-supports-latest-cu-gdr-updates-microsoft-sql-server",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-amazon-rds-now-supports-t",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS now supports the latest GDR updates for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-supports-latest-gdr-updates-microsoft-sql-server",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-amazon-opensearch-ingesti",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ingestion-europe-paris-region-availability",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "gcp-june-25--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "June 25, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#June_25_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-25"
+  },
+  {
     "id": "gcp-june-24--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +139,84 @@
     "link": "https://docs.cloud.google.com/release-notes#June_24_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "aws-amazon-ec2-announces-ami-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 announces AMI Watermarks for improved AMI governance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 1,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "aws-amazon-emr-serverless-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EMR Serverless now supports live configuration updates without application restarts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "aws-aws-iot-device-sdk-for-sw",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IoT Device SDK for Swift is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "aws-amazon-route-53-global-re",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Route 53 Global Resolver now supports sharing DNS Views between AWS Accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-global-resolver/",
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 0,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "aws-amazon-neptune-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Neptune now supports AWS CloudFormation for global databases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-aws-cloudformation/",
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 0,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch now supports tags on dashboards",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards",
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 0,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "aws-amazon-ec2-high-memory-u7",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Asia Pacific (Seoul) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7in-24tb-aws-seoul/",
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 0,
     "date": "2026-06-24"
   },
   {
@@ -16,8 +225,8 @@
     "service": "",
     "feature": "Amazon CloudWatch Logs supports managed syslog ingestion",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.52.0",
     "lag": 0,
     "date": "2026-06-23"
   },
@@ -27,9 +236,9 @@
     "service": "General",
     "feature": "SageMaker Notebook Instances now support G6e instance types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 1,
     "date": "2026-06-23"
   },
   {
@@ -38,9 +247,9 @@
     "service": "",
     "feature": "Amazon Bedrock AgentCore Memory now supports cross-account access",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 1,
     "date": "2026-06-23"
   },
   {
@@ -51,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/healthomics-scratch-storage/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-06-23"
   },
   {
@@ -60,9 +269,9 @@
     "service": "",
     "feature": "Amazon Cognito now supports customer managed key for encryption at rest",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-customer-managed-key",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 1,
     "date": "2026-06-23"
   },
   {
@@ -71,9 +280,9 @@
     "service": "",
     "feature": "Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 1,
     "date": "2026-06-23"
   },
   {
@@ -82,9 +291,9 @@
     "service": "",
     "feature": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-amazon-eks/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 1,
     "date": "2026-06-23"
   },
   {
@@ -93,8 +302,8 @@
     "service": "General",
     "feature": "Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-tag-aws-marketplace/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.52.0",
     "lag": 1,
     "date": "2026-06-23"
   },
@@ -106,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-opensearch-service-ai-migrations",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 3,
     "date": "2026-06-23"
   },
   {
@@ -115,8 +324,8 @@
     "service": "",
     "feature": "Amazon SageMaker Studio notebooks now support G7e instance types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/g7e-new-launch-sagemaker-studio-notebooks/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.52.0",
     "lag": 1,
     "date": "2026-06-23"
   },
@@ -126,9 +335,9 @@
     "service": "General",
     "feature": "From insight to action: The next phase of agentic cloud operations",
     "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v4.79.0",
+    "lag": 2,
     "date": "2026-06-23"
   },
   {
@@ -143,6 +352,17 @@
     "date": "2026-06-23"
   },
   {
+    "id": "aws-amazon-guardduty-ai-power",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GuardDuty AI-powered investigations accelerate threat response (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-guardduty/",
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 0,
+    "date": "2026-06-23"
+  },
+  {
     "id": "aws-aws-healthomics-now-suppo",
     "cloud": "aws",
     "service": "General",
@@ -150,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 3,
     "date": "2026-06-22"
   },
   {
@@ -159,8 +379,8 @@
     "service": "General",
     "feature": "AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.52.0",
     "lag": 1,
     "date": "2026-06-22"
   },
@@ -170,9 +390,9 @@
     "service": "General",
     "feature": "AWS Transform for migrations now supports all AWS commercial regions as migration targets",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 2,
     "date": "2026-06-22"
   },
   {
@@ -181,9 +401,9 @@
     "service": "General",
     "feature": "AWS Network Firewall updates default drop action for improved connection reliability",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 2,
     "date": "2026-06-22"
   },
   {
@@ -194,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/batch-ordered-allocation-strategies/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 3,
     "date": "2026-06-22"
   },
   {
@@ -203,9 +423,9 @@
     "service": "General",
     "feature": "AWS IAM Identity Center now supports separate quotas for AWS accounts and applications",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-identity-center-separate-quotas/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.52.0",
+    "lag": 2,
     "date": "2026-06-22"
   },
   {
@@ -238,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-06-22"
   },
   {
@@ -260,7 +480,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-21"
   },
   {
@@ -458,7 +678,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-06-18"
   },
   {
@@ -1415,7 +1635,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-06-11"
   },
   {
@@ -1679,7 +1899,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-06-09"
   },
   {
@@ -2350,7 +2570,7 @@
     "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-06-02"
   },
   {
@@ -2867,7 +3087,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 29,
     "date": "2026-05-28"
   },
   {
