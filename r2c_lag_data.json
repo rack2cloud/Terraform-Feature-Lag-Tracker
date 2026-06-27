@@ -1,5 +1,27 @@
 [
   {
+    "id": "aws-amazon-ec2-r8g-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8g instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-26"
+  },
+  {
+    "id": "gcp-june-26--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "June 26, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#June_26_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-26"
+  },
+  {
     "id": "aws-amazon-ec2-c7a-instances-",
     "cloud": "aws",
     "service": "",
@@ -7,7 +29,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-25"
   },
   {
@@ -18,7 +40,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-25"
   },
   {
@@ -29,7 +51,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-25"
   },
   {
@@ -40,7 +62,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/network-firewall-visionheight-managed-rules",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-25"
   },
   {
@@ -51,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-25"
   },
   {
@@ -62,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-25"
   },
   {
@@ -73,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/default-govcloud-us-based-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-25"
   },
   {
@@ -84,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-s3-copy-enhancement/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-25"
   },
   {
@@ -95,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-custom-supports-latest-cu-gdr-updates-microsoft-sql-server",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-25"
   },
   {
@@ -106,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-supports-latest-gdr-updates-microsoft-sql-server",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-25"
   },
   {
@@ -117,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ingestion-europe-paris-region-availability",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-25"
   },
   {
@@ -126,6 +148,17 @@
     "service": "General",
     "feature": "June 25, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_25_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "aws-amazon-ec2-c8in-instances",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C8in instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-ireland-ohio/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -139,7 +172,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-06-24"
   },
   {
@@ -150,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-24"
   },
   {
@@ -161,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-24"
   },
   {
@@ -172,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-24"
   },
   {
@@ -260,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/healthomics-scratch-storage/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-06-23"
   },
   {
@@ -315,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-opensearch-service-ai-migrations",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-06-23"
   },
   {
@@ -370,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-06-22"
   },
   {
@@ -458,7 +491,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-22"
   },
   {
@@ -480,7 +513,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-06-21"
   },
   {
@@ -678,7 +711,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-06-18"
   },
   {
@@ -1635,7 +1668,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-06-11"
   },
   {
@@ -1899,7 +1932,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-06-09"
   },
   {
@@ -2142,17 +2175,6 @@
     "status": "Supported",
     "version": "v7.36.0",
     "lag": 4,
-    "date": "2026-06-05"
-  },
-  {
-    "id": "aws-amazon-ec2-c8in-instances",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 C8in instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-asia-pacific-europe/",
-    "status": "Supported",
-    "version": "v6.50.0",
-    "lag": 5,
     "date": "2026-06-05"
   },
   {
@@ -2570,7 +2592,7 @@
     "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-06-02"
   },
   {
@@ -3087,7 +3109,7 @@
     "link": "https://docs.cloud.google.com/release-notes#May_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 29,
+    "lag": 30,
     "date": "2026-05-28"
   },
   {
@@ -11063,17 +11085,6 @@
     "status": "Not Supported",
     "version": "--",
     "lag": 5,
-    "date": "2026-03-06"
-  },
-  {
-    "id": "aws-amazon-ec2-r8g-instances-",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 R8g instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8g-instances-additional-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 6,
     "date": "2026-03-06"
   },
   {
