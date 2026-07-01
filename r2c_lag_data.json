@@ -1,5 +1,280 @@
 [
   {
+    "id": "aws-aws-service-availability-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Service Availability Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-service-availability/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-logs-en",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Logs enriches log events with AWS resource tags",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-aws-cloudformation-and-cd",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-aws-cloudformation-and-cd",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation-cdk/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-rds-enhances-iam-d",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS Enhances IAM Database Authentication with Connection Rate Scaling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-iam/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-aws-parallel-computing-se",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Parallel Computing Service supports in-place Slurm major version upgrades",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-elasticache-t4g-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ElastiCache T4g nodes now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-neptune-announces-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Neptune announces dual stack support with IPv6",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-ipv6/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-aws-end-user-messaging-rc",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS End User Messaging RCS now supports rich media and interactive messaging",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-end-user-messaging-rcs/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-time-sync-service-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Time Sync Service adds support for Microsecond accurate time on 26 additional EC2 instance types in all commercial regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-time-sync-precision-time-placement-group",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-announcing-general-availa",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing general availability of Amazon WorkSpaces for AI agents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-ec2-auto-scaling-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 Auto Scaling now supports reservations then balanced Availability Zone distribution",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-auto-scaling-res-then-balanced/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-announcing-capability-ins",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing Capability Insights for AWS, an open-source solution for regional capabilities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/capability-insights-aws/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-cuts-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/sagemakerai-inf-scale-out-time",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-aws-security-hub-cspm-lau",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub CSPM launches AI Security Best Practices standard with 31 automated controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-cspm-ai-security/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-iam-identity-center-now-e",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "IAM Identity Center now enables programmatic AWS account access for customer managed applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iam-identity-center-account-access-customer-managed-apps/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-claude-sonnet-5-is-now-av",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Claude Sonnet 5 is now available on AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-sonnet-5-now-available-on-aws",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI now supports serverless model customization for Gemma 4 models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-gemma-4/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-ec2-c9g-and-c9gd-c",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C9g and C9gd compute optimized instances are now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-claude-opus-4-8-is-now-av",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Claude Opus 4.8 is now available in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws-govcloud-us",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-openai-gpt-5-4-and-nvidia",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-gpt-nemotron-launch-aws-govcloud-us/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-gamelift-servers-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GameLift Servers announces DDoS Protection client SDKs for C# and Unity",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-ddos-protection-unity",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-pipelin",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch pipelines now supports processing and enriching OpenTelemetry metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-pipelines-otel-metrics",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-aws-clean-rooms-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Clean Rooms now supports intermediate tables for SQL",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-clean-rooms-intermediate-tables",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "gcp-june-30--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "June 30, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#June_30_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-06-30"
+  },
+  {
     "id": "aws-aws-waf-adds-support-for-",
     "cloud": "aws",
     "service": "",
@@ -7,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-29"
   },
   {
@@ -18,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-vpc/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-29"
   },
   {
@@ -29,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-cloudwatch-logs-tables/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-29"
   },
   {
@@ -40,7 +315,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-29"
   },
   {
@@ -51,7 +326,7 @@
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-29"
   },
   {
@@ -62,7 +337,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-06-29"
   },
   {
@@ -71,8 +346,8 @@
     "service": "General",
     "feature": "June 29, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_29_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.39.0",
     "lag": 1,
     "date": "2026-06-29"
   },
@@ -82,8 +357,8 @@
     "service": "General",
     "feature": "June 28, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_28_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.39.0",
     "lag": 2,
     "date": "2026-06-28"
   },
@@ -93,8 +368,8 @@
     "service": "General",
     "feature": "June 27, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_27_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.39.0",
     "lag": 3,
     "date": "2026-06-27"
   },
@@ -106,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-06-26"
   },
   {
@@ -117,7 +392,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_26_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-26"
   },
   {
@@ -128,7 +403,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-06-26"
   },
   {
@@ -139,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-25"
   },
   {
@@ -150,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-25"
   },
   {
@@ -161,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-25"
   },
   {
@@ -172,7 +447,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/network-firewall-visionheight-managed-rules",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-25"
   },
   {
@@ -183,7 +458,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-25"
   },
   {
@@ -194,7 +469,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-25"
   },
   {
@@ -260,7 +535,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-06-25"
   },
   {
@@ -271,7 +546,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-ireland-ohio/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-06-25"
   },
   {
@@ -280,8 +555,8 @@
     "service": "General",
     "feature": "June 24, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_24_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.39.0",
     "lag": 6,
     "date": "2026-06-24"
   },
@@ -612,7 +887,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-06-22"
   },
   {
@@ -632,8 +907,8 @@
     "service": "General",
     "feature": "June 21, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_21_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.39.0",
     "lag": 9,
     "date": "2026-06-21"
   },
@@ -830,8 +1105,8 @@
     "service": "General",
     "feature": "June 18, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_18_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.39.0",
     "lag": 12,
     "date": "2026-06-18"
   },
@@ -1789,7 +2064,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-06-11"
   },
   {
@@ -2053,7 +2328,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-06-09"
   },
   {
@@ -9017,17 +9292,6 @@
     "status": "Not Supported",
     "version": "--",
     "lag": 2,
-    "date": "2026-03-31"
-  },
-  {
-    "id": "aws-aws-service-availability-",
-    "cloud": "aws",
-    "service": "General",
-    "feature": "AWS Service Availability Updates",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/",
-    "status": "Supported",
-    "version": "v6.39.0",
-    "lag": 1,
     "date": "2026-03-31"
   },
   {
