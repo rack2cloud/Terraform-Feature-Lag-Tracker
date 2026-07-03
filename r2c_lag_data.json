@@ -1,5 +1,71 @@
 [
   {
+    "id": "aws-amazon-ec2-x8i-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 X8i instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-02"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-02"
+  },
+  {
+    "id": "aws-amazon-ec2-dedicated-host",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-02"
+  },
+  {
+    "id": "aws-amazon-sagemaker-hyperpod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker HyperPod now supports AMI versioning and auto-patching",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-02"
+  },
+  {
+    "id": "aws-aws-config-now-supports-8",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Config now supports 8 new resource types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-02"
+  },
+  {
+    "id": "gcp-july-02--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "July 02, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#July_02_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-02"
+  },
+  {
     "id": "aws-amazon-bedrock-agentcore-",
     "cloud": "aws",
     "service": "",
@@ -7,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -18,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -40,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-aws-management-console/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -51,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -62,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-co-selling-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -73,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -84,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -95,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -106,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-sfm/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -139,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-version-rollback",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-01"
   },
   {
@@ -183,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-optimized-log-analytics",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-01"
   },
   {
@@ -194,7 +260,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-01"
   },
   {
@@ -260,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-30"
   },
   {
@@ -271,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-30"
   },
   {
@@ -282,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-ipv6/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-06-30"
   },
   {
@@ -469,7 +535,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-06-30"
   },
   {
@@ -478,6 +544,28 @@
     "service": "",
     "feature": "AWS Network Firewall now supports container attribute-based inspection for Amazon EKS and Amazon ECS",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-container-attributes-referencing",
+    "status": "Supported",
+    "version": "v6.53.0",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-connect-customer-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer now supports rule based redaction for agent screen recording",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/screen-recording-rule-based/",
+    "status": "Supported",
+    "version": "v6.53.0",
+    "lag": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "aws-amazon-connect-customer-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer now supports assigning up to 7 security profiles with granular access controls per user",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/connect-7-security-profiles-user/",
     "status": "Supported",
     "version": "v6.53.0",
     "lag": 0,
@@ -601,7 +689,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_26_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-06-26"
   },
   {
@@ -610,9 +698,9 @@
     "service": "",
     "feature": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
     "link": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v4.80.0",
+    "lag": 6,
     "date": "2026-06-26"
   },
   {
@@ -744,7 +832,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-06-25"
   },
   {
@@ -1096,7 +1184,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-06-22"
   },
   {
@@ -2273,7 +2361,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-06-11"
   },
   {
@@ -2537,7 +2625,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-06-09"
   },
   {
@@ -3197,7 +3285,7 @@
     "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 30,
     "date": "2026-06-02"
   },
   {
@@ -3934,17 +4022,6 @@
     "link": "https://docs.cloud.google.com/release-notes#May_26_2026",
     "status": "Supported",
     "version": "v7.34.0",
-    "lag": 1,
-    "date": "2026-05-26"
-  },
-  {
-    "id": "aws-amazon-ec2-x8i-instances-",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 X8i instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/",
-    "status": "Supported",
-    "version": "v6.47.0",
     "lag": 1,
     "date": "2026-05-26"
   },
