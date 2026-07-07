@@ -69,9 +69,9 @@
   }
   .hero-eyebrow::before { content: '>_'; color: var(--faint); }
   .hero h1 {
-    font-family: var(--sans); font-size: clamp(2.2rem, 5vw, 3.6rem); font-weight: 900;
+    font-family: var(--sans); font-size: clamp(2.8rem, 6vw, 5rem); font-weight: 900;
     line-height: 1.0; letter-spacing: -2px; color: #fff; text-transform: uppercase;
-    margin-bottom: 14px;
+    margin-bottom: 20px;
   }
   .hero h1 .word-amber { color: var(--amber); }
   .hero-desc {
@@ -89,9 +89,10 @@
     border-top: 3px solid var(--amber); border-radius: 6px;
     padding: 18px 24px; flex: 1; min-width: 180px;
   }
+  .kpi-label { font-family: var(--mono); font-size: 0.65rem; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: var(--dim); margin-bottom: 8px; }
   .kpi-value { font-family: var(--sans); font-size: 2rem; font-weight: 900; color: #fff; line-height: 1; }
-  .kpi-value.is-gap { color: var(--amber); }
-  .kpi-label { font-family: var(--mono); font-size: 0.65rem; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: var(--dim); margin-top: 8px; }
+  .kpi-value.is-total { color: var(--green); }
+  .kpi-value.is-gap { color: var(--red); }
   .kpi-freshness {
     background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
     padding: 18px 24px; flex: 1.4; min-width: 220px;
@@ -139,11 +140,11 @@
 
   .cloud-tag {
     display: inline-block; font-family: var(--mono); font-size: 0.62rem; font-weight: 900;
-    padding: 3px 8px; border-radius: 4px; letter-spacing: 0.5px;
+    padding: 3px 8px; border-radius: 4px; letter-spacing: 0.5px; border: 1px solid transparent;
   }
-  .cloud-aws   { background: rgba(255,153,0,0.15); color: #ff9900; }
-  .cloud-azure { background: rgba(0,127,255,0.15); color: #4da3ff; }
-  .cloud-gcp   { background: rgba(234,67,53,0.15); color: #ea6b60; }
+  .cloud-aws   { border-color: #eab308; color: #eab308; background: rgba(234,179,8,0.08); }
+  .cloud-azure { border-color: #3b82f6; color: #3b82f6; background: rgba(59,130,246,0.08); }
+  .cloud-gcp   { border-color: #f97316; color: #f97316; background: rgba(249,115,22,0.08); }
 
   .feature-link { color: var(--text); text-decoration: none; border-bottom: 1px dotted var(--faint); }
   .feature-link:hover { color: var(--amber); border-color: var(--amber); }
@@ -155,13 +156,13 @@
     padding: 4px 10px; border-radius: 12px;
   }
   .status-supported { background: rgba(34,197,94,0.12); color: var(--green); }
-  .status-gap { background: rgba(245,158,11,0.12); color: var(--amber); }
+  .status-gap { background: rgba(239,68,68,0.12); color: var(--red); }
 
   .lag-cell { min-width: 160px; }
   .lag-bar-wrap { display: flex; align-items: center; gap: 10px; }
   .lag-bar-track { flex: 1; height: 6px; background: var(--surface2); border-radius: 3px; overflow: hidden; min-width: 70px; }
   .lag-bar-fill { height: 100%; border-radius: 3px; background: var(--dim); }
-  .lag-bar-fill.is-gap { background: var(--amber); }
+  .lag-bar-fill.is-gap { background: var(--red); }
   .lag-bar-fill.is-supported { background: var(--green); }
   .lag-days { font-family: var(--mono); font-size: 0.75rem; color: var(--muted); white-space: nowrap; min-width: 52px; text-align: right; }
   .lag-days.is-high { color: var(--amber); font-weight: 700; }
@@ -217,7 +218,7 @@
       border: 1px solid var(--border); border-left: 3px solid var(--border2);
       border-radius: 6px; margin-bottom: 10px; padding: 14px 16px;
     }
-    tbody tr.row-gap { border-left-color: var(--amber); }
+    tbody tr.row-gap { border-left-color: var(--red); }
     tbody tr.row-supported { border-left-color: var(--green); }
     tbody td { border-bottom: none; padding: 4px 0; }
     .cell-label { display: inline-block; font-family: var(--mono); font-size: 0.6rem; color: var(--faint); text-transform: uppercase; letter-spacing: 1px; width: 70px; }
@@ -230,8 +231,8 @@
     <div class="header-left">
       <img class="header-logo" src="https://www.rack2cloud.com/wp-content/uploads/2026/03/rack2cloud_icon.jpg" alt="rack2cloud">
       <div>
-        <div class="header-title">Terraform Feature Lag Tracker</div>
-        <div class="header-sub">Modern Infrastructure &amp; IaC</div>
+        <div class="header-title">Rack2Cloud</div>
+        <div class="header-sub">Terraform Feature Lag Tracker</div>
       </div>
     </div>
     <div class="header-badge">Deterministic Diagnostic</div>
@@ -240,7 +241,7 @@
   <div class="page-wrap">
     <div class="hero">
       <div class="hero-eyebrow">Provider Capability Drift</div>
-      <h1>Where Your Infrastructure <span class="word-amber">Intent</span> Outpaces Provider Reality</h1>
+      <h1>Terraform<br><span class="word-amber">Feature Lag</span><br>Tracker</h1>
       <p class="hero-desc">Every tracked cloud GA announcement across AWS, Azure, and GCP, cross-referenced against the Terraform provider release that shipped support for it — or hasn't yet. Refreshed daily at 08:00 UTC.</p>
       <div class="hero-meta">
         <div class="hero-meta-item"><span>✓</span> Deterministic. Not AI-generated.</div>
@@ -251,12 +252,12 @@
 
     <div class="kpi-row">
       <div class="kpi-card">
-        <div class="kpi-value" id="kpi-total">--</div>
         <div class="kpi-label">Features Tracked</div>
+        <div class="kpi-value is-total" id="kpi-total">--</div>
       </div>
       <div class="kpi-card">
-        <div class="kpi-value is-gap" id="kpi-gaps">--</div>
         <div class="kpi-label">Provider Gaps</div>
+        <div class="kpi-value is-gap" id="kpi-gaps">--</div>
       </div>
       <div class="kpi-freshness">
         <div class="kpi-freshness-label">Data Current Through</div>
