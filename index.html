@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terraform Feature Lag Tracker — rack2cloud.com</title>
+<meta name="description" content="Live drift tracker showing the gap between cloud provider GA announcements and Terraform provider support across AWS, Azure, and GCP. Deterministic, browser-only.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:          #0a0f1e;
+    --surface:     #0f172a;
+    --surface2:    #1e293b;
+    --border:      #1e293b;
+    --border2:     #334155;
+    --text:        #e2e8f0;
+    --muted:       #94a3b8;
+    --dim:         #64748b;
+    --faint:       #475569;
+    --ghost:       #334155;
+
+    --amber:      #f59e0b;
+    --amber-bg:   rgba(245,158,11,0.08);
+    --amber-glow: rgba(245,158,11,0.15);
+
+    --purple:      #a78bfa;
+    --cyan:        #38bdf8;
+    --green:       #22c55e;
+    --red:         #ef4444;
+
+    --mono: 'JetBrains Mono', monospace;
+    --sans: 'Inter', sans-serif;
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--bg); color: var(--text); font-family: var(--sans);
+    min-height: 100vh; line-height: 1.6; -webkit-font-smoothing: antialiased;
+  }
+  .page-wrap { max-width: 1400px; margin: 0 auto; }
+
+  /* Header */
+  .header {
+    background: var(--surface); border-bottom: 1px solid var(--border);
+    padding: 14px 24px; display: flex; align-items: center;
+    justify-content: space-between; gap: 16px; flex-wrap: wrap;
+    position: sticky; top: 0; z-index: 100;
+  }
+  .header-left { display: flex; align-items: center; gap: 12px; }
+  .header-logo { width: 30px; height: 30px; border-radius: 4px; display: block; }
+  .header-title { font-family: var(--mono); font-size: 0.82rem; font-weight: 900; text-transform: uppercase; letter-spacing: 1px; color: #fff; line-height: 1.2; }
+  .header-sub { font-family: var(--mono); font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: var(--amber); margin-top: 2px; }
+  .header-badge {
+    font-family: var(--mono); font-size: 0.62rem; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 1px; color: var(--amber);
+    border: 1px solid var(--amber); padding: 5px 12px; border-radius: 4px;
+    background: var(--amber-bg);
+  }
+
+  /* Hero */
+  .hero { padding: 40px 5% 28px; }
+  .hero-eyebrow {
+    font-family: var(--mono); font-size: 0.65rem; font-weight: 900;
+    text-transform: uppercase; letter-spacing: 2px; color: var(--amber);
+    margin-bottom: 16px; display: flex; align-items: center; gap: 8px;
+  }
+  .hero-eyebrow::before { content: '>_'; color: var(--faint); }
+  .hero h1 {
+    font-family: var(--sans); font-size: clamp(2.2rem, 5vw, 3.6rem); font-weight: 900;
+    line-height: 1.0; letter-spacing: -2px; color: #fff; text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+  .hero h1 .word-amber { color: var(--amber); }
+  .hero-desc {
+    font-family: var(--mono); font-size: 0.85rem; color: var(--muted);
+    line-height: 1.7; max-width: 720px; margin-bottom: 20px;
+  }
+  .hero-meta { display: flex; gap: 20px; flex-wrap: wrap; }
+  .hero-meta-item { font-family: var(--mono); font-size: 0.68rem; color: var(--dim); display: flex; align-items: center; gap: 6px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .hero-meta-item span { color: var(--amber); }
+
+  /* KPI row */
+  .kpi-row { display: flex; gap: 16px; flex-wrap: wrap; padding: 0 5% 28px; }
+  .kpi-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-top: 3px solid var(--amber); border-radius: 6px;
+    padding: 18px 24px; flex: 1; min-width: 180px;
+  }
+  .kpi-value { font-family: var(--sans); font-size: 2rem; font-weight: 900; color: #fff; line-height: 1; }
+  .kpi-value.is-gap { color: var(--amber); }
+  .kpi-label { font-family: var(--mono); font-size: 0.65rem; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: var(--dim); margin-top: 8px; }
+  .kpi-freshness {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
+    padding: 18px 24px; flex: 1.4; min-width: 220px;
+    display: flex; flex-direction: column; justify-content: center;
+  }
+  .kpi-freshness-label { font-family: var(--mono); font-size: 0.62rem; text-transform: uppercase; letter-spacing: 1.5px; color: var(--dim); margin-bottom: 6px; }
+  .kpi-freshness-value { font-family: var(--mono); font-size: 0.9rem; font-weight: 700; color: var(--muted); }
+  .kpi-freshness-value.is-stale { color: var(--red); }
+
+  /* Toolbar */
+  .toolbar { padding: 0 5% 20px; display: flex; flex-direction: column; gap: 14px; }
+  .toolbar-row { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+  .toolbar-label { font-family: var(--mono); font-size: 0.65rem; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: var(--dim); min-width: 60px; }
+  .toggle-group { display: flex; gap: 8px; flex-wrap: wrap; }
+  .toggle-btn {
+    background: var(--bg); border: 1px solid var(--border2);
+    color: var(--dim); font-family: var(--mono); font-size: 0.68rem; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 1px; padding: 9px 16px;
+    border-radius: 4px; cursor: pointer; transition: all 0.15s;
+  }
+  .toggle-btn.active { color: var(--amber); border-color: var(--amber); background: var(--amber-bg); }
+  .toggle-btn:hover:not(.active) { color: var(--muted); border-color: var(--muted); }
+  .search-input {
+    background: var(--surface); border: 1px solid var(--border2); color: var(--text);
+    font-family: var(--mono); font-size: 0.78rem; padding: 9px 14px; border-radius: 4px;
+    min-width: 240px; flex: 1; max-width: 340px;
+  }
+  .search-input:focus { outline: none; border-color: var(--amber); }
+  .search-input::placeholder { color: var(--faint); }
+
+  /* Table */
+  .table-section { padding: 0 5% 40px; }
+  .table-wrap { border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+  table { width: 100%; border-collapse: collapse; min-width: 640px; }
+  thead th {
+    background: var(--surface2); text-align: left; padding: 12px 16px;
+    font-family: var(--mono); font-size: 0.62rem; font-weight: 800; text-transform: uppercase;
+    letter-spacing: 1px; color: var(--dim); border-bottom: 1px solid var(--border2);
+    white-space: nowrap;
+  }
+  tbody td { padding: 12px 16px; border-bottom: 1px solid var(--border); vertical-align: middle; font-size: 0.85rem; }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover { background: rgba(245,158,11,0.03); }
+  .table-scroll { overflow-x: auto; }
+
+  .cloud-tag {
+    display: inline-block; font-family: var(--mono); font-size: 0.62rem; font-weight: 900;
+    padding: 3px 8px; border-radius: 4px; letter-spacing: 0.5px;
+  }
+  .cloud-aws   { background: rgba(255,153,0,0.15); color: #ff9900; }
+  .cloud-azure { background: rgba(0,127,255,0.15); color: #4da3ff; }
+  .cloud-gcp   { background: rgba(234,67,53,0.15); color: #ea6b60; }
+
+  .feature-link { color: var(--text); text-decoration: none; border-bottom: 1px dotted var(--faint); }
+  .feature-link:hover { color: var(--amber); border-color: var(--amber); }
+  .feature-service { display: block; font-family: var(--mono); font-size: 0.68rem; color: var(--dim); margin-top: 2px; }
+
+  .status-pill {
+    display: inline-flex; align-items: center; gap: 5px; font-family: var(--mono);
+    font-size: 0.65rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
+    padding: 4px 10px; border-radius: 12px;
+  }
+  .status-supported { background: rgba(34,197,94,0.12); color: var(--green); }
+  .status-gap { background: rgba(245,158,11,0.12); color: var(--amber); }
+
+  .lag-cell { min-width: 160px; }
+  .lag-bar-wrap { display: flex; align-items: center; gap: 10px; }
+  .lag-bar-track { flex: 1; height: 6px; background: var(--surface2); border-radius: 3px; overflow: hidden; min-width: 70px; }
+  .lag-bar-fill { height: 100%; border-radius: 3px; background: var(--dim); }
+  .lag-bar-fill.is-gap { background: var(--amber); }
+  .lag-bar-fill.is-supported { background: var(--green); }
+  .lag-days { font-family: var(--mono); font-size: 0.75rem; color: var(--muted); white-space: nowrap; min-width: 52px; text-align: right; }
+  .lag-days.is-high { color: var(--amber); font-weight: 700; }
+
+  .version-cell { font-family: var(--mono); font-size: 0.72rem; color: var(--dim); }
+
+  .empty-row td, .error-row td { text-align: center; padding: 48px 20px; color: var(--dim); font-family: var(--mono); font-size: 0.8rem; }
+  .error-row .error-title { color: var(--red); font-weight: 800; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+  .error-row .error-sub { color: var(--dim); font-size: 0.72rem; }
+
+  /* CTA block */
+  .cta-block-outer { padding: 0 5% 48px; }
+  .cta-block {
+    background: linear-gradient(135deg, var(--surface) 0%, #111a2e 100%);
+    border: 1px solid var(--border); border-left: 5px solid var(--amber);
+    border-radius: 8px; padding: 36px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.2);
+  }
+  .cta-eyebrow { font-family: var(--mono); font-size: 0.65rem; font-weight: 900; text-transform: uppercase; letter-spacing: 2px; color: var(--amber); margin-bottom: 10px; }
+  .cta-block h3 { color: #fff; font-size: clamp(1.15rem, 2.6vw, 1.5rem); font-weight: 900; text-transform: uppercase; letter-spacing: -0.5px; margin-bottom: 8px; }
+  .cta-block p { color: var(--dim); font-size: 0.88rem; line-height: 1.6; margin-bottom: 20px; max-width: 640px; }
+  .r2c-btn {
+    display: inline-block; background: var(--amber-bg); border: 1px solid var(--amber);
+    color: var(--amber); font-family: var(--mono); font-size: 0.75rem; font-weight: 900;
+    text-transform: uppercase; letter-spacing: 1px; padding: 10px 22px; border-radius: 4px;
+    text-decoration: none; transition: all 0.15s;
+  }
+  .r2c-btn:hover { background: var(--amber); color: var(--bg); }
+
+  /* Footer */
+  .tool-footer {
+    padding: 16px 24px; border-top: 1px solid var(--border); text-align: center;
+    color: var(--ghost); font-family: var(--mono); font-size: 0.62rem;
+    text-transform: uppercase; letter-spacing: 1px;
+  }
+  .tool-footer a { color: var(--faint); text-decoration: none; border-bottom: 1px solid var(--border2); }
+  .tool-footer a:hover { color: var(--amber); border-color: var(--amber); }
+
+  @media (max-width: 820px) {
+    .kpi-row { flex-direction: column; }
+  }
+
+  /* Mobile: card layout instead of horizontal-scroll table */
+  @media (max-width: 640px) {
+    .header { padding: 12px 16px; }
+    .hero { padding: 24px 4% 20px; }
+    .kpi-row, .toolbar, .table-section, .cta-block-outer { padding-left: 4%; padding-right: 4%; }
+    .hero h1 { font-size: 2rem; letter-spacing: -0.5px; }
+
+    thead { display: none; }
+    .table-wrap { border: none; }
+    table, tbody, tr, td { display: block; width: 100%; }
+    tbody tr {
+      border: 1px solid var(--border); border-left: 3px solid var(--border2);
+      border-radius: 6px; margin-bottom: 10px; padding: 14px 16px;
+    }
+    tbody tr.row-gap { border-left-color: var(--amber); }
+    tbody tr.row-supported { border-left-color: var(--green); }
+    tbody td { border-bottom: none; padding: 4px 0; }
+    .cell-label { display: inline-block; font-family: var(--mono); font-size: 0.6rem; color: var(--faint); text-transform: uppercase; letter-spacing: 1px; width: 70px; }
+    .lag-cell { min-width: 0; }
+  }
+</style>
+</head>
+<body>
+  <div class="header">
+    <div class="header-left">
+      <img class="header-logo" src="https://www.rack2cloud.com/wp-content/uploads/2026/03/rack2cloud_icon.jpg" alt="rack2cloud">
+      <div>
+        <div class="header-title">Terraform Feature Lag Tracker</div>
+        <div class="header-sub">Modern Infrastructure &amp; IaC</div>
+      </div>
+    </div>
+    <div class="header-badge">Deterministic Diagnostic</div>
+  </div>
+
+  <div class="page-wrap">
+    <div class="hero">
+      <div class="hero-eyebrow">Provider Capability Drift</div>
+      <h1>Where Your Infrastructure <span class="word-amber">Intent</span> Outpaces Provider Reality</h1>
+      <p class="hero-desc">Every tracked cloud GA announcement across AWS, Azure, and GCP, cross-referenced against the Terraform provider release that shipped support for it — or hasn't yet. Refreshed daily at 08:00 UTC.</p>
+      <div class="hero-meta">
+        <div class="hero-meta-item"><span>✓</span> Deterministic. Not AI-generated.</div>
+        <div class="hero-meta-item"><span>✓</span> Runs entirely in your browser.</div>
+        <div class="hero-meta-item"><span>✓</span> No input required.</div>
+      </div>
+    </div>
+
+    <div class="kpi-row">
+      <div class="kpi-card">
+        <div class="kpi-value" id="kpi-total">--</div>
+        <div class="kpi-label">Features Tracked</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-value is-gap" id="kpi-gaps">--</div>
+        <div class="kpi-label">Provider Gaps</div>
+      </div>
+      <div class="kpi-freshness">
+        <div class="kpi-freshness-label">Data Current Through</div>
+        <div class="kpi-freshness-value" id="kpi-freshness">Loading…</div>
+      </div>
+    </div>
+
+    <div class="toolbar">
+      <div class="toolbar-row">
+        <span class="toolbar-label">Cloud:</span>
+        <div class="toggle-group" id="cloud-toggle">
+          <button class="toggle-btn active" data-cloud="all">All</button>
+          <button class="toggle-btn" data-cloud="aws">AWS</button>
+          <button class="toggle-btn" data-cloud="azure">Azure</button>
+          <button class="toggle-btn" data-cloud="gcp">GCP</button>
+        </div>
+      </div>
+      <div class="toolbar-row">
+        <span class="toolbar-label">Status:</span>
+        <div class="toggle-group" id="status-toggle">
+          <button class="toggle-btn active" data-status="all">All</button>
+          <button class="toggle-btn" data-status="Not Supported">Gap</button>
+          <button class="toggle-btn" data-status="Supported">Supported</button>
+        </div>
+        <input type="text" class="search-input" id="search-input" placeholder="Search feature or service…">
+      </div>
+    </div>
+
+    <div class="table-section">
+      <div class="table-wrap">
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th style="width:90px;">Cloud</th>
+                <th>Feature</th>
+                <th style="width:110px;">Status</th>
+                <th style="width:180px;">Lag</th>
+                <th style="width:90px;">Version</th>
+              </tr>
+            </thead>
+            <tbody id="table-body">
+              <tr class="empty-row"><td colspan="5">Synchronizing cloud data…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="cta-block-outer">
+      <div class="cta-block">
+        <div class="cta-eyebrow">Modern Infrastructure &amp; IaC — Next Steps</div>
+        <h3>A Gap List Isn't a Migration Plan.</h3>
+        <p>Knowing where Terraform lags provider reality is the input. Deciding what to build around, wait for, or work around across your actual estate is the architecture conversation.</p>
+        <a href="https://www.rack2cloud.com/work-with-me/" class="r2c-btn">&gt;_ Request Architecture Review</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="tool-footer">
+    🔒 No cookies. No tracking. Runs entirely in your local browser session. &nbsp;|&nbsp;
+    <a href="https://www.rack2cloud.com/engineering-workbench/iac-governance/">IaC Governance Toolkit</a>
+    &nbsp;|&nbsp;
+    <a href="https://www.rack2cloud.com/">rack2cloud.com</a>
+  </div>
+
+  <script>
+    const DATA_SRC = 'https://raw.githubusercontent.com/rack2cloud/Terraform-Feature-Lag-Tracker/main/r2c_lag_data.json?t=' + Date.now();
+    const CACHE_KEY = 'r2c-tlt-cache-v1';
+    const LAG_SCALE_MAX = 180;
+
+    let rawRecords = [];
+    let filterCloud = 'all';
+    let filterStatus = 'all';
+
+    document.addEventListener('DOMContentLoaded', init);
+
+    async function init() {
+      document.getElementById('cloud-toggle').addEventListener('click', (e) => {
+        const btn = e.target.closest('.toggle-btn');
+        if (!btn) return;
+        filterCloud = btn.dataset.cloud;
+        setActive('cloud-toggle', btn);
+        render();
+      });
+      document.getElementById('status-toggle').addEventListener('click', (e) => {
+        const btn = e.target.closest('.toggle-btn');
+        if (!btn) return;
+        filterStatus = btn.dataset.status;
+        setActive('status-toggle', btn);
+        render();
+      });
+      document.getElementById('search-input').addEventListener('input', render);
+
+      try {
+        const res = await fetch(DATA_SRC);
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        if (!Array.isArray(data)) throw new Error('Unexpected data shape');
+        rawRecords = data;
+        localStorage.setItem(CACHE_KEY, JSON.stringify({ data, fetchedAt: Date.now() }));
+        render();
+      } catch (err) {
+        console.error('TLT fetch error:', err);
+        const cached = readCache();
+        if (cached) {
+          rawRecords = cached.data;
+          render(true, cached.fetchedAt);
+        } else {
+          renderFetchError();
+        }
+      }
+    }
+
+    function readCache() {
+      try {
+        const raw = localStorage.getItem(CACHE_KEY);
+        if (!raw) return null;
+        return JSON.parse(raw);
+      } catch { return null; }
+    }
+
+    function setActive(groupId, activeBtn) {
+      document.querySelectorAll('#' + groupId + ' .toggle-btn').forEach(b => b.classList.remove('active'));
+      activeBtn.classList.add('active');
+    }
+
+    function maxDate(records) {
+      let max = null;
+      for (const r of records) {
+        const d = new Date(r.date);
+        if (!max || d > max) max = d;
+      }
+      return max;
+    }
+
+    function formatDate(d) {
+      if (!d) return '—';
+      return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+
+    function render(isStale, staleFetchedAt) {
+      const total = rawRecords.length;
+      const gaps = rawRecords.filter(r => r.status === 'Not Supported').length;
+      document.getElementById('kpi-total').textContent = total || '--';
+      document.getElementById('kpi-gaps').textContent = total ? gaps : '--';
+
+      const freshnessEl = document.getElementById('kpi-freshness');
+      const md = maxDate(rawRecords);
+      if (isStale) {
+        freshnessEl.textContent = 'Feed unavailable — last synced ' + new Date(staleFetchedAt).toLocaleDateString();
+        freshnessEl.classList.add('is-stale');
+      } else {
+        freshnessEl.textContent = formatDate(md);
+        freshnessEl.classList.remove('is-stale');
+      }
+
+      const search = document.getElementById('search-input').value.toLowerCase();
+      let filtered = rawRecords.filter(r => {
+        const matchCloud = filterCloud === 'all' || r.cloud === filterCloud;
+        const matchStatus = filterStatus === 'all' || r.status === filterStatus;
+        const matchText = (r.feature || '').toLowerCase().includes(search) ||
+                           (r.service || '').toLowerCase().includes(search);
+        return matchCloud && matchStatus && matchText;
+      });
+
+      // Gap-first sort: open gaps sorted by lag desc, then supported sorted by lag desc.
+      // Raw lag means different things per status (see build notes), so they never mix.
+      const gapRows = filtered.filter(r => r.status === 'Not Supported').sort((a, b) => b.lag - a.lag);
+      const supportedRows = filtered.filter(r => r.status === 'Supported').sort((a, b) => b.lag - a.lag);
+      filtered = [...gapRows, ...supportedRows];
+
+      renderRows(filtered);
+    }
+
+    function renderFetchError() {
+      document.getElementById('table-body').innerHTML =
+        '<tr class="error-row"><td colspan="5">' +
+        '<div class="error-title">Feed Unavailable</div>' +
+        '<div class="error-sub">Unable to reach the data source and no cached data is available. Try again shortly.</div>' +
+        '</td></tr>';
+      document.getElementById('kpi-freshness').textContent = 'Unavailable';
+      document.getElementById('kpi-freshness').classList.add('is-stale');
+    }
+
+    function renderRows(items) {
+      const tbody = document.getElementById('table-body');
+      if (items.length === 0) {
+        tbody.innerHTML = '<tr class="empty-row"><td colspan="5">No records match your filters.</td></tr>';
+        return;
+      }
+      tbody.innerHTML = items.map(rowHtml).join('');
+    }
+
+    function rowHtml(item) {
+      const isGap = item.status === 'Not Supported';
+      const cloudClass = 'cloud-' + item.cloud;
+      const cloudLabel = item.cloud === 'azure' ? 'AZURE' : item.cloud.toUpperCase();
+      const statusClass = isGap ? 'status-gap' : 'status-supported';
+      const statusLabel = isGap ? 'Gap' : 'Supported';
+      const rowClass = isGap ? 'row-gap' : 'row-supported';
+
+      const pct = Math.min(100, Math.round((item.lag / LAG_SCALE_MAX) * 100));
+      const barClass = isGap ? 'is-gap' : 'is-supported';
+      const daysClass = item.lag > 30 ? 'is-high' : '';
+
+      return `
+        <tr class="${rowClass}">
+          <td><span class="cell-label">Cloud</span><span class="cloud-tag ${cloudClass}">${cloudLabel}</span></td>
+          <td><span class="cell-label">Feature</span><a class="feature-link" href="${item.link}" target="_blank" rel="noopener">${escapeHtml(item.feature)}</a>${item.service ? '<span class="feature-service">' + escapeHtml(item.service) + '</span>' : ''}</td>
+          <td><span class="cell-label">Status</span><span class="status-pill ${statusClass}">${statusLabel}</span></td>
+          <td class="lag-cell"><span class="cell-label">Lag</span>
+            <div class="lag-bar-wrap">
+              <div class="lag-bar-track"><div class="lag-bar-fill ${barClass}" style="width:${pct}%"></div></div>
+              <span class="lag-days ${daysClass}">${item.lag}d</span>
+            </div>
+          </td>
+          <td class="version-cell"><span class="cell-label">Version</span>${item.version || '--'}</td>
+        </tr>
+      `;
+    }
+
+    function escapeHtml(str) {
+      const div = document.createElement('div');
+      div.textContent = str;
+      return div.innerHTML;
+    }
+  </script>
+</body>
+</html>
