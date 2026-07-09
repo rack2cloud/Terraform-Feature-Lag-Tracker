@@ -1,5 +1,82 @@
 [
   {
+    "id": "aws-aws-builder-center-now-of",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Builder Center Now Offers Free Sandbox Environments",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-08"
+  },
+  {
+    "id": "aws-aws-security-hub-now-offe",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub now offers Network Scanning to identify publicly reachable resources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-08"
+  },
+  {
+    "id": "aws-amazon-redshift-rg-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift RG instances now available on the trailing track",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track",
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 0,
+    "date": "2026-07-08"
+  },
+  {
+    "id": "aws-amazon-aurora-dsql-change",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL change data capture (CDC) Is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-cdc-ga/",
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 0,
+    "date": "2026-07-08"
+  },
+  {
+    "id": "aws-amazon-connect-customer-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-agent-scheduling-tasks/",
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 0,
+    "date": "2026-07-08"
+  },
+  {
+    "id": "azure-built-to-bounce-back--how",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Built to bounce back: How Azure resiliency evolved",
+    "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-08"
+  },
+  {
+    "id": "gcp-july-08--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "July 08, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#July_08_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-08"
+  },
+  {
     "id": "aws-amazon-gamelift-streams-i",
     "cloud": "aws",
     "service": "",
@@ -7,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -16,9 +93,9 @@
     "service": "",
     "feature": "Amazon S3 Vectors is now available in AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-vectors-available-aws-govcloud-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -29,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-supports-monitoring-microsoft-azure/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -38,9 +115,9 @@
     "service": "",
     "feature": "Amazon ECS Managed Instances reduces GPU management fees by up to 60%",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-managed-instances-gpu-price/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -51,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-serverless/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -60,9 +137,9 @@
     "service": "",
     "feature": "Amazon EC2 C8ine instances are now available in AWS Europe (Frankfurt) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c8ine-aws-frankfurt/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -71,9 +148,9 @@
     "service": "",
     "feature": "Amazon SageMaker now supports data lineage in IAM-based domains",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-data-lineage-iam-domain",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -82,9 +159,9 @@
     "service": "",
     "feature": "Amazon Redshift RG instances now available in AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-instances-aws-govcloud",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -93,9 +170,9 @@
     "service": "",
     "feature": "Amazon RDS for Oracle now supports Oracle Database 26ai",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-database-26ai/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -104,9 +181,9 @@
     "service": "",
     "feature": "Amazon S3 Express One Zone is now available in the AWS Europe (Frankfurt) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-express-one-zone-europe-frankfurt/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -115,9 +192,9 @@
     "service": "",
     "feature": "Amazon EKS Auto Mode reduces GPU management fees by up to 60%",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-auto-mode-gpu-price",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 1,
     "date": "2026-07-07"
   },
   {
@@ -126,8 +203,8 @@
     "service": "",
     "feature": "Amazon SageMaker Unified Studio now supports importing existing MWAA environments",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-import-existing-mwaa-environments/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.54.0",
     "lag": 1,
     "date": "2026-07-07"
   },
@@ -139,6 +216,39 @@
     "link": "https://docs.cloud.google.com/release-notes#July_07_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-07-07"
+  },
+  {
+    "id": "aws-amazon-ec2-high-memory-u7",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-u7i-aws-europe-zurich/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-07"
+  },
+  {
+    "id": "aws-aws-systems-manager-simpl",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Systems Manager simplifies Azure VM management and hybrid node pricing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-systems-manager-multicloud-vm/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-07-07"
+  },
+  {
+    "id": "azure-external-key-management-f",
+    "cloud": "azure",
+    "service": "",
+    "feature": "External key management for Azure Managed HSM is now in public preview",
+    "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 1,
     "date": "2026-07-07"
   },
@@ -148,8 +258,8 @@
     "service": "",
     "feature": "Amazon SageMaker HyperPod now supports disaggregated prefill and decode",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.54.0",
     "lag": 1,
     "date": "2026-07-06"
   },
@@ -159,8 +269,8 @@
     "service": "",
     "feature": "Amazon Cognito now supports self-service provisioned API rate limits",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.54.0",
     "lag": 1,
     "date": "2026-07-06"
   },
@@ -170,8 +280,8 @@
     "service": "",
     "feature": "Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.54.0",
     "lag": 1,
     "date": "2026-07-06"
   },
@@ -181,9 +291,9 @@
     "service": "",
     "feature": "Amazon EVS VCF 9.0 and 9.1 support",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 2,
     "date": "2026-07-06"
   },
   {
@@ -194,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-06"
   },
   {
@@ -203,9 +313,9 @@
     "service": "General",
     "feature": "CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 2,
     "date": "2026-07-06"
   },
   {
@@ -214,9 +324,9 @@
     "service": "General",
     "feature": "AWS CodePipeline now available in Asia Pacific (New Zealand) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 2,
     "date": "2026-07-06"
   },
   {
@@ -227,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-07-06"
   },
   {
@@ -238,7 +348,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-07-06"
   },
   {
@@ -249,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/impact-analysis-aws-security-hub/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-06"
   },
   {
@@ -260,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/vpc-encryption-controls-declarative-controls/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-06"
   },
   {
@@ -271,7 +381,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-05"
   },
   {
@@ -282,7 +392,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-04"
   },
   {
@@ -293,6 +403,17 @@
     "link": "https://docs.cloud.google.com/release-notes#July_03_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 6,
+    "date": "2026-07-03"
+  },
+  {
+    "id": "aws-aws-codebuild-now-support",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS CodeBuild now supports Amazon Linux 2023 for on-demand build hosts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codebuild-amazon-linux-2023/",
+    "status": "Supported",
+    "version": "v6.54.0",
     "lag": 5,
     "date": "2026-07-03"
   },
@@ -302,8 +423,8 @@
     "service": "",
     "feature": "Amazon EC2 X8i instances are now available in additional regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.54.0",
     "lag": 5,
     "date": "2026-07-02"
   },
@@ -313,8 +434,8 @@
     "service": "",
     "feature": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.54.0",
     "lag": 5,
     "date": "2026-07-02"
   },
@@ -324,9 +445,9 @@
     "service": "",
     "feature": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 6,
     "date": "2026-07-02"
   },
   {
@@ -335,9 +456,9 @@
     "service": "",
     "feature": "Amazon SageMaker HyperPod now supports AMI versioning and auto-patching",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 6,
     "date": "2026-07-02"
   },
   {
@@ -346,9 +467,9 @@
     "service": "General",
     "feature": "AWS Config now supports 8 new resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
+    "status": "Supported",
+    "version": "v6.54.0",
+    "lag": 6,
     "date": "2026-07-02"
   },
   {
@@ -359,7 +480,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-07-02"
   },
   {
@@ -568,7 +689,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-07-01"
   },
   {
@@ -579,7 +700,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-07-01"
   },
   {
@@ -854,7 +975,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-06-30"
   },
   {
@@ -898,7 +1019,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-06-30"
   },
   {
@@ -953,7 +1074,7 @@
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-06-29"
   },
   {
@@ -1019,7 +1140,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_26_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-06-26"
   },
   {
@@ -1162,7 +1283,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-06-25"
   },
   {
@@ -1514,7 +1635,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-06-22"
   },
   {
@@ -2691,7 +2812,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 27,
+    "lag": 28,
     "date": "2026-06-11"
   },
   {
