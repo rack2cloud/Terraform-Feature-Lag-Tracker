@@ -1,5 +1,126 @@
 [
   {
+    "id": "aws-aws-elastic-disaster-reco",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-aws-lambda-console-provid",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda console provides a one-click setup prompt for coding agents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-aws-iam-identity-center-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IAM Identity Center achieves FedRAMP Class C Certification",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-introducing-amazon-guardd",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing Amazon GuardDuty AI Protection for AWS AI workloads",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-amazon-managed-service-fo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-amazon-workspaces-persona",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-amazon-aurora-dsql-is-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL is now available in Europe (Spain)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-available-in-spain/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-aws-security-hub-now-prov",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-aws-storage-gateway-adds-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Storage Gateway adds console support for copying file shares across gateways",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-storage-gateway-console-copy-file-shares/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-amazon-cloudfront-functio",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront Functions now supports logging to CloudFront access logs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "gcp-july-14--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "July 14, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#July_14_2026",
+    "status": "Supported",
+    "version": "v7.40.0",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
     "id": "aws-openai-gpt-5-6-sol--terra",
     "cloud": "aws",
     "service": "",
@@ -7,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-13"
   },
   {
@@ -18,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-13"
   },
   {
@@ -29,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-13"
   },
   {
@@ -40,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-13"
   },
   {
@@ -51,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-13"
   },
   {
@@ -62,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/privacy-filter-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-13"
   },
   {
@@ -73,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-13"
   },
   {
@@ -84,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-13"
   },
   {
@@ -95,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-custom-ami-slurm/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-13"
   },
   {
@@ -104,6 +225,17 @@
     "service": "General",
     "feature": "July 13, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_13_2026",
+    "status": "Supported",
+    "version": "v7.40.0",
+    "lag": 1,
+    "date": "2026-07-13"
+  },
+  {
+    "id": "aws-amazon-redshift-serverles",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift Serverless now preserves zero-ETL and Amazon S3 event integrations during snapshot restores",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-zetl-autocopy-restore/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -117,7 +249,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-07-12"
   },
   {
@@ -128,7 +260,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-11"
   },
   {
@@ -139,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-10"
   },
   {
@@ -150,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-eks-spark-troubleshooting/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-10"
   },
   {
@@ -161,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-enhanced-address-search",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-10"
   },
   {
@@ -172,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2025/06/ami-configuration-continuous-slurm/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-10"
   },
   {
@@ -183,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-g7-available-North-Virginia",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-10"
   },
   {
@@ -194,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-10"
   },
   {
@@ -205,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i7ie-instances-aws-hyd-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-10"
   },
   {
@@ -216,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-r8g-24xl-48xl/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-10"
   },
   {
@@ -227,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-sc-ai-agent-automation-mcp-server/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-10"
   },
   {
@@ -238,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-security-controls-new-orgs-console",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-10"
   },
   {
@@ -247,8 +379,8 @@
     "service": "General",
     "feature": "July 10, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_10_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 4,
     "date": "2026-07-10"
   },
@@ -260,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/eks-auto-mode-arc-zonal-shift",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-10"
   },
   {
@@ -271,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/subsidiary-qualification-sharing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-10"
   },
   {
@@ -282,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-09"
   },
   {
@@ -368,8 +500,8 @@
     "service": "General",
     "feature": "July 09, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_09_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 5,
     "date": "2026-07-09"
   },
@@ -401,9 +533,31 @@
     "service": "General",
     "feature": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
     "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+    "status": "Supported",
+    "version": "v4.81.0",
+    "lag": 4,
+    "date": "2026-07-09"
+  },
+  {
+    "id": "aws-amazon-ec2-c8id--m8id--an",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C8id, M8id, and R8id instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c8id-m8id-r8id/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
+    "date": "2026-07-09"
+  },
+  {
+    "id": "aws-amazon-ec2-m8gd-and-r8gd-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8gd and R8gd instances are now available in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8gd-r8gd-us-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 5,
     "date": "2026-07-09"
   },
   {
@@ -467,8 +621,8 @@
     "service": "",
     "feature": "Built to bounce back: How Azure resiliency evolved",
     "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v4.81.0",
     "lag": 5,
     "date": "2026-07-08"
   },
@@ -478,8 +632,8 @@
     "service": "General",
     "feature": "July 08, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_08_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 6,
     "date": "2026-07-08"
   },
@@ -643,8 +797,8 @@
     "service": "General",
     "feature": "July 07, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_07_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 7,
     "date": "2026-07-07"
   },
@@ -676,8 +830,8 @@
     "service": "",
     "feature": "External key management for Azure Managed HSM is now in public preview",
     "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v4.81.0",
     "lag": 6,
     "date": "2026-07-07"
   },
@@ -775,8 +929,8 @@
     "service": "General",
     "feature": "July 06, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_06_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 8,
     "date": "2026-07-06"
   },
@@ -808,8 +962,8 @@
     "service": "General",
     "feature": "July 05, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_05_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 9,
     "date": "2026-07-05"
   },
@@ -819,8 +973,8 @@
     "service": "General",
     "feature": "July 04, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_04_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 10,
     "date": "2026-07-04"
   },
@@ -832,7 +986,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-07-03"
   },
   {
@@ -909,7 +1063,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-07-02"
   },
   {
@@ -1118,7 +1272,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-07-01"
   },
   {
@@ -1127,8 +1281,8 @@
     "service": "",
     "feature": "Proving application resilience on Azure with Chaos Studio",
     "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v4.81.0",
     "lag": 12,
     "date": "2026-07-01"
   },
@@ -1404,7 +1558,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-06-30"
   },
   {
@@ -1446,8 +1600,8 @@
     "service": "",
     "feature": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v4.81.0",
     "lag": 13,
     "date": "2026-06-30"
   },
@@ -1503,7 +1657,7 @@
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-06-29"
   },
   {
@@ -1567,8 +1721,8 @@
     "service": "General",
     "feature": "June 26, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_26_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 18,
     "date": "2026-06-26"
   },
@@ -1710,8 +1864,8 @@
     "service": "General",
     "feature": "June 25, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_25_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 19,
     "date": "2026-06-25"
   },
@@ -2062,8 +2216,8 @@
     "service": "General",
     "feature": "June 22, 2026",
     "link": "https://docs.cloud.google.com/release-notes#June_22_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.40.0",
     "lag": 22,
     "date": "2026-06-22"
   },
