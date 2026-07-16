@@ -1,5 +1,148 @@
 [
   {
+    "id": "aws-amazon-cloudwatch-logs-an",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Logs announces intelligent tiering for storage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-amazon-mq-now-supports-co",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MQ now supports configurable storage for RabbitMQ brokers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-amazon-ec2-g7e-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 G7e instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-amazon-cognito-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Cognito now supports importing users with password hashes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cognito-password-hash-import/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-amazon-rds-and-aurora-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions/",
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-amazon-rds-and-aurora-exp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS and Aurora expand R8gd and M8gd to additional Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions/",
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-amazon-msk-express-broker",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK Express Brokers adds support for Apache Kafka version 4.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-version-42/",
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-amazon-rds-now-supports-u",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS now supports up to four storage modifications in 24 hours",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-upto-four-storage-modifications-24-hours",
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-aws-glue-sap-odata-connec",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US) regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-sap-zero-etl-govcloud",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service now supports the Agent Toolkit for AWS with a curated skill",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-agent/",
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-amazon-rds-for-db2-is-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for Db2 is now available in additional AWS Commercial regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-available-additional-aws-commercial-regions",
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 0,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "aws-aws-lambda-announces-self",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda announces self-managed code storage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-15"
+  },
+  {
+    "id": "gcp-july-15--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "July 15, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#July_15_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-15"
+  },
+  {
     "id": "aws-aws-elastic-disaster-reco",
     "cloud": "aws",
     "service": "",
@@ -7,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-14"
   },
   {
@@ -18,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-14"
   },
   {
@@ -29,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-14"
   },
   {
@@ -38,8 +181,8 @@
     "service": "",
     "feature": "Introducing Amazon GuardDuty AI Protection for AWS AI workloads",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.55.0",
     "lag": 0,
     "date": "2026-07-14"
   },
@@ -49,8 +192,8 @@
     "service": "",
     "feature": "Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.55.0",
     "lag": 0,
     "date": "2026-07-14"
   },
@@ -62,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-14"
   },
   {
@@ -71,9 +214,9 @@
     "service": "",
     "feature": "Amazon Aurora DSQL is now available in Europe (Spain)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-available-in-spain/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 1,
     "date": "2026-07-14"
   },
   {
@@ -82,9 +225,9 @@
     "service": "General",
     "feature": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 1,
     "date": "2026-07-14"
   },
   {
@@ -95,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-storage-gateway-console-copy-file-shares/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-14"
   },
   {
@@ -104,8 +247,8 @@
     "service": "",
     "feature": "Amazon CloudFront Functions now supports logging to CloudFront access logs",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.55.0",
     "lag": 1,
     "date": "2026-07-14"
   },
@@ -121,13 +264,46 @@
     "date": "2026-07-14"
   },
   {
+    "id": "aws-aws-elastic-disaster-reco",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elastic Disaster Recovery reduces recovery time for AWS-to-AWS workloads",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-recovery/",
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-announc",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch announces lookup processor for log enrichment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-lookup-processor/",
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 0,
+    "date": "2026-07-14"
+  },
+  {
+    "id": "aws-amazon-ec2-m8in--m8idn--m",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8in, M8idn, M8ib, M8idb instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/m8in-m8idn-m8ib-m8idb-new-regions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-14"
+  },
+  {
     "id": "aws-openai-gpt-5-6-sol--terra",
     "cloud": "aws",
     "service": "",
     "feature": "OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.55.0",
     "lag": 1,
     "date": "2026-07-13"
   },
@@ -137,8 +313,8 @@
     "service": "",
     "feature": "Amazon Managed Service for Prometheus is now available in Asia Pacific (New Zealand) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.55.0",
     "lag": 1,
     "date": "2026-07-13"
   },
@@ -148,8 +324,8 @@
     "service": "",
     "feature": "Amazon DocumentDB (with MongoDB compatibility) now available as a skill in the Agent Toolkit for AWS",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.55.0",
     "lag": 1,
     "date": "2026-07-13"
   },
@@ -159,9 +335,9 @@
     "service": "",
     "feature": "Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 2,
     "date": "2026-07-13"
   },
   {
@@ -170,9 +346,9 @@
     "service": "",
     "feature": "Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 2,
     "date": "2026-07-13"
   },
   {
@@ -181,9 +357,9 @@
     "service": "",
     "feature": "OpenAI privacy-filter for PII detection and masking is now available in Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/privacy-filter-on-sagemaker-jumpstart/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 2,
     "date": "2026-07-13"
   },
   {
@@ -194,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-13"
   },
   {
@@ -203,9 +379,9 @@
     "service": "",
     "feature": "Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 2,
     "date": "2026-07-13"
   },
   {
@@ -214,9 +390,9 @@
     "service": "",
     "feature": "Amazon SageMaker HyperPod now supports custom AMIs (Amazon Machine Images) for Slurm clusters",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-custom-ami-slurm/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.55.0",
+    "lag": 2,
     "date": "2026-07-13"
   },
   {
@@ -238,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-zetl-autocopy-restore/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-13"
   },
   {
@@ -249,7 +425,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-12"
   },
   {
@@ -260,7 +436,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-11"
   },
   {
@@ -986,7 +1162,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-07-03"
   },
   {
@@ -1063,7 +1239,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-07-02"
   },
   {
@@ -1272,7 +1448,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-07-01"
   },
   {
@@ -1558,7 +1734,7 @@
     "link": "https://docs.cloud.google.com/release-notes#June_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-06-30"
   },
   {
@@ -1657,7 +1833,7 @@
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-06-29"
   },
   {
