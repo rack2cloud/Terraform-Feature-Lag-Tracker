@@ -1,5 +1,159 @@
 [
   {
+    "id": "aws-amazon-ec2-high-memory-u7",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 High Memory U7i instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-u7i/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-amazon-ecs-service-connec",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS Service Connect now supports Zone-Aware routing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-aws-now-supports-automati",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS now supports automatic credit memo application preferences",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/credit-memo-applications/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-amazon-rds-for-mysql-supp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-aws-lambda-durable-execut",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda durable execution SDK for .NET is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-logs-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Logs now supports Application Load Balancer logs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-logs/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-amazon-evs-is-now-availab",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EVS is now available in additional Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-claude-sonnet-5-is-now-av",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-announcing-region-expansi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing region expansion of G7e instances on SageMaker AI inference",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-announcing-region-expansi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing region expansion of G6 instances on SageMaker AI Inference",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "aws-aws-wickr-announces-data-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Wickr announces Data Retention Service feature",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-wickr-data/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "azure-at-t-and-microsoft-scale-",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
+    "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": "gcp-july-23--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "July 23, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#July_23_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-23"
+  },
+  {
     "id": "aws-amazon-rds-now-supports-t",
     "cloud": "aws",
     "service": "",
@@ -18,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-22"
   },
   {
@@ -40,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-22"
   },
   {
@@ -62,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-22"
   },
   {
@@ -117,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-100g-lima/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-22"
   },
   {
@@ -128,7 +282,29 @@
     "link": "https://docs.cloud.google.com/release-notes#July_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-07-22"
+  },
+  {
+    "id": "aws-amazon-ec2-m8id-instances",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8id instances are now available in Europe (Ireland) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8id-europe-ireland/",
+    "status": "Supported",
+    "version": "v6.56.0",
+    "lag": 0,
+    "date": "2026-07-22"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-infer",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI inference now supports G7 instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-ai-g7/",
+    "status": "Supported",
+    "version": "v6.56.0",
+    "lag": 0,
     "date": "2026-07-22"
   },
   {
@@ -227,7 +403,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-07-21"
   },
   {
@@ -260,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-india/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-07-21"
   },
   {
@@ -381,7 +557,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-20"
   },
   {
@@ -414,7 +590,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-19"
   },
   {
@@ -469,7 +645,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-07-17"
   },
   {
@@ -634,7 +810,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-07-16"
   },
   {
@@ -799,7 +975,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-07-15"
   },
   {
@@ -821,7 +997,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-07-15"
   },
   {
@@ -1118,7 +1294,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-07-12"
   },
   {
@@ -1129,7 +1305,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-07-11"
   },
   {
@@ -1855,7 +2031,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-07-03"
   },
   {
@@ -1932,7 +2108,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-07-02"
   },
   {
@@ -2141,7 +2317,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-07-01"
   },
   {
@@ -2526,7 +2702,7 @@
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-06-29"
   },
   {
@@ -8985,17 +9161,6 @@
     "version": "v4.71.0",
     "lag": 3,
     "date": "2026-04-27"
-  },
-  {
-    "id": "aws-amazon-ec2-high-memory-u7",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 High Memory U7i instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
-    "date": "2026-04-24"
   },
   {
     "id": "aws-aws-lambda-provisioned-mo",
