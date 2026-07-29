@@ -1,5 +1,82 @@
 [
   {
+    "id": "aws-amazon-eks-provisioned-co",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-28"
+  },
+  {
+    "id": "aws-second-generation-aws-out",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-28"
+  },
+  {
+    "id": "aws-aws-console-home-now-supp",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-28"
+  },
+  {
+    "id": "aws-aws-datasync-enhanced-mod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-amazon-efs-fsx-lustre/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-28"
+  },
+  {
+    "id": "aws-aws-datasync-enhanced-mod",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS DataSync Enhanced mode adds HDFS, Azure Blob, and object storage locations with Hyper-V agent support",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-hdfs-azure-blob-hyper-v/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-28"
+  },
+  {
+    "id": "aws-amazon-s3-tables-now-supp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Tables now support the Variant data type for Apache Iceberg V3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-tables-variant-iceberg-v3/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-28"
+  },
+  {
+    "id": "gcp-july-28--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "July 28, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#July_28_2026",
+    "status": "Supported",
+    "version": "v7.42.0",
+    "lag": 0,
+    "date": "2026-07-28"
+  },
+  {
     "id": "aws-amazon-neptune-now-suppor",
     "cloud": "aws",
     "service": "",
@@ -7,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-27"
   },
   {
@@ -18,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-27"
   },
   {
@@ -29,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-27"
   },
   {
@@ -40,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-27"
   },
   {
@@ -51,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-27"
   },
   {
@@ -62,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/mediatail-configurable-ad-timeout-and-concurrency",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-27"
   },
   {
@@ -73,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-tde-for-maz/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-27"
   },
   {
@@ -84,6 +161,28 @@
     "link": "https://docs.cloud.google.com/release-notes#July_27_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-07-27"
+  },
+  {
+    "id": "aws-amazon-eks-now-supports-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-oidc-endpoint-privatelink",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-27"
+  },
+  {
+    "id": "azure-what-customers-value-most",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "What customers value most in Microsoft Databases\u2014from reliability to AI readiness",
+    "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+    "status": "Supported",
+    "version": "v5.0.0",
     "lag": 1,
     "date": "2026-07-27"
   },
@@ -95,7 +194,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_26_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-07-26"
   },
   {
@@ -106,7 +205,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-25"
   },
   {
@@ -117,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -128,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -139,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-dedicated-hosts-hrg/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -150,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/kinesis/on-demand-scale-down",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -161,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-managed-instances-logs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -172,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-simplified-smtp-mail-manager",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -183,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -194,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -205,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -216,7 +315,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-24"
   },
   {
@@ -227,7 +326,18 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-clean-rooms-32-vcpu-worker-types-sql",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
+    "date": "2026-07-24"
+  },
+  {
+    "id": "aws-amazon-redshift-serverles",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift Serverless now offers All Upfront pricing for 3-year Serverless Reservations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-three-year-auri/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
     "date": "2026-07-24"
   },
   {
@@ -249,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -260,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/credit-memo-applications/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -271,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -282,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -293,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -304,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-logs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -315,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -326,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -337,7 +447,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -370,7 +480,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -381,7 +491,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-07-23"
   },
   {
@@ -392,7 +502,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-i8ge-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-23"
   },
   {
@@ -524,7 +634,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-07-22"
   },
   {
@@ -643,8 +753,8 @@
     "service": "General",
     "feature": "July 21, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_21_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.42.0",
     "lag": 7,
     "date": "2026-07-21"
   },
@@ -797,8 +907,8 @@
     "service": "General",
     "feature": "July 20, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_20_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.42.0",
     "lag": 8,
     "date": "2026-07-20"
   },
@@ -830,8 +940,8 @@
     "service": "General",
     "feature": "July 19, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_19_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.42.0",
     "lag": 9,
     "date": "2026-07-19"
   },
@@ -885,8 +995,8 @@
     "service": "General",
     "feature": "July 17, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_17_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.42.0",
     "lag": 11,
     "date": "2026-07-17"
   },
@@ -1050,8 +1160,8 @@
     "service": "General",
     "feature": "July 16, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_16_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.42.0",
     "lag": 12,
     "date": "2026-07-16"
   },
@@ -1217,7 +1327,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-07-15"
   },
   {
@@ -1239,7 +1349,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-07-15"
   },
   {
@@ -1534,8 +1644,8 @@
     "service": "General",
     "feature": "July 12, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_12_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.42.0",
     "lag": 16,
     "date": "2026-07-12"
   },
@@ -1547,7 +1657,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-07-11"
   },
   {
@@ -2282,8 +2392,8 @@
     "service": "General",
     "feature": "July 03, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_03_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.42.0",
     "lag": 25,
     "date": "2026-07-03"
   },
@@ -2359,8 +2469,8 @@
     "service": "General",
     "feature": "July 02, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_02_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.42.0",
     "lag": 26,
     "date": "2026-07-02"
   },
@@ -2568,8 +2678,8 @@
     "service": "General",
     "feature": "July 01, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_01_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.42.0",
     "lag": 27,
     "date": "2026-07-01"
   },
