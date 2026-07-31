@@ -1,5 +1,148 @@
 [
   {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-aws-direct-connect-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Direct Connect now supports BGP route visibility on Virtual Interfaces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-amazon-redshift-rg-large-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift RG large and 12xlarge instances now available on the trailing track",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-iam-policy-simulator-move",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "IAM Policy Simulator moves to the IAM console and adds additional capabilities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-amazon-bedrock-announces-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock announces up to 80% lower prices for OpenAI GPT\u20115.6 models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-aws-announces-general-ava",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces general availability of Policy-Based Routing on AWS Transit Gateway",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-transit-gateway-policy-based-routing/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-amazon-msk-express-broker",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK Express brokers now delivers Apache Kafka data to Amazon S3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-brokers-delivers-to-amazon-s3",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-amazon-msk-express-broker",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK Express brokers now deliver data to streaming tables for Apache Iceberg",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-streaming-tables-for-apache-iceberg",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-grok-4-3-from-xai-is-now-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Grok 4.3 from xAI is now available on Amazon Bedrock in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/grok-4-3-bedrock-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-gemma-4-models-are-now-av",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Gemma 4 models are now available on Amazon Bedrock in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-bedrock-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-aws-managed-microsoft-ad-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Managed Microsoft AD now supports Standard to Enterprise Edition upgrade",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-microsoft-ad-edition-upgrade/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service now supports OpenSearch version 3.7",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-30"
+  },
+  {
+    "id": "gcp-july-30--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "July 30, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#July_30_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-07-30"
+  },
+  {
     "id": "aws-amazon-ec2-auto-scaling-n",
     "cloud": "aws",
     "service": "",
@@ -7,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-auto-scaling-instance-refresh-cloudformation",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-29"
   },
   {
@@ -18,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-data-api-longpolling-listsession-flexiblebatchexecute/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-29"
   },
   {
@@ -29,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-rest-connector-filtering-partitioning-vpc",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-29"
   },
   {
@@ -51,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announces-AWS-interconnect-multicloud-OCI-GA/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-29"
   },
   {
@@ -62,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-example-evaluations-for-agent-coaching/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-07-29"
   },
   {
@@ -95,7 +238,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_29_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-29"
   },
   {
@@ -117,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-07-28"
   },
   {
@@ -205,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-07-27"
   },
   {
@@ -227,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-07-27"
   },
   {
@@ -260,7 +403,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-07-27"
   },
   {
@@ -293,7 +436,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_26_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-26"
   },
   {
@@ -304,7 +447,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-07-25"
   },
   {
@@ -414,7 +557,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-07-24"
   },
   {
@@ -590,7 +733,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-07-23"
   },
   {
@@ -733,7 +876,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-07-22"
   },
   {
@@ -1426,7 +1569,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-07-15"
   },
   {
@@ -1448,7 +1591,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-07-15"
   },
   {
@@ -1756,7 +1899,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-07-11"
   },
   {
@@ -3164,7 +3307,7 @@
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 31,
     "date": "2026-06-29"
   },
   {
