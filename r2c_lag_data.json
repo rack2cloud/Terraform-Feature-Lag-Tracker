@@ -1,12 +1,100 @@
 [
   {
+    "id": "aws-aws-lambda-announces-scal",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "aws-amazon-keyspaces--for-apa",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "aws-aws-glue-data-quality-mak",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "aws-aws-marketplace-adds-ai-i",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace adds AI Insights so buyers can understand pricing before they buy",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "aws-amazon-dynamodb-now-suppo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon DynamoDB now supports real-time vector search",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "aws-aws-iam-identity-center-m",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IAM Identity Center makes management of AWS account access optional for new organization instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "aws-amazon-aurora-serverless-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "gcp-august-05--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "August 05, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-05"
+  },
+  {
     "id": "aws--preview-announcement--re",
     "cloud": "aws",
     "service": "General",
     "feature": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 0,
     "date": "2026-08-04"
   },
@@ -16,8 +104,8 @@
     "service": "",
     "feature": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 0,
     "date": "2026-08-04"
   },
@@ -29,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-04"
   },
   {
@@ -38,8 +126,8 @@
     "service": "",
     "feature": "Run interactive workloads on Amazon EMR on EC2 with Spark Connect",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-ec2-spark-connect/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 0,
     "date": "2026-08-04"
   },
@@ -49,8 +137,8 @@
     "service": "General",
     "feature": "AWS Security Hub Extended adds supply chain security as its 10th category",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 0,
     "date": "2026-08-04"
   },
@@ -60,8 +148,8 @@
     "service": "",
     "feature": "Amazon EC2 C8g instances now available in additional regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8g-instances-additional-regions/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 0,
     "date": "2026-08-04"
   },
@@ -73,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-04"
   },
   {
@@ -82,8 +170,8 @@
     "service": "",
     "feature": "Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-vectors-european-sovereign-cloud-germany/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 0,
     "date": "2026-08-04"
   },
@@ -93,8 +181,8 @@
     "service": "",
     "feature": "Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-interval-capacity-plan",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 0,
     "date": "2026-08-04"
   },
@@ -104,8 +192,8 @@
     "service": "",
     "feature": "Amazon EC2 I8g instances now available in AWS Europe (Paris), Asia Pacific (Jakarta) regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i8g-instances-aws-paris-jakarta-regions/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 0,
     "date": "2026-08-04"
   },
@@ -117,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-byom-in-additional-aws-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-04"
   },
   {
@@ -128,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-developer-edition-in-additional-aws-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-04"
   },
   {
@@ -137,8 +225,8 @@
     "service": "General",
     "feature": "RDS SQL Server now supports publishing SQL Server Audit logs to CloudWatch",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-publish-sql-audit-to-cw/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-04"
   },
@@ -161,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-03"
   },
   {
@@ -170,8 +258,8 @@
     "service": "",
     "feature": "OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-03"
   },
@@ -183,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-03"
   },
   {
@@ -192,8 +280,8 @@
     "service": "General",
     "feature": "AWS Resilience Hub now provides recommended resilience tests",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-03"
   },
@@ -205,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-03"
   },
   {
@@ -214,8 +302,8 @@
     "service": "",
     "feature": "AWS Lambda Provisioned Mode for Amazon SQS event source mappings now supports up to 10,000 event pollers",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-Lambda-provisioned-sqs-esm-max-pollers/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-03"
   },
@@ -225,8 +313,8 @@
     "service": "",
     "feature": "Amazon EC2 I7i instances now available in Asia Pacific (Thailand) and Israel (Tel Aviv) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i7i-instances-in-additional-regions/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-03"
   },
@@ -236,8 +324,8 @@
     "service": "",
     "feature": "Amazon SageMaker AI serverless model customization now supports full fine-tuning",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-03"
   },
@@ -247,8 +335,8 @@
     "service": "General",
     "feature": "AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-03"
   },
@@ -258,8 +346,8 @@
     "service": "General",
     "feature": "AWS WAF now supports Miggo Security managed rule groups for emerging threats and AI/ML application protection",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf-miggo-managed-rule-groups",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-03"
   },
@@ -269,8 +357,8 @@
     "service": "",
     "feature": "Amazon ECR now supports image layers up to 200 GB",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-03"
   },
@@ -280,8 +368,8 @@
     "service": "General",
     "feature": "AWS Config now supports 15 new resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-config-new-resource-types",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 1,
     "date": "2026-08-03"
   },
@@ -297,6 +385,17 @@
     "date": "2026-08-03"
   },
   {
+    "id": "aws-aws-healthomics-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS HealthOmics now supports task-level timeout for WDL workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-healthomics-wdl-task-level-timeout/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-08-03"
+  },
+  {
     "id": "gcp-august-02--2026",
     "cloud": "gcp",
     "service": "General",
@@ -304,7 +403,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-02"
   },
   {
@@ -315,7 +414,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-01"
   },
   {
@@ -324,8 +423,8 @@
     "service": "",
     "feature": "Amazon Aurora DSQL adds multi-Region cluster support in four more Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.58.0",
     "lag": 4,
     "date": "2026-07-31"
   },
@@ -403,7 +502,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-07-31"
   },
   {
@@ -425,7 +524,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-teradata",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-07-31"
   },
   {
@@ -843,7 +942,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-07-27"
   },
   {
@@ -1162,7 +1261,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-07-23"
   },
   {
@@ -1173,7 +1272,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-07-23"
   },
   {
@@ -1316,7 +1415,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-07-22"
   },
   {
@@ -2009,7 +2108,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-07-15"
   },
   {
@@ -2031,7 +2130,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-07-15"
   },
   {
@@ -2339,7 +2438,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-07-11"
   },
   {
