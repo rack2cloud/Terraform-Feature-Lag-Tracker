@@ -1,5 +1,225 @@
 [
   {
+    "id": "aws-amazon-ec2-m8g-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8g instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-m8g-instances-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-ecs-now-supports-f",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-aws-lambda-console-extend",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda console extends console-to-IDE integration to Kiro and Cursor",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-ec2-g7-instances-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-agentcore-runtime-instanc",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AgentCore runtime instances are now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-elasticache-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-elasticache-graviton4-m8g-r8g-c8gn/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-aws-glue-schema-registry-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Glue Schema Registry is now available in ten more AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-gsr-10-more-regions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-aws-transform-for-migrati",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform for migrations automates post-launch actions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-aws-security-agent-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Agent now supports email-based MFA for penetration testing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent-mfa/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-rds-now-provides-v",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS now provides visibility into storage volume initialization status",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-storage-volume-initialization-visibility",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-workspaces-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Applications now publishes enhanced observability metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-observability-metrics",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-workspaces-now-pub",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces now publishes enhanced observability metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-aws-marketplace-now-lets-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace now lets sellers configure net payment terms on private offers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-net-payment-terms-for-private-offers",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-msk-now-delivers-k",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK now delivers Kafka Authorizer Logs to customers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-kafka-authorizer-logs/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-aws-backup-for-amazon-s3-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup for Amazon S3 now supports direct access to backup data",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-s3-direct-access/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-aws-backup-extends-logica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-logically-air-gapped-vault-neptune-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-ses-now-helps-iden",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SES now helps identify automated open and click events in event notifications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-quick-supports-mul",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick supports multi-dataset analytical capabiity",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-announcing-temporal-polic",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing temporal policies and rate limiting in Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/temporal-policies-agentcore/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "gcp-august-06--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "August 06, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#August_06_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-06"
+  },
+  {
     "id": "aws-aws-lambda-announces-scal",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-05"
   },
   {
@@ -18,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-05"
   },
   {
@@ -29,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-05"
   },
   {
@@ -40,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-05"
   },
   {
@@ -51,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-05"
   },
   {
@@ -62,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-05"
   },
   {
@@ -73,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-05"
   },
   {
@@ -82,6 +302,17 @@
     "service": "General",
     "feature": "August 05, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "aws-aws-glue-data-catalog-now",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Glue Data Catalog now supports  metadata exports to S3 Tables (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-catalog-s3-tables/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -117,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-04"
   },
   {
@@ -161,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-04"
   },
   {
@@ -403,7 +634,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-02"
   },
   {
@@ -414,7 +645,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-08-01"
   },
   {
@@ -502,7 +733,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-07-31"
   },
   {
@@ -942,7 +1173,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-07-27"
   },
   {
@@ -1261,7 +1492,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-07-23"
   },
   {
@@ -1272,7 +1503,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-07-23"
   },
   {
@@ -1415,7 +1646,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-07-22"
   },
   {
@@ -2108,7 +2339,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-07-15"
   },
   {
@@ -2130,7 +2361,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-07-15"
   },
   {
@@ -2438,7 +2669,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 27,
     "date": "2026-07-11"
   },
   {
@@ -15187,17 +15418,6 @@
     "link": "https://docs.cloud.google.com/release-notes#March_04_2026",
     "status": "Supported",
     "version": "v7.23.0",
-    "lag": 6,
-    "date": "2026-03-04"
-  },
-  {
-    "id": "aws-amazon-ec2-m8g-instances-",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 M8g instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8g-instances-africa-cape-town-asia-pacific-malaysia-europe-milan-zurich-canada-west-calgary-regions",
-    "status": "Not Supported",
-    "version": "--",
     "lag": 6,
     "date": "2026-03-04"
   },
