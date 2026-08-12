@@ -1,5 +1,115 @@
 [
   {
+    "id": "aws-amazon-ec2-r8a-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8a instances are now available in Canada (Central) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "aws-amazon-bedrock-expands-ia",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "aws-locateanything-3b--qwen-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "aws-nvidia-nemotron-3-5-light",
+    "cloud": "aws",
+    "service": "",
+    "feature": "NVIDIA Nemotron 3.5 Lightning model is now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-lightning-on-sagemaker-jumpstart/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "aws-aws-glue-adds-one-click-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "aws-aws-secrets-manager-adds-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-integration-jenkins-sonarqube/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "aws-amazon-connect-customer-l",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer launches performance dashboard for Cases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "aws-aws-clean-rooms-supports-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Clean Rooms supports exporting privacy-enhanced analysis logs for SQL",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-export-analysis-log-sql",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "aws-amazon-rds-for-mariadb-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for MariaDB now supports MariaDB 12.3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mariadb-1232-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "gcp-august-11--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "August 11, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#August_11_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-11"
+  },
+  {
     "id": "aws-flux-2-small-decoder-and-",
     "cloud": "aws",
     "service": "",
@@ -7,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-10"
   },
   {
@@ -18,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-10"
   },
   {
@@ -29,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-10"
   },
   {
@@ -40,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/glm-5.2-fp8-nemotron-nano-12b-v2-glm-ocr-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-10"
   },
   {
@@ -51,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-10"
   },
   {
@@ -62,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-10"
   },
   {
@@ -73,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-10"
   },
   {
@@ -84,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-10"
   },
   {
@@ -93,6 +203,17 @@
     "service": "General",
     "feature": "August 10, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_10_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-08-10"
+  },
+  {
+    "id": "aws-aws-identity-and-access-m",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Identity and Access Management streamlines assignment of IAM roles to workforce users with account access manager",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-aam/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -106,7 +227,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-09"
   },
   {
@@ -117,7 +238,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-08"
   },
   {
@@ -128,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-07"
   },
   {
@@ -139,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-07"
   },
   {
@@ -150,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-07"
   },
   {
@@ -161,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-07"
   },
   {
@@ -172,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-07"
   },
   {
@@ -183,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-07"
   },
   {
@@ -194,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-07"
   },
   {
@@ -205,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-07"
   },
   {
@@ -216,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-07"
   },
   {
@@ -227,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-07"
   },
   {
@@ -238,7 +359,18 @@
     "link": "https://docs.cloud.google.com/release-notes#August_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
+    "date": "2026-08-07"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-alarms-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Alarms now supports wall clock evaluation windows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-alarms-wallclock-evaluation",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 5,
     "date": "2026-08-07"
   },
   {
@@ -260,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-06"
   },
   {
@@ -271,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-06"
   },
   {
@@ -282,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-06"
   },
   {
@@ -293,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-06"
   },
   {
@@ -447,7 +579,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-08-06"
   },
   {
@@ -458,7 +590,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-waf-salt-security-managed-rules/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-06"
   },
   {
@@ -491,7 +623,18 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "aws-amazon-connect-customer-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer now provides schedule adherence metrics on dashboards",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/schedule-adherence-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 5,
     "date": "2026-08-06"
   },
   {
@@ -579,7 +722,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-08-05"
   },
   {
@@ -909,7 +1052,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-08-02"
   },
   {
@@ -920,7 +1063,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-08-01"
   },
   {
@@ -1008,7 +1151,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-07-31"
   },
   {
@@ -1448,7 +1591,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-07-27"
   },
   {
@@ -1767,7 +1910,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-07-23"
   },
   {
@@ -1778,7 +1921,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-07-23"
   },
   {
@@ -1921,7 +2064,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-07-22"
   },
   {
@@ -2612,8 +2755,8 @@
     "service": "General",
     "feature": "July 15, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_15_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.44.0",
     "lag": 27,
     "date": "2026-07-15"
   },
@@ -2636,7 +2779,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 27,
     "date": "2026-07-15"
   },
   {
