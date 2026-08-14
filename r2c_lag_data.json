@@ -1,5 +1,115 @@
 [
   {
+    "id": "aws-aws-billing-and-cost-mana",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Billing and Cost Management introduces Managed Dashboards",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-14"
+  },
+  {
+    "id": "aws-aws-client-vpn-now-suppor",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Client VPN now supports CLI, administration controls, and faster connections",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "aws-claude-opus-5-is-now-avai",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Claude Opus 5 is now available in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "aws-amazon-quick-microsoft-36",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick Microsoft 365 extensions are now generally available",
+    "link": "https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "aws-spot-placement-score-now-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Spot Placement Score now includes Local Zones",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/spot-placement-score-local-zones/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "aws-daybreak-red-and-daybreak",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "aws-aws-certificate-manager-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Certificate Manager supports\u00a0switching from e-mail to DNS validation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "aws-amazon-s3-adds-additional",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 adds additional policy details to access denied error messages",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/",
+    "status": "Supported",
+    "version": "v6.60.0",
+    "lag": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "aws-aws-clean-rooms-supports-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Clean Rooms supports minimum aggregation thresholds in custom analysis rules",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-minimum-aggregation-custom-analysis-rules",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "gcp-august-13--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "August 13, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#August_13_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-13"
+  },
+  {
     "id": "aws-aws-global-view-now-offer",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-12"
   },
   {
@@ -51,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-12"
   },
   {
@@ -62,7 +172,7 @@
     "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-12"
   },
   {
@@ -71,6 +181,50 @@
     "service": "General",
     "feature": "August 12, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_12_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-08-12"
+  },
+  {
+    "id": "aws-amazon-quick-now-supports",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick now supports approval policies for sharing",
+    "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-12"
+  },
+  {
+    "id": "aws-amazon-quick-now-supports",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick now supports per-user resource limits",
+    "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-per-user-resource-limits/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-12"
+  },
+  {
+    "id": "aws-amazon-nova-multimodal-em",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Nova Multimodal Embeddings is now available in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-nova-mme-govcloud/",
+    "status": "Supported",
+    "version": "v6.59.0",
+    "lag": 0,
+    "date": "2026-08-12"
+  },
+  {
+    "id": "azure-the-economics-of-agent-op",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "The Economics of Agent Optimization: From pilots to measurable returns",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -106,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-11"
   },
   {
@@ -150,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-11"
   },
   {
@@ -161,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-export-analysis-log-sql",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-11"
   },
   {
@@ -183,7 +337,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-11"
   },
   {
@@ -216,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-10"
   },
   {
@@ -293,7 +447,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-10"
   },
   {
@@ -315,7 +469,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-managed-buyer-notifications/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-10"
   },
   {
@@ -326,7 +480,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-09"
   },
   {
@@ -337,7 +491,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-08-08"
   },
   {
@@ -458,7 +612,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-08-07"
   },
   {
@@ -678,7 +832,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-08-06"
   },
   {
@@ -720,9 +874,9 @@
     "service": "General",
     "feature": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for AI-Augmented Code Modernization Tools",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 6,
+    "status": "Supported",
+    "version": "v5.1.0",
+    "lag": 7,
     "date": "2026-08-06"
   },
   {
@@ -821,7 +975,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-08-05"
   },
   {
@@ -1151,7 +1305,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-08-02"
   },
   {
@@ -1162,7 +1316,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-08-01"
   },
   {
@@ -1250,7 +1404,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-07-31"
   },
   {
@@ -1690,7 +1844,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-07-27"
   },
   {
@@ -2007,9 +2161,9 @@
     "service": "General",
     "feature": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
     "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 20,
+    "status": "Supported",
+    "version": "v5.1.0",
+    "lag": 21,
     "date": "2026-07-23"
   },
   {
@@ -2020,7 +2174,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-07-23"
   },
   {
@@ -2163,7 +2317,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-07-22"
   },
   {
@@ -2878,7 +3032,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 29,
     "date": "2026-07-15"
   },
   {
