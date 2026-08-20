@@ -11,13 +11,200 @@
     "date": "2026-08-19"
   },
   {
+    "id": "aws-amazon-quick-adds-deny-by",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick adds deny by default for custom permissions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-launching-external-web-ac",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Launching External Web Access for Web Search on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-web-search-in-amazon-bedr",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-log-cen",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch log Centralization now supports log group tag propagation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-amazon-sagemaker-notebook",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker notebooks now support trusted identity propagation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-pipelin",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-aws-cost-anomaly-detectio",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-amazon-opensearch-ingesti",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-aws-marketplace-launches-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Marketplace launches support for Amazon Lightsail",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-aws-announces-a-new-avail",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces a new Availability Zone in the Europe (London) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-aws-lambda-microvms-is-no",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-amazon-workspaces-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Applications now offers in-console monitoring capabilities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-console-monitoring",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-aws-iam-now-supports-20-m",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IAM now supports 20 managed policies per role by default",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-aws-storage-gateway-now-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-amazon-ec2-r8a-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-asia-pacific-taipei/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "aws-amazon-bedrock-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock now supports SpaceXAI Grok 4.6 with Cross Region Inferencing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "gcp-august-19--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "August 19, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#August_19_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-19"
+  },
+  {
     "id": "aws-amazon-bedrock-now-suppor",
     "cloud": "aws",
     "service": "",
     "feature": "Amazon Bedrock now supports OpenAI models in India",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.61.0",
     "lag": 0,
     "date": "2026-08-18"
   },
@@ -27,8 +214,8 @@
     "service": "General",
     "feature": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.61.0",
     "lag": 0,
     "date": "2026-08-18"
   },
@@ -38,8 +225,8 @@
     "service": "",
     "feature": "Amazon Corretto August 2026 Critical Security Patch Updates",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.61.0",
     "lag": 0,
     "date": "2026-08-18"
   },
@@ -49,9 +236,9 @@
     "service": "",
     "feature": "AgentCore payments is now generally available in Amazon Bedrock AgentCore",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 1,
     "date": "2026-08-18"
   },
   {
@@ -60,9 +247,9 @@
     "service": "",
     "feature": "Amazon SageMaker Unified Studio now supports data profiling and anomaly detection",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-profiling",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 1,
     "date": "2026-08-18"
   },
   {
@@ -73,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-18"
   },
   {
@@ -82,9 +269,9 @@
     "service": "",
     "feature": "Amazon EC2 R8i instances are now available in Israel (Tel Aviv) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 1,
     "date": "2026-08-18"
   },
   {
@@ -93,9 +280,9 @@
     "service": "General",
     "feature": "IAM Policy Autopilot now supports Terraform plan files",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 1,
     "date": "2026-08-18"
   },
   {
@@ -104,9 +291,9 @@
     "service": "",
     "feature": "PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 1,
     "date": "2026-08-18"
   },
   {
@@ -117,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/nested-virtualization-workspaces/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-18"
   },
   {
@@ -126,8 +313,8 @@
     "service": "",
     "feature": "Amazon S3 Metadata and annotations are now available in AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-metadata-annotations-govcloud-regions",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.61.0",
     "lag": 1,
     "date": "2026-08-18"
   },
@@ -140,6 +327,17 @@
     "status": "Supported",
     "version": "v7.45.0",
     "lag": 0,
+    "date": "2026-08-18"
+  },
+  {
+    "id": "aws-amazon-ec2-high-memory-u7",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-aws-europe/",
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 1,
     "date": "2026-08-18"
   },
   {
@@ -159,9 +357,9 @@
     "service": "",
     "feature": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 2,
     "date": "2026-08-17"
   },
   {
@@ -170,9 +368,9 @@
     "service": "",
     "feature": "Amazon ECR now supports 25 replication rules per registry",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 2,
     "date": "2026-08-17"
   },
   {
@@ -181,9 +379,9 @@
     "service": "",
     "feature": "Amazon EC2 Auto Scaling now supports batch instance termination",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 2,
     "date": "2026-08-17"
   },
   {
@@ -194,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/17/amazon-msk-custom-domain-names/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-17"
   },
   {
@@ -203,9 +401,9 @@
     "service": "",
     "feature": "Amazon EC2 R8i and R8i-Flex instances are now available in Canada West (Calgary) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex-calgary/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 2,
     "date": "2026-08-17"
   },
   {
@@ -214,9 +412,9 @@
     "service": "",
     "feature": "Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-routing-steps/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 2,
     "date": "2026-08-17"
   },
   {
@@ -225,9 +423,9 @@
     "service": "General",
     "feature": "AWS Network Firewall Now Supports Stateful Rule Hit Counts",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-stateful-rule-hit-counts/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.61.0",
+    "lag": 2,
     "date": "2026-08-17"
   },
   {
@@ -260,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-17"
   },
   {
@@ -275,6 +473,17 @@
     "date": "2026-08-17"
   },
   {
+    "id": "azure-microsoft-named-a-leader-",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud-Native Application Platforms",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-08-17"
+  },
+  {
     "id": "gcp-august-16--2026",
     "cloud": "gcp",
     "service": "General",
@@ -282,7 +491,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-16"
   },
   {
@@ -337,7 +546,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-08-14"
   },
   {
@@ -480,7 +689,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-08-13"
   },
   {
@@ -528,17 +737,6 @@
     "date": "2026-08-12"
   },
   {
-    "id": "aws-amazon-quick-adds-deny-by",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon Quick adds deny by default for custom permissions",
-    "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/",
-    "status": "Supported",
-    "version": "v6.59.0",
-    "lag": 0,
-    "date": "2026-08-12"
-  },
-  {
     "id": "aws-amazon-connect-customer-s",
     "cloud": "aws",
     "service": "",
@@ -579,7 +777,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-08-12"
   },
   {
@@ -810,7 +1008,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-08-10"
   },
   {
@@ -975,7 +1173,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-08-07"
   },
   {
@@ -1195,7 +1393,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-08-06"
   },
   {
@@ -1338,7 +1536,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-08-05"
   },
   {
@@ -1668,7 +1866,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-08-02"
   },
   {
@@ -1767,7 +1965,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-07-31"
   },
   {
@@ -2207,7 +2405,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-07-27"
   },
   {
@@ -2680,7 +2878,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 29,
     "date": "2026-07-22"
   },
   {
@@ -3395,7 +3593,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 34,
+    "lag": 35,
     "date": "2026-07-15"
   },
   {
@@ -4254,17 +4452,6 @@
     "status": "Supported",
     "version": "v7.40.0",
     "lag": 7,
-    "date": "2026-07-07"
-  },
-  {
-    "id": "aws-amazon-ec2-high-memory-u7",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-u7i-aws-europe-zurich/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 5,
     "date": "2026-07-07"
   },
   {
