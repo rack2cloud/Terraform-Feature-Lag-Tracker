@@ -7,7 +7,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 0,
     "date": "2026-08-22"
   },
   {
@@ -18,7 +18,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 0,
     "date": "2026-08-21"
   },
   {
@@ -29,7 +29,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 0,
     "date": "2026-08-21"
   },
   {
@@ -40,7 +40,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 0,
     "date": "2026-08-21"
   },
   {
@@ -51,7 +51,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 0,
     "date": "2026-08-21"
   },
   {
@@ -62,7 +62,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 0,
     "date": "2026-08-21"
   },
   {
@@ -73,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-adds-open-click-tracking-override/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-21"
   },
   {
@@ -84,7 +84,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-21"
   },
   {
@@ -95,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -106,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -117,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -128,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -139,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -150,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/8/aws-partner-central-mcp/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -161,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/region-switch-rds-switchover-execution-block/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -172,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -183,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-direct-connect-new-prefix-controls",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -194,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -205,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -216,7 +216,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -227,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -238,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-cloudwatch-database-insights/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 0,
     "date": "2026-08-20"
   },
   {
@@ -258,8 +258,8 @@
     "service": "",
     "feature": "Amazon Quick adds deny by default for custom permissions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -271,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 0,
     "date": "2026-08-19"
   },
   {
@@ -282,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 0,
     "date": "2026-08-19"
   },
   {
@@ -291,8 +291,8 @@
     "service": "",
     "feature": "Amazon CloudWatch log Centralization now supports log group tag propagation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -302,8 +302,8 @@
     "service": "",
     "feature": "Amazon SageMaker notebooks now support trusted identity propagation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -313,8 +313,8 @@
     "service": "",
     "feature": "Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml/",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -324,8 +324,8 @@
     "service": "",
     "feature": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -335,8 +335,8 @@
     "service": "",
     "feature": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -346,8 +346,8 @@
     "service": "",
     "feature": "AWS Marketplace launches support for Amazon Lightsail",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -357,8 +357,8 @@
     "service": "General",
     "feature": "AWS announces a new Availability Zone in the Europe (London) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -368,8 +368,8 @@
     "service": "General",
     "feature": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -390,8 +390,8 @@
     "service": "General",
     "feature": "AWS IAM now supports 20 managed policies per role by default",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase/",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -436,7 +436,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 0,
     "date": "2026-08-19"
   },
   {
@@ -445,8 +445,8 @@
     "service": "",
     "feature": "Amazon EC2 enables AMI creation with local snapshots from instances on Outposts",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-create-image-local-snapshot-outpost",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -458,7 +458,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-streams-abac/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 0,
     "date": "2026-08-19"
   },
   {
@@ -467,8 +467,8 @@
     "service": "General",
     "feature": "AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent/",
-    "status": "Supported",
-    "version": "v6.61.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-19"
   },
@@ -480,7 +480,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediaconnect-router-latency-modes/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 0,
     "date": "2026-08-19"
   },
   {
@@ -610,8 +610,8 @@
     "service": "General",
     "feature": "August 18, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_18_2026",
-    "status": "Supported",
-    "version": "v7.45.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-18"
   },
@@ -744,7 +744,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 0,
     "date": "2026-08-17"
   },
   {
@@ -777,7 +777,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 0,
     "date": "2026-08-16"
   },
   {
@@ -786,9 +786,9 @@
     "service": "General",
     "feature": "August 15, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_15_2026",
-    "status": "Supported",
-    "version": "v7.45.0",
-    "lag": 3,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-08-15"
   },
   {
@@ -832,7 +832,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 0,
     "date": "2026-08-14"
   },
   {
@@ -975,7 +975,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 0,
     "date": "2026-08-13"
   },
   {
@@ -1039,9 +1039,9 @@
     "service": "General",
     "feature": "August 12, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_12_2026",
-    "status": "Supported",
-    "version": "v7.45.0",
-    "lag": 6,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-08-12"
   },
   {
@@ -1182,9 +1182,9 @@
     "service": "General",
     "feature": "August 11, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_11_2026",
-    "status": "Supported",
-    "version": "v7.45.0",
-    "lag": 7,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-08-11"
   },
   {
@@ -1294,7 +1294,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 0,
     "date": "2026-08-10"
   },
   {
@@ -1325,9 +1325,9 @@
     "service": "General",
     "feature": "August 09, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_09_2026",
-    "status": "Supported",
-    "version": "v7.45.0",
-    "lag": 9,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-08-09"
   },
   {
@@ -1338,7 +1338,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 0,
     "date": "2026-08-08"
   },
   {
@@ -1459,7 +1459,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 0,
     "date": "2026-08-07"
   },
   {
@@ -1679,7 +1679,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 0,
     "date": "2026-08-06"
   },
   {
@@ -1822,7 +1822,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 0,
     "date": "2026-08-05"
   },
   {
@@ -1985,8 +1985,8 @@
     "service": "General",
     "feature": "August 04, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_04_2026",
-    "status": "Supported",
-    "version": "v7.43.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-08-04"
   },
@@ -2128,9 +2128,9 @@
     "service": "General",
     "feature": "August 03, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_03_2026",
-    "status": "Supported",
-    "version": "v7.43.0",
-    "lag": 1,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-08-03"
   },
   {
@@ -2152,7 +2152,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 0,
     "date": "2026-08-02"
   },
   {
@@ -2161,9 +2161,9 @@
     "service": "General",
     "feature": "August 01, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_01_2026",
-    "status": "Supported",
-    "version": "v7.45.0",
-    "lag": 17,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-08-01"
   },
   {
@@ -2251,7 +2251,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 0,
     "date": "2026-07-31"
   },
   {
@@ -2425,9 +2425,9 @@
     "service": "General",
     "feature": "July 30, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_30_2026",
-    "status": "Supported",
-    "version": "v7.43.0",
-    "lag": 5,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-07-30"
   },
   {
@@ -2524,9 +2524,9 @@
     "service": "General",
     "feature": "July 29, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_29_2026",
-    "status": "Supported",
-    "version": "v7.43.0",
-    "lag": 6,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-07-29"
   },
   {
@@ -2601,8 +2601,8 @@
     "service": "General",
     "feature": "July 28, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_28_2026",
-    "status": "Supported",
-    "version": "v7.42.0",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
     "date": "2026-07-28"
   },
@@ -2691,7 +2691,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 27,
+    "lag": 0,
     "date": "2026-07-27"
   },
   {
@@ -2722,9 +2722,9 @@
     "service": "General",
     "feature": "July 26, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_26_2026",
-    "status": "Supported",
-    "version": "v7.43.0",
-    "lag": 9,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-07-26"
   },
   {
@@ -2733,9 +2733,9 @@
     "service": "General",
     "feature": "July 25, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_25_2026",
-    "status": "Supported",
-    "version": "v7.43.0",
-    "lag": 10,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-07-25"
   },
   {
@@ -2843,9 +2843,9 @@
     "service": "General",
     "feature": "July 24, 2026",
     "link": "https://docs.cloud.google.com/release-notes#July_24_2026",
-    "status": "Supported",
-    "version": "v7.43.0",
-    "lag": 11,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
     "date": "2026-07-24"
   },
   {
