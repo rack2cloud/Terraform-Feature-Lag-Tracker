@@ -1,5 +1,170 @@
 [
   {
+    "id": "aws-aws-iot-core-now-supports",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IoT Core now supports native InfluxDB routing for time-series data",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-aws-batch-now-supports-am",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Batch now supports Amazon ECS Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-capacity-reservation-reso",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-aws-lambda-microvms-now-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda MicroVMs now supports AWS PrivateLink",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-amazon-rds-for-postgresql",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-amazon-connect-customer-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-iam-roles-anywhere-now-pr",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "IAM Roles Anywhere now provides a Java plugin for the AWS SDK",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-aws-lambda-introduces-man",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-amazon-ec2-m8i-and-m8i-fl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-amazon-rds-now-supports-t",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-amazon-rds-for-oracle-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for Oracle now supports July 2026 Release Update",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-aws-secrets-manager-adds-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-aws-lambda-functions-now-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda functions now support full IAM resource-based policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "aws-amazon-gamelift-servers-e",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GameLift Servers enhanced DDoS Protection now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-servers-enhanced-ddos-protection",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "gcp-august-25--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "August 25, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#August_25_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-25"
+  },
+  {
     "id": "aws-amazon-ecs-now-automatica",
     "cloud": "aws",
     "service": "",
@@ -7,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-24"
   },
   {
@@ -18,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-24"
   },
   {
@@ -29,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-24"
   },
   {
@@ -40,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-24"
   },
   {
@@ -51,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-24"
   },
   {
@@ -62,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-24"
   },
   {
@@ -73,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-24"
   },
   {
@@ -84,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-24"
   },
   {
@@ -95,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-24"
   },
   {
@@ -106,8 +271,30 @@
     "link": "https://docs.cloud.google.com/release-notes#August_24_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-08-24"
+  },
+  {
+    "id": "aws-msk-replicator-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "MSK Replicator now supports OAuth 2.0 (SASL/OAUTHBEARER) authentication for replication from external Apache Kafka clusters to Amazon MSK",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-replicator-OAuth-support",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 1,
     "date": "2026-08-24"
+  },
+  {
+    "id": "gcp-august-23--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "August 23, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#August_23_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2026-08-23"
   },
   {
     "id": "gcp-august-22--2026",
@@ -117,7 +304,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-22"
   },
   {
@@ -128,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-21"
   },
   {
@@ -139,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-21"
   },
   {
@@ -150,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-21"
   },
   {
@@ -161,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-21"
   },
   {
@@ -172,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-21"
   },
   {
@@ -183,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-adds-open-click-tracking-override/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-21"
   },
   {
@@ -194,7 +381,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-21"
   },
   {
@@ -205,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-21"
   },
   {
@@ -216,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-20"
   },
   {
@@ -227,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-20"
   },
   {
@@ -337,7 +524,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-08-20"
   },
   {
@@ -348,7 +535,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-20"
   },
   {
@@ -370,7 +557,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-concurrencyscaling-for-kds-streams/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-20"
   },
   {
@@ -579,7 +766,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-08-19"
   },
   {
@@ -887,7 +1074,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-08-17"
   },
   {
@@ -920,7 +1107,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-08-16"
   },
   {
@@ -975,7 +1162,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-08-14"
   },
   {
@@ -1116,8 +1303,8 @@
     "service": "General",
     "feature": "August 13, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_13_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.46.0",
     "lag": 12,
     "date": "2026-08-13"
   },
@@ -1437,7 +1624,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-08-10"
   },
   {
@@ -1481,7 +1668,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-08-08"
   },
   {
@@ -1600,8 +1787,8 @@
     "service": "General",
     "feature": "August 07, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_07_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.46.0",
     "lag": 18,
     "date": "2026-08-07"
   },
@@ -1822,7 +2009,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-08-06"
   },
   {
@@ -1965,7 +2152,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-08-05"
   },
   {
@@ -2295,7 +2482,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-08-02"
   },
   {
@@ -2394,7 +2581,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-07-31"
   },
   {
@@ -2834,7 +3021,7 @@
     "link": "https://docs.cloud.google.com/release-notes#July_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 29,
+    "lag": 30,
     "date": "2026-07-27"
   },
   {
