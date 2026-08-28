@@ -1,5 +1,38 @@
 [
   {
+    "id": "aws-amazon-ec2-p6-b300-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-28"
+  },
+  {
+    "id": "aws-amazon-aurora-mysql-3-13-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-28"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-agent-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch agent adds support for journald logs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-28"
+  },
+  {
     "id": "gcp-august-27--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,6 +40,160 @@
     "link": "https://docs.cloud.google.com/release-notes#August_27_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-amazon-ec2-x8i-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 X8i instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-cosmos3-edge--cosmos3-nan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-muse-glimmer-30b-and-qwen",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-amazon-redshift-streaming",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-amazon-redshift-integrate",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-aws-elastic-disaster-reco",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elastic Disaster Recovery introduces Recovery Plans for orchestrated application recovery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-disaster-recovery-plans/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore expands to two new regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-amazon-connect-customer-e",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-amazon-connect-customer-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer now automatically refreshes scheduling metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-scheduling-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-amazon-fsx-for-netapp-ont",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-aws-backup-adds-cross-reg",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup adds cross-Region and cross-account backup support for Amazon FSx for NetApp ONTAP",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-fsx-netapp-cross-account-region/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-amazon-evs-now-supports-i",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EVS now supports i7i.metal-48xl Amazon EC2 instance type",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-evs-i7i-48xl",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "aws-amazon-aurora-dsql-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL now supports foreign key constraints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-foreign-key-constraints/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "azure-managed-postgresql-vs--se",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
+    "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
+    "status": "Supported",
+    "version": "v5.3.0",
     "lag": 0,
     "date": "2026-08-27"
   },
@@ -18,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-26"
   },
   {
@@ -29,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-unplanned-shrinkage/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-08-26"
   },
   {
@@ -88,6 +275,17 @@
     "date": "2026-08-26"
   },
   {
+    "id": "azure-the-economics-of-agent-op",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "The Economics of Agent Optimization: Four ways to lower the cost",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
+    "status": "Supported",
+    "version": "v5.3.0",
+    "lag": 1,
+    "date": "2026-08-26"
+  },
+  {
     "id": "aws-aws-iot-core-now-supports",
     "cloud": "aws",
     "service": "General",
@@ -128,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-25"
   },
   {
@@ -161,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-25"
   },
   {
@@ -275,6 +473,17 @@
     "date": "2026-08-25"
   },
   {
+    "id": "azure-the-patch-window-is-colla",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "The patch window is collapsing: Why security needs a new control plane",
+    "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+    "status": "Supported",
+    "version": "v5.3.0",
+    "lag": 2,
+    "date": "2026-08-25"
+  },
+  {
     "id": "aws-amazon-ecs-now-automatica",
     "cloud": "aws",
     "service": "",
@@ -381,7 +590,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-24"
   },
   {
@@ -414,7 +623,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-23"
   },
   {
@@ -425,7 +634,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-08-22"
   },
   {
@@ -502,7 +711,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-08-21"
   },
   {
@@ -645,7 +854,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-08-20"
   },
   {
@@ -1195,7 +1404,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-08-17"
   },
   {
@@ -1228,7 +1437,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-08-16"
   },
   {
@@ -1745,7 +1954,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-08-10"
   },
   {
@@ -1789,7 +1998,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-08-08"
   },
   {
@@ -2130,7 +2339,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-08-06"
   },
   {
@@ -2273,7 +2482,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-08-05"
   },
   {
@@ -2603,7 +2812,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-08-02"
   },
   {
@@ -5377,17 +5586,6 @@
     "version": "v6.54.0",
     "lag": 5,
     "date": "2026-07-03"
-  },
-  {
-    "id": "aws-amazon-ec2-x8i-instances-",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 X8i instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
-    "status": "Supported",
-    "version": "v6.54.0",
-    "lag": 5,
-    "date": "2026-07-02"
   },
   {
     "id": "aws-amazon-sagemaker-unified-",
