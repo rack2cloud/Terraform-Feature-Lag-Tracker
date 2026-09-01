@@ -1,5 +1,16 @@
 [
   {
+    "id": "aws-amazon-cloudwatch-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch now supports warm-up periods for alarms",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-01"
+  },
+  {
     "id": "gcp-august-31--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +18,216 @@
     "link": "https://docs.cloud.google.com/release-notes#August_31_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-documentdb-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon DocumentDB now supports direct major version upgrades to version 8.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-partner-revenue-measureme",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Partner Revenue Measurement expands service coverage for User Agent string capability",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-aws-agent-registry-agents",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-redshift-now-suppo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-timestream-for-inf",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-connect-global-res",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Global Resiliency now supports cross-region routing of contacts across two active AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-global-resiliency-cross-region-routing/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-redshift-now-suppo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift now supports Apache Iceberg v3 tables",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-ec2-r9g-and-r9gd-m",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-cognito-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-aws-lambda-recursive-loop",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda recursive loop detection is now available in all commercial AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-aurora-serverless-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-aws-agent-registry-for-ce",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Agent Registry for centralized agent discovery and governance is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-aws-announces-aws-interco",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-msk-connect-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK Connect now supports restarting connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-connect-restart/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-amazon-workspaces-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Applications is now available in three new AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-region-expansion",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-aws-workload-credentials-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Workload Credentials Provider is now available as a one-click install for Linux and Windows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/workload-credentials-provider-install/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-automated-security-respon",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Automated Security Response on AWS adds AI Toolkit for custom remediations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "aws-aws-elastic-beanstalk-now",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-beanstalk-active-directory-domain-join/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-08-31"
   },
   {
@@ -18,7 +238,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-08-30"
   },
   {
@@ -29,7 +249,18 @@
     "link": "https://docs.cloud.google.com/release-notes#August_29_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "id": "aws-amazon-kinesis-data-strea",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Kinesis Data Streams announces data delivery to general purpose Amazon S3 buckets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-general-purpose-s3-buckets",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
     "date": "2026-08-29"
   },
   {
@@ -40,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-28"
   },
   {
@@ -51,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-28"
   },
   {
@@ -62,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-28"
   },
   {
@@ -73,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-28"
   },
   {
@@ -84,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-28"
   },
   {
@@ -95,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-28"
   },
   {
@@ -106,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-28"
   },
   {
@@ -128,6 +359,28 @@
     "link": "https://docs.cloud.google.com/release-notes#August_28_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 4,
+    "date": "2026-08-28"
+  },
+  {
+    "id": "aws-amazon-kinesis-data-strea",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "id": "aws-amazon-emr-on-eks-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EMR on EKS now supports job run concurrency controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-eks/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 3,
     "date": "2026-08-28"
   },
@@ -139,7 +392,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-27"
   },
   {
@@ -161,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-27"
   },
   {
@@ -172,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-27"
   },
   {
@@ -183,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-27"
   },
   {
@@ -194,7 +447,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-08-27"
   },
   {
@@ -689,7 +942,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-08-24"
   },
   {
@@ -722,7 +975,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-08-23"
   },
   {
@@ -733,7 +986,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-08-22"
   },
   {
@@ -810,7 +1063,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-08-21"
   },
   {
@@ -953,7 +1206,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-08-20"
   },
   {
@@ -1503,7 +1756,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-08-17"
   },
   {
@@ -1536,7 +1789,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-08-16"
   },
   {
@@ -2053,7 +2306,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-08-10"
   },
   {
@@ -2097,7 +2350,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-08-08"
   },
   {
@@ -2438,7 +2691,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-08-06"
   },
   {
@@ -2581,7 +2834,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 27,
     "date": "2026-08-05"
   },
   {
@@ -2911,7 +3164,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 29,
+    "lag": 30,
     "date": "2026-08-02"
   },
   {
