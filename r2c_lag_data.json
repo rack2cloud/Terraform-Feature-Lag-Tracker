@@ -1,5 +1,148 @@
 [
   {
+    "id": "gcp-september-03--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 03, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_03_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-web-search-on-amazon-bedr",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-amazon-connect-customer-e",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer expands automated performance evaluations to Malay",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-amazon-quick-adds-new-too",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-amazon-connect-customer-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer announces general availability of agentic CX designer",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-second-generation-aws-out",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-aws-config-now-supports-6",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Config now supports 60 new resource types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-aws-user-experience-custo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-aws-lambda-now-supports-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda now supports SnapStart for container image functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-amazon-rds-for-sql-server",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for SQL Server supports additional SQL trace flags",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "azure-the-economics-of-agent-op",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "gcp-september-02--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 02, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_02_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-02"
+  },
+  {
     "id": "aws-amazon-cloudwatch-now-sup",
     "cloud": "aws",
     "service": "",
@@ -7,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-09-01"
   },
   {
@@ -18,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-09-01"
   },
   {
@@ -29,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-01"
   },
   {
@@ -40,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-01"
   },
   {
@@ -51,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-01"
   },
   {
@@ -62,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-01"
   },
   {
@@ -73,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-more-than-1000-s3-buckets/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-01"
   },
   {
@@ -84,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-01"
   },
   {
@@ -95,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-01"
   },
   {
@@ -106,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-01"
   },
   {
@@ -117,7 +260,40 @@
     "link": "https://docs.cloud.google.com/release-notes#September_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
+    "date": "2026-09-01"
+  },
+  {
+    "id": "aws-aws-marketplace-reduces-l",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace reduces listing fee for professional services in multi-product solutions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-fee-professional-services/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-01"
+  },
+  {
+    "id": "aws-aws-marketplace-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace now supports auto-renewals for private offers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-auto-renewals-for-private-offers",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-01"
+  },
+  {
+    "id": "aws-claude-fable-5-1--anthrop",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-09-01"
   },
   {
@@ -126,9 +302,9 @@
     "service": "General",
     "feature": "August 31, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_31_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.1.0",
+    "lag": 1,
     "date": "2026-08-31"
   },
   {
@@ -139,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -150,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -161,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -172,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -183,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -194,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-global-resiliency-cross-region-routing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -205,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -216,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -227,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -238,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -249,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -348,7 +524,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -359,7 +535,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -370,7 +546,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-08-31"
   },
   {
@@ -379,9 +555,9 @@
     "service": "General",
     "feature": "August 30, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_30_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.1.0",
+    "lag": 2,
     "date": "2026-08-30"
   },
   {
@@ -390,9 +566,9 @@
     "service": "General",
     "feature": "August 29, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_29_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.1.0",
+    "lag": 3,
     "date": "2026-08-29"
   },
   {
@@ -500,9 +676,9 @@
     "service": "General",
     "feature": "August 28, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_28_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.1.0",
+    "lag": 4,
     "date": "2026-08-28"
   },
   {
@@ -533,9 +709,9 @@
     "service": "General",
     "feature": "August 27, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_27_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.1.0",
+    "lag": 5,
     "date": "2026-08-27"
   },
   {
@@ -687,8 +863,8 @@
     "service": "General",
     "feature": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
     "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v5.3.0",
     "lag": 0,
     "date": "2026-08-27"
   },
@@ -764,8 +940,8 @@
     "service": "General",
     "feature": "August 26, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_26_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.0.0",
     "lag": 0,
     "date": "2026-08-26"
   },
@@ -775,9 +951,9 @@
     "service": "General",
     "feature": "The Economics of Agent Optimization: Four ways to lower the cost",
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v5.3.0",
+    "lag": 1,
     "date": "2026-08-26"
   },
   {
@@ -940,9 +1116,9 @@
     "service": "General",
     "feature": "August 25, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_25_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.0.0",
+    "lag": 1,
     "date": "2026-08-25"
   },
   {
@@ -973,9 +1149,9 @@
     "service": "General",
     "feature": "The patch window is collapsing: Why security needs a new control plane",
     "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v5.3.0",
+    "lag": 2,
     "date": "2026-08-25"
   },
   {
@@ -1085,7 +1261,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 10,
     "date": "2026-08-24"
   },
   {
@@ -1118,7 +1294,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 11,
     "date": "2026-08-23"
   },
   {
@@ -1129,7 +1305,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 12,
     "date": "2026-08-22"
   },
   {
@@ -1206,7 +1382,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 13,
     "date": "2026-08-21"
   },
   {
@@ -1349,7 +1525,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 14,
     "date": "2026-08-20"
   },
   {
@@ -1589,9 +1765,9 @@
     "service": "General",
     "feature": "August 19, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_19_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.0.0",
+    "lag": 7,
     "date": "2026-08-19"
   },
   {
@@ -1765,8 +1941,8 @@
     "service": "General",
     "feature": "August 18, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_18_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.45.0",
     "lag": 0,
     "date": "2026-08-18"
   },
@@ -1899,7 +2075,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 17,
     "date": "2026-08-17"
   },
   {
@@ -1919,9 +2095,9 @@
     "service": "General",
     "feature": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud-Native Application Platforms",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v5.2.0",
+    "lag": 3,
     "date": "2026-08-17"
   },
   {
@@ -1932,7 +2108,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 18,
     "date": "2026-08-16"
   },
   {
@@ -1941,9 +2117,9 @@
     "service": "General",
     "feature": "August 15, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_15_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v7.45.0",
+    "lag": 3,
     "date": "2026-08-15"
   },
   {
@@ -1985,9 +2161,9 @@
     "service": "General",
     "feature": "August 14, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_14_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.0.0",
+    "lag": 12,
     "date": "2026-08-14"
   },
   {
@@ -2128,9 +2304,9 @@
     "service": "General",
     "feature": "August 13, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_13_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v7.46.0",
+    "lag": 12,
     "date": "2026-08-13"
   },
   {
@@ -2194,9 +2370,9 @@
     "service": "General",
     "feature": "August 12, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_12_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v7.45.0",
+    "lag": 6,
     "date": "2026-08-12"
   },
   {
@@ -2216,9 +2392,9 @@
     "service": "General",
     "feature": "The Economics of Agent Optimization: From pilots to measurable returns",
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v5.2.0",
+    "lag": 8,
     "date": "2026-08-12"
   },
   {
@@ -2337,9 +2513,9 @@
     "service": "General",
     "feature": "August 11, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_11_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v7.45.0",
+    "lag": 7,
     "date": "2026-08-11"
   },
   {
@@ -2449,7 +2625,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 24,
     "date": "2026-08-10"
   },
   {
@@ -2480,9 +2656,9 @@
     "service": "General",
     "feature": "August 09, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_09_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v7.45.0",
+    "lag": 9,
     "date": "2026-08-09"
   },
   {
@@ -2491,9 +2667,9 @@
     "service": "General",
     "feature": "August 08, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_08_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.1.0",
+    "lag": 24,
     "date": "2026-08-08"
   },
   {
@@ -2612,9 +2788,9 @@
     "service": "General",
     "feature": "August 07, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_07_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v7.46.0",
+    "lag": 18,
     "date": "2026-08-07"
   },
   {
@@ -2832,9 +3008,9 @@
     "service": "General",
     "feature": "August 06, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_06_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.1.0",
+    "lag": 26,
     "date": "2026-08-06"
   },
   {
@@ -2876,9 +3052,9 @@
     "service": "General",
     "feature": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for AI-Augmented Code Modernization Tools",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v5.1.0",
+    "lag": 7,
     "date": "2026-08-06"
   },
   {
@@ -2975,9 +3151,9 @@
     "service": "General",
     "feature": "August 05, 2026",
     "link": "https://docs.cloud.google.com/release-notes#August_05_2026",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v8.1.0",
+    "lag": 27,
     "date": "2026-08-05"
   },
   {
@@ -3866,9 +4042,9 @@
     "service": "General",
     "feature": "What customers value most in Microsoft Databases\u2014from reliability to AI readiness",
     "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v5.0.0",
+    "lag": 1,
     "date": "2026-07-27"
   },
   {
