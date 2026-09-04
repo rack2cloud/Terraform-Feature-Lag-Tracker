@@ -7,6 +7,182 @@
     "link": "https://docs.cloud.google.com/release-notes#September_03_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-ecs-managed-daemon",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS Managed Daemons now support non-critical daemons",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-ec2-p6-b200-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-ec2-p6-b300-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-cloudfront-announc",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront announces API support for flat-rate pricing plans",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-introducing-amazon-quick-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-aws-gateway-load-balancer",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-workspaces-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-redshift-rg-large-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift rg.large instances now support single-node clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-aurora-mysql-8-4-8",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-aurora-mysql-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio Workflows support Python and Bash operators",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-workflows-python-bash/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-mwaa-adds-built-in",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/",
+    "status": "Supported",
+    "version": "v6.63.0",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-linux-2027-is-now-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Linux 2027 is now available in public preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/",
+    "status": "Supported",
+    "version": "v6.63.0",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-ses-now-supports-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SES now supports S/MIME email signing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing",
+    "status": "Supported",
+    "version": "v6.63.0",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-amazon-s3-now-supports-pr",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 now supports PrivateLink for FIPS endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints",
+    "status": "Supported",
+    "version": "v6.63.0",
+    "lag": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "aws-aws-transform-announces-g",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 0,
     "date": "2026-09-03"
   },
@@ -16,8 +192,8 @@
     "service": "",
     "feature": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 0,
     "date": "2026-09-02"
   },
@@ -27,8 +203,8 @@
     "service": "",
     "feature": "Amazon Connect Customer expands automated performance evaluations to Malay",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 0,
     "date": "2026-09-02"
   },
@@ -38,8 +214,8 @@
     "service": "",
     "feature": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 0,
     "date": "2026-09-02"
   },
@@ -49,8 +225,8 @@
     "service": "",
     "feature": "Amazon Connect Customer announces general availability of agentic CX designer",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 0,
     "date": "2026-09-02"
   },
@@ -60,8 +236,8 @@
     "service": "General",
     "feature": "Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 0,
     "date": "2026-09-02"
   },
@@ -71,9 +247,9 @@
     "service": "General",
     "feature": "AWS Config now supports 60 new resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.63.0",
+    "lag": 1,
     "date": "2026-09-02"
   },
   {
@@ -82,9 +258,9 @@
     "service": "General",
     "feature": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.63.0",
+    "lag": 1,
     "date": "2026-09-02"
   },
   {
@@ -93,8 +269,8 @@
     "service": "General",
     "feature": "AWS Lambda now supports SnapStart for container image functions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 1,
     "date": "2026-09-02"
   },
@@ -104,8 +280,8 @@
     "service": "",
     "feature": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 1,
     "date": "2026-09-02"
   },
@@ -115,8 +291,8 @@
     "service": "",
     "feature": "Amazon RDS for SQL Server supports additional SQL trace flags",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 1,
     "date": "2026-09-02"
   },
@@ -126,9 +302,9 @@
     "service": "General",
     "feature": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v5.4.0",
+    "lag": 1,
     "date": "2026-09-02"
   },
   {
@@ -139,6 +315,17 @@
     "link": "https://docs.cloud.google.com/release-notes#September_02_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "aws-amazon-memorydb-now-suppo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-memorydb-privatelink/",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 1,
     "date": "2026-09-02"
   },
@@ -172,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-01"
   },
   {
@@ -183,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-01"
   },
   {
@@ -194,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-01"
   },
   {
@@ -203,8 +390,8 @@
     "service": "",
     "feature": "Amazon Kinesis Data Streams now supports a dry run feature to validate API requests",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 1,
     "date": "2026-09-01"
   },
@@ -214,8 +401,8 @@
     "service": "",
     "feature": "AWS Backup now supports protecting more than 1,000 Amazon S3 buckets per account",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-more-than-1000-s3-buckets/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 1,
     "date": "2026-09-01"
   },
@@ -225,8 +412,8 @@
     "service": "",
     "feature": "Amazon Connect Customer dashboards now support compact mode",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 1,
     "date": "2026-09-01"
   },
@@ -260,7 +447,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-09-01"
   },
   {
@@ -271,7 +458,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-fee-professional-services/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-01"
   },
   {
@@ -293,6 +480,17 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-09-01"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Identity now offers a managed consent portal",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-agentcore/",
+    "status": "Supported",
+    "version": "v6.63.0",
     "lag": 1,
     "date": "2026-09-01"
   },
@@ -535,7 +733,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-08-31"
   },
   {
@@ -544,9 +742,9 @@
     "service": "General",
     "feature": "Inside Microsoft\u2019s marketing team: Scaling expertise with AI",
     "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 2,
+    "status": "Supported",
+    "version": "v5.4.0",
+    "lag": 3,
     "date": "2026-08-31"
   },
   {
@@ -1261,7 +1459,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-08-24"
   },
   {
@@ -1294,7 +1492,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_23_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-08-23"
   },
   {
@@ -1305,7 +1503,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_22_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-08-22"
   },
   {
@@ -1382,7 +1580,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-08-21"
   },
   {
@@ -1525,7 +1723,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-08-20"
   },
   {
@@ -2075,7 +2273,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-08-17"
   },
   {
@@ -2108,7 +2306,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-08-16"
   },
   {
@@ -2625,7 +2823,7 @@
     "link": "https://docs.cloud.google.com/release-notes#August_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-08-10"
   },
   {
