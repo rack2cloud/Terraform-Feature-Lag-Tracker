@@ -1,5 +1,27 @@
 [
   {
+    "id": "gcp-september-06--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 06, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_06_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-06"
+  },
+  {
+    "id": "gcp-september-05--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 05, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_05_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-05"
+  },
+  {
     "id": "aws-amazon-ec2-c8g-instances-",
     "cloud": "aws",
     "service": "",
@@ -7,7 +29,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-04"
   },
   {
@@ -18,7 +40,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-04"
   },
   {
@@ -29,7 +51,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-04"
   },
   {
@@ -40,7 +62,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-04"
   },
   {
@@ -51,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-04"
   },
   {
@@ -62,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-04"
   },
   {
@@ -73,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-04"
   },
   {
@@ -84,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-04"
   },
   {
@@ -95,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-04"
   },
   {
@@ -128,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -139,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -150,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -161,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -172,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -183,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -194,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -205,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -216,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -227,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -238,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-workflows-python-bash/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -304,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-03"
   },
   {
@@ -315,7 +337,40 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "azure-enterprise-ai-transformat",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
+    "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "azure-gpt-6-astra--frontier-int",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "azure-how-microsoft-s-physical-",
+    "cloud": "azure",
+    "service": "",
+    "feature": "How Microsoft\u2019s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop",
+    "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
+    "status": "Supported",
+    "version": "v5.4.0",
+    "lag": 0,
     "date": "2026-09-03"
   },
   {
@@ -865,7 +920,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-08-31"
   },
   {
