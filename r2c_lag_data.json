@@ -1,5 +1,170 @@
 [
   {
+    "id": "aws-amazon-rds-now-supports-t",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-openai-gpt-6-astra-is-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-amazon-timestream-for-inf",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Timestream for InfluxDB 3 now supports custom plugins",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-amazon-sagemaker-feature-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Feature Store now supports individual feature updates to lower write latency",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-aws-transform-is-now-avai",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform is now available in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-govcloud-us-west/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-amazon-api-gateway-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon API Gateway now supports mutual TLS for backend integrations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-mutual-tls-backend/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-amazon-rds-for-mariadb-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, and 12.3.3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-aws-healthomics-introduce",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS HealthOmics introduces resource fallback order for WDL workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-dynamic-image-transformat",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Dynamic Image Transformation for Amazon CloudFront adds four new features",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transfromation-adds-new-features/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-aws-builder-id-adds-recov",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Builder ID adds recovery options and multi-factor authentication for third-party logins",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-aws-announces-nx-plugin-f",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces Nx Plugin for AWS for scaffolding full-stack applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/nx-plugin-for-aws/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "aws-amazon-s3-object-lock-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Object Lock now supports variable retention with event holds",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-object-lock-variable-retention/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "azure-beyond-the-benchmark--how",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
+    "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "gcp-september-08--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 08, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_08_2026",
+    "status": "Supported",
+    "version": "v8.2.0",
+    "lag": 0,
+    "date": "2026-09-08"
+  },
+  {
     "id": "gcp-september-07--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +172,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-07"
   },
   {
@@ -16,8 +181,8 @@
     "service": "General",
     "feature": "September 06, 2026",
     "link": "https://docs.cloud.google.com/release-notes#September_06_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.2.0",
     "lag": 2,
     "date": "2026-09-06"
   },
@@ -29,7 +194,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-05"
   },
   {
@@ -40,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-04"
   },
   {
@@ -51,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-04"
   },
   {
@@ -62,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-04"
   },
   {
@@ -73,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-04"
   },
   {
@@ -84,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-04"
   },
   {
@@ -95,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-04"
   },
   {
@@ -106,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-04"
   },
   {
@@ -117,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-04"
   },
   {
@@ -128,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-04"
   },
   {
@@ -140,6 +305,28 @@
     "status": "Supported",
     "version": "v7.46.1",
     "lag": 0,
+    "date": "2026-09-04"
+  },
+  {
+    "id": "aws-amazon-mwaa-serverless-is",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MWAA Serverless is now available in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-serverless-aws-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
+    "date": "2026-09-04"
+  },
+  {
+    "id": "aws-amazon-guardduty-adds-opt",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GuardDuty adds optional threat detection rules",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/guardduty-optional-detection-rules/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
     "date": "2026-09-04"
   },
   {
@@ -161,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -172,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -183,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -194,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -205,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -216,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -227,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -238,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -249,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -337,7 +524,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -348,7 +535,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -359,7 +546,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -370,7 +557,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-03"
   },
   {
@@ -931,7 +1118,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-08-31"
   },
   {
@@ -4750,17 +4937,6 @@
     "version": "--",
     "lag": 5,
     "date": "2026-07-23"
-  },
-  {
-    "id": "aws-amazon-rds-now-supports-t",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server",
-    "status": "Supported",
-    "version": "v6.56.0",
-    "lag": 0,
-    "date": "2026-07-22"
   },
   {
     "id": "aws-amazon-ec2-c7a-instances-",
