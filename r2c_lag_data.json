@@ -1,5 +1,203 @@
 [
   {
+    "id": "aws-aws-lambda-recursive-loop",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-aws-transform-for--net-no",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform for .NET now generates unit tests for modernized code",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-amazon-api-gateway-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-aws-lambda-durable-functi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda durable functions integrates with Pydantic AI",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-amazon-mq-now-supports-ra",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MQ now supports RabbitMQ 4.3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-announcing-second-generat",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing second-generation single-rack AWS Outposts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-amazon-opensearch-serverl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Serverless is now available on v0 by Vercel",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-amazon-ecs-expands-iam-co",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS expands IAM condition key support for RunTask and StartTask APIs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-amazon-redshift-rg-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift RG instances now available in Europe (Zurich) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-aws-elemental-inference-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental Inference now generates contextual metadata from live video in real time",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-aws-elemental-mediatailor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-aws-elemental-medialive-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental MediaLive adds support for A/B forensic watermarking",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-aws-elemental-mediatailor",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-aws-elemental-introduces-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental introduces Dynamic Multiview for live video",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-aws-storage-gateway-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/storage-gateway-fips-privatelink-s3/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "aws-amazon-evs-is-now-availab",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EVS is now available in more regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-available-in-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "gcp-september-10--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 10, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_10_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
     "id": "aws-amazon-connect-customer-n",
     "cloud": "aws",
     "service": "",
@@ -7,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-09"
   },
   {
@@ -73,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ebs-volume-clones-cross-account-copy/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-09"
   },
   {
@@ -106,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/entity-resolution-record-confidence/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-09"
   },
   {
@@ -128,7 +326,40 @@
     "link": "https://docs.cloud.google.com/release-notes#September_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-09-09"
+  },
+  {
+    "id": "aws-amazon-quick-adds-always-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick adds always-on agents, a sharper feed, and enterprise controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-always-on-agents-sharper-feed-enterprise-controls/",
+    "status": "Supported",
+    "version": "v6.64.0",
+    "lag": 0,
+    "date": "2026-09-09"
+  },
+  {
+    "id": "aws-amazon-quick-activity-fee",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick activity feed now available on iOS and Android mobile devices",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-activity-feed-available-ios-android-mobile-devices/",
+    "status": "Supported",
+    "version": "v6.64.0",
+    "lag": 0,
+    "date": "2026-09-09"
+  },
+  {
+    "id": "aws-amazon-quick-desktop-app-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick desktop app is now generally available on macOS and Windows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-desktop-app-generally-available-macos-windows/",
+    "status": "Supported",
+    "version": "v6.64.0",
+    "lag": 0,
     "date": "2026-09-09"
   },
   {
@@ -315,7 +546,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-07"
   },
   {
@@ -337,7 +568,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-09-05"
   },
   {
@@ -687,8 +918,8 @@
     "service": "",
     "feature": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
     "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v5.5.0",
     "lag": 6,
     "date": "2026-09-03"
   },
@@ -698,8 +929,8 @@
     "service": "General",
     "feature": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
     "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v5.5.0",
     "lag": 6,
     "date": "2026-09-03"
   },
@@ -1261,7 +1492,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-08-31"
   },
   {
