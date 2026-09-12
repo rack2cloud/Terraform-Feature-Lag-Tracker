@@ -1,5 +1,93 @@
 [
   {
+    "id": "aws-amazon-ec2-x2idn-instance",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "aws-amazon-sagemaker-hyperpod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "aws-aws-lambda-now-supports-d",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Lambda now supports direct read configuration for Amazon S3 Files",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "aws-amazon-bedrock-managed-kn",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "aws-aws-healthomics-now-publi",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "aws-aws-devops-agent-adds-sup",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS DevOps Agent adds support for bidirectional Slack communication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "aws-amazon-rds-for-oracle-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for Oracle now supports Supplemental Patch Bundle for July 2026 Release Update",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "gcp-september-11--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 11, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_11_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-11"
+  },
+  {
     "id": "aws-aws-lambda-recursive-loop",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-10"
   },
   {
@@ -18,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-10"
   },
   {
@@ -29,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-10"
   },
   {
@@ -40,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-10"
   },
   {
@@ -51,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-10"
   },
   {
@@ -62,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-10"
   },
   {
@@ -73,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-10"
   },
   {
@@ -84,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-10"
   },
   {
@@ -95,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-10"
   },
   {
@@ -106,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-10"
   },
   {
@@ -117,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-10"
   },
   {
@@ -128,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-10"
   },
   {
@@ -139,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-10"
   },
   {
@@ -150,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-10"
   },
   {
@@ -161,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-10"
   },
   {
@@ -172,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/storage-gateway-fips-privatelink-s3/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-10"
   },
   {
@@ -183,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-available-in-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-10"
   },
   {
@@ -192,6 +280,39 @@
     "service": "General",
     "feature": "September 10, 2026",
     "link": "https://docs.cloud.google.com/release-notes#September_10_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "azure-microsoft-named-a-leader-",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Container Management",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "azure-the-economics-of-agent-op",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "azure-the-future-of-infrastruct",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "The future of infrastructure resiliency starts with modernization",
+    "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -205,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-09"
   },
   {
@@ -271,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ebs-volume-clones-cross-account-copy/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-09-09"
   },
   {
@@ -326,7 +447,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-09-09"
   },
   {
@@ -359,6 +480,28 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-desktop-app-generally-available-macos-windows/",
     "status": "Supported",
     "version": "v6.64.0",
+    "lag": 0,
+    "date": "2026-09-09"
+  },
+  {
+    "id": "aws-aws-marketplace-sellers-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace sellers now receive qualified demo and private offer requests in minutes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-demo-private-offer-requests-qualification",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-09-09"
+  },
+  {
+    "id": "azure-two-zones-or-three--a-des",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Two zones or three? A design framework for zone-resilient Azure workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
+    "status": "Supported",
+    "version": "v5.5.0",
     "lag": 0,
     "date": "2026-09-09"
   },
@@ -513,7 +656,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 3,
     "date": "2026-09-08"
   },
   {
@@ -546,7 +689,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-07"
   },
   {
@@ -568,7 +711,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-09-05"
   },
   {
@@ -1492,7 +1635,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-08-31"
   },
   {
