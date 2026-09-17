@@ -1,5 +1,126 @@
 [
   {
+    "id": "aws-amazon-corretto-27-is-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Corretto 27 is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-aws-client-vpn-is-now-sup",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-new-aws-experience-helps-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "New AWS experience helps builders get started and ship faster",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-amazon-workspaces-adds-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/",
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-amazon-connect-customer-c",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer custom metrics now supports tag-based access control",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-tag/",
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-amazon-connect-customer-c",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer can now import evaluation form PDFs using AI",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF/",
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-aws-elemental-mediatailor",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental MediaTailor Monetization Functions adds ad response hooks",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-amazon-ecs-extends-amazon",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS extends Amazon S3 Files support to the Amazon EC2 compute type",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2/",
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-amazon-connect-customer-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-apis/",
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "gcp-september-16--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 16, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_16_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-16"
+  },
+  {
     "id": "aws-monitor-cost-anomalies-di",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-15"
   },
   {
@@ -18,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-15"
   },
   {
@@ -29,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-15"
   },
   {
@@ -38,9 +159,9 @@
     "service": "",
     "feature": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 1,
     "date": "2026-09-15"
   },
   {
@@ -51,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-15"
   },
   {
@@ -60,9 +181,9 @@
     "service": "",
     "feature": "Amazon Connect Customer now enables agents to bid on preferred shifts",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-shift-bidding/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 1,
     "date": "2026-09-15"
   },
   {
@@ -73,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-archived-salesforce/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-15"
   },
   {
@@ -84,6 +205,28 @@
     "link": "https://docs.cloud.google.com/release-notes#September_15_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-09-15"
+  },
+  {
+    "id": "aws-aws-sts-simplifies-sessio",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS STS simplifies session token size limits and adds session token size monitoring",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts/",
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 0,
+    "date": "2026-09-15"
+  },
+  {
+    "id": "aws-aws-step-functions-adds-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Step Functions adds new AWS service integrations automatically, starting with AWS Lambda MicroVMs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations/",
+    "status": "Supported",
+    "version": "v6.65.0",
     "lag": 1,
     "date": "2026-09-15"
   },
@@ -93,9 +236,9 @@
     "service": "",
     "feature": "Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 2,
     "date": "2026-09-14"
   },
   {
@@ -104,9 +247,9 @@
     "service": "",
     "feature": "Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 2,
     "date": "2026-09-14"
   },
   {
@@ -115,9 +258,9 @@
     "service": "",
     "feature": "Gemma-4-31B-it-assistant and Gemma-4-31B-IT-NVFP4 models now available on Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 2,
     "date": "2026-09-14"
   },
   {
@@ -126,9 +269,9 @@
     "service": "",
     "feature": "granite-speech-4.1-2b, kanana-2-30b-a3b-instruct, and OpenFold3 models now available on Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 2,
     "date": "2026-09-14"
   },
   {
@@ -137,8 +280,8 @@
     "service": "General",
     "feature": "AWS Glue zero-ETL adds target table property ownership and conflict detection",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-ownership-conflicts/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.65.0",
     "lag": 2,
     "date": "2026-09-14"
   },
@@ -148,8 +291,8 @@
     "service": "General",
     "feature": "AWS End User Messaging now supports Dynamic Flows in WhatsApp",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-whatsapp-dynamic-flows",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.65.0",
     "lag": 2,
     "date": "2026-09-14"
   },
@@ -159,8 +302,8 @@
     "service": "General",
     "feature": "AWS End User Messaging strengthens SMS deliverability with automatic failover",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-improves-deliverability",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.65.0",
     "lag": 2,
     "date": "2026-09-14"
   },
@@ -172,7 +315,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-09-14"
   },
   {
@@ -183,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/root-user-regional-resiliency/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-14"
   },
   {
@@ -194,7 +337,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-13"
   },
   {
@@ -205,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-12"
   },
   {
@@ -214,9 +357,9 @@
     "service": "",
     "feature": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 5,
     "date": "2026-09-11"
   },
   {
@@ -227,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-11"
   },
   {
@@ -236,9 +379,9 @@
     "service": "",
     "feature": "AWS Lambda now supports direct read configuration for Amazon S3 Files",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 5,
     "date": "2026-09-11"
   },
   {
@@ -247,9 +390,9 @@
     "service": "",
     "feature": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 5,
     "date": "2026-09-11"
   },
   {
@@ -260,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-11"
   },
   {
@@ -269,9 +412,9 @@
     "service": "General",
     "feature": "AWS DevOps Agent adds support for bidirectional Slack communication",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 5,
     "date": "2026-09-11"
   },
   {
@@ -293,7 +436,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-09-11"
   },
   {
@@ -302,8 +445,8 @@
     "service": "",
     "feature": "Amazon SageMaker Unified Studio now supports ODBC connections for Microsoft Power BI and other analytics tools",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-unified-studio-odbc-power-bi/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.65.0",
     "lag": 5,
     "date": "2026-09-11"
   },
@@ -502,7 +645,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-09-10"
   },
   {
@@ -513,7 +656,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-09-10"
   },
   {
@@ -524,7 +667,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-09-10"
   },
   {
@@ -535,7 +678,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-09-10"
   },
   {
@@ -667,7 +810,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-09-09"
   },
   {
@@ -876,7 +1019,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-09-08"
   },
   {
@@ -909,7 +1052,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-09-07"
   },
   {
@@ -931,7 +1074,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-09-05"
   },
   {
@@ -1855,7 +1998,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-08-31"
   },
   {
