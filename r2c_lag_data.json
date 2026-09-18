@@ -1,5 +1,16 @@
 [
   {
+    "id": "gcp-september-18--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 18, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_18_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-18"
+  },
+  {
     "id": "aws-amazon-corretto-27-is-now",
     "cloud": "aws",
     "service": "",
@@ -7,7 +18,106 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "aws-aws-transfer-family-now-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "aws-aws-healthomics-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS HealthOmics now supports IAM session policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "aws-aws-batch-now-supports-bu",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Batch now supports bulk job cancellation and termination",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "aws-introducing-amazon-ec2-t8",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing Amazon EC2 T8i instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "aws-aws-elastic-beanstalk-int",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elastic Beanstalk introduces Cluster Mode to run multiple applications on shared infrastructure",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-beanstalk-cluster-mode/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "aws-amazon-s3-express-one-zon",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Express One Zone is now available in 7 additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-express-one-zone-7-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "aws-aws-builder-center-now-av",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Builder Center now available as mobile app on iOS and Android",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-center-now-available-as-mobile-app/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "aws-amazon-quick-now-generate",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick now generates individual sheets and builds analyses from an image",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "gcp-september-17--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "September 17, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#September_17_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-09-17"
   },
   {
@@ -18,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-16"
   },
   {
@@ -40,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-16"
   },
   {
@@ -84,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-09-16"
   },
   {
@@ -117,6 +227,50 @@
     "link": "https://docs.cloud.google.com/release-notes#September_16_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-amazon-ecs-deployment-obs",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-amazon-keyspaces--for-apa",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Keyspaces (for Apache Cassandra) is now generally available in 11 additional Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-keyspaces/",
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "aws-amazon-connect-talent-is-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Talent is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-talent/",
+    "status": "Supported",
+    "version": "v6.65.0",
+    "lag": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "azure-microsoft-recognized-as-a",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft recognized as a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Distributed Hybrid Infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+    "status": "Supported",
+    "version": "v5.6.0",
     "lag": 1,
     "date": "2026-09-16"
   },
@@ -128,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-15"
   },
   {
@@ -139,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-15"
   },
   {
@@ -150,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-15"
   },
   {
@@ -172,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-09-15"
   },
   {
@@ -194,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-archived-salesforce/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-09-15"
   },
   {
@@ -205,7 +359,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-09-15"
   },
   {
@@ -315,7 +469,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-09-14"
   },
   {
@@ -326,7 +480,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/root-user-regional-resiliency/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-09-14"
   },
   {
@@ -337,7 +491,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-09-13"
   },
   {
@@ -436,7 +590,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-09-11"
   },
   {
@@ -645,7 +799,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_10_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-09-10"
   },
   {
@@ -654,8 +808,8 @@
     "service": "General",
     "feature": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Container Management",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v5.6.0",
     "lag": 6,
     "date": "2026-09-10"
   },
@@ -667,7 +821,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-09-10"
   },
   {
@@ -678,7 +832,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-09-10"
   },
   {
@@ -810,7 +964,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-09-09"
   },
   {
@@ -1019,7 +1173,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-09-08"
   },
   {
@@ -1052,7 +1206,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-09-07"
   },
   {
@@ -1074,7 +1228,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-09-05"
   },
   {
