@@ -7,7 +7,106 @@
     "link": "https://docs.cloud.google.com/release-notes#October_05_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "aws-amazon-redshift-adds-supp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "aws-glm-5-3-by-z-ai-is-now-ge",
+    "cloud": "aws",
+    "service": "",
+    "feature": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "aws-aws-iam-identity-center-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IAM Identity Center now supports network access controls for Identity Store",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "aws-aws-continuum-for-penetra",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Continuum for Penetration Testing now supports continuous penetration testing integrated directly into your CI/CD pipeline",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "aws-aws-advanced-ruby-driver-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Advanced Ruby Driver Wrapper is generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "aws-aws-client-vpn-now-suppor",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Client VPN now supports device posture assessment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-client-vpn-device-posture/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "aws-aws-batch-now-supports-am",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Batch now supports Amazon EKS access entry authentication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-access-entries/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "aws-aws-private-ca-now-provid",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Private CA now provides detailed certificate issuance logs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "aws-announcing-amazon-nova-2-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-nova-2.5-sonic/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-10-05"
   },
   {
@@ -18,7 +117,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-04"
   },
   {
@@ -29,7 +128,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-03"
   },
   {
@@ -40,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-02"
   },
   {
@@ -51,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-02"
   },
   {
@@ -62,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-02"
   },
   {
@@ -73,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-02"
   },
   {
@@ -84,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-02"
   },
   {
@@ -106,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-02"
   },
   {
@@ -117,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-02"
   },
   {
@@ -128,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-02"
   },
   {
@@ -139,7 +238,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-02"
   },
   {
@@ -150,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-01"
   },
   {
@@ -161,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-01"
   },
   {
@@ -172,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-introduces-filtered-export/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-01"
   },
   {
@@ -205,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-8-sept-2026-updates/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -216,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-object-lock-variable-retention-event-holds-aws-govcloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -227,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-remediation-plans/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -238,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-cloudwatch-log-groups/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -249,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-glue-iceberg-v3-optimization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -260,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-budgets/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -271,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -282,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-dns-analytics-insights/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -293,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-extends-multi-region-support-to-more-aws-regions",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -304,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-secrets-manager-security-posture-recommendations",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -326,7 +425,29 @@
     "link": "https://docs.cloud.google.com/release-notes#October_01_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 5,
+    "date": "2026-10-01"
+  },
+  {
+    "id": "aws-amazon-q-developer-now-de",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Q Developer now delivers enhanced visualizations in the AWS Management Console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-q-developer-enhanced-visualizations-aws-management-console",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 4,
+    "date": "2026-10-01"
+  },
+  {
+    "id": "aws-amazon-eks-auto-mode-now-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EKS Auto Mode now supports advanced compute configuration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/eks-auto-mode-advanced-compute-config/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 5,
     "date": "2026-10-01"
   },
   {
@@ -337,7 +458,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-09-30"
   },
   {
@@ -843,7 +964,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-09-28"
   },
   {
@@ -975,7 +1096,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-09-27"
   },
   {
@@ -986,7 +1107,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_26_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-09-26"
   },
   {
@@ -1107,7 +1228,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_25_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-09-25"
   },
   {
@@ -1118,7 +1239,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_24_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-09-24"
   },
   {
@@ -1250,7 +1371,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-09-24"
   },
   {
@@ -1547,7 +1668,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-09-18"
   },
   {
@@ -1767,7 +1888,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-09-17"
   },
   {
@@ -1899,7 +2020,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-09-16"
   },
   {
@@ -2031,7 +2152,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-09-15"
   },
   {
@@ -2141,7 +2262,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-09-14"
   },
   {
@@ -2163,7 +2284,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-09-13"
   },
   {
@@ -2262,7 +2383,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-09-11"
   },
   {
@@ -2636,7 +2757,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 27,
     "date": "2026-09-09"
   },
   {
@@ -2878,7 +2999,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 29,
     "date": "2026-09-07"
   },
   {
@@ -2900,7 +3021,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 30,
+    "lag": 31,
     "date": "2026-09-05"
   },
   {
@@ -3043,7 +3164,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 32,
+    "lag": 33,
     "date": "2026-09-03"
   },
   {
