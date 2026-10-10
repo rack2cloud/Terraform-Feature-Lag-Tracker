@@ -7,7 +7,128 @@
     "link": "https://docs.cloud.google.com/release-notes#October_09_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-amazon-ec2-r8g-instances-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8g instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8g-instances-thf/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-aws-security-hub-now-expo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-amazon-ec2-r8gd-instances",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 R8gd instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-amazon-bedrock-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock now supports reasoning summaries for OpenAI models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-anthropic-claude-sonnet-5",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Anthropic Claude Sonnet 5.5 and Claude Opus 5.5 are now available on Kiro in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-claude-5-5-aws-govcloud-us/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-amazon-connect-customer-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer now provides automated checks to improve performance evaluation forms",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-customer-automated-checks-evaluation-forms/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-amazon-s3-vectors-metadat",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Vectors metadata pre-filtering is now available in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-vectors-metadata-pre-filtering-in-govcloud-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-aws-lambda-supports-oauth",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-Lambda-supports-oauth-kafka-esm/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-amazon-quick-now-supports",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick now supports brand templates for on-brand presentations and documents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-brand-templates-on-brand-presentations-documents/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-amazon-sagemaker-unified-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Unified Studio now supports custom Tooling blueprints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-tooling-blueprints/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "aws-twelvelabs-pegasus-1-5-mo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "TwelveLabs Pegasus 1.5 model now available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/twelve-labs-pegasus-1-5-aws/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-10-09"
   },
   {
@@ -18,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-08"
   },
   {
@@ -29,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-08"
   },
   {
@@ -40,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-08"
   },
   {
@@ -51,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-network-firewall-container-attributes-wildcard",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-08"
   },
   {
@@ -62,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-gamelift-servers-cpu-burstability",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-08"
   },
   {
@@ -73,7 +194,18 @@
     "link": "https://docs.cloud.google.com/release-notes#October_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-10-08"
+  },
+  {
+    "id": "aws-amazon-guardduty-rds-prot",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
     "date": "2026-10-08"
   },
   {
@@ -84,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-07"
   },
   {
@@ -128,7 +260,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-07"
   },
   {
@@ -150,7 +282,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-07"
   },
   {
@@ -161,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-06"
   },
   {
@@ -172,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-06"
   },
   {
@@ -183,7 +315,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-06"
   },
   {
@@ -194,7 +326,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-06"
   },
   {
@@ -205,7 +337,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-05"
   },
   {
@@ -249,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-05"
   },
   {
@@ -260,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-05"
   },
   {
@@ -271,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-client-vpn-device-posture/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-05"
   },
   {
@@ -282,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-access-entries/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-05"
   },
   {
@@ -293,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-05"
   },
   {
@@ -326,7 +458,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-control-tower-aft/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-05"
   },
   {
@@ -348,7 +480,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-10-04"
   },
   {
@@ -359,7 +491,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-10-03"
   },
   {
@@ -469,7 +601,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_02_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-10-02"
   },
   {
@@ -667,7 +799,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_01_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-10-01"
   },
   {
@@ -700,7 +832,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_30_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-09-30"
   },
   {
@@ -1206,7 +1338,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-09-28"
   },
   {
@@ -1338,7 +1470,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_27_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-09-27"
   },
   {
@@ -1613,7 +1745,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-09-24"
   },
   {
@@ -2130,7 +2262,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-09-17"
   },
   {
@@ -2262,7 +2394,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 23,
+    "lag": 24,
     "date": "2026-09-16"
   },
   {
@@ -2394,7 +2526,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 24,
+    "lag": 25,
     "date": "2026-09-15"
   },
   {
@@ -2504,7 +2636,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-09-14"
   },
   {
@@ -2526,7 +2658,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 26,
+    "lag": 27,
     "date": "2026-09-13"
   },
   {
@@ -2625,7 +2757,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 28,
+    "lag": 29,
     "date": "2026-09-11"
   },
   {
@@ -2999,7 +3131,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_09_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 30,
+    "lag": 31,
     "date": "2026-09-09"
   },
   {
@@ -3241,7 +3373,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 32,
+    "lag": 33,
     "date": "2026-09-07"
   },
   {
@@ -10536,17 +10668,6 @@
     "version": "v7.39.0",
     "lag": 3,
     "date": "2026-06-27"
-  },
-  {
-    "id": "aws-amazon-ec2-r8g-instances-",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon EC2 R8g instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 4,
-    "date": "2026-06-26"
   },
   {
     "id": "gcp-june-26--2026",
