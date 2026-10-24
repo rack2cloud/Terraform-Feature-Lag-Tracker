@@ -1,5 +1,82 @@
 [
   {
+    "id": "aws-web-search-on-aws-bedrock",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-23"
+  },
+  {
+    "id": "aws-amazon-connect-customer-g",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-23"
+  },
+  {
+    "id": "aws-aws-transit-gateway-and-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-23"
+  },
+  {
+    "id": "aws-amazon-corretto-october-2",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Corretto October 2026 Quarterly Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-23"
+  },
+  {
+    "id": "aws-amazon-mwaa-now-available",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MWAA now available in Mexico (Central) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-23"
+  },
+  {
+    "id": "aws-amazon-emr-on-eks-reduces",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EMR on EKS reduces EMR charge by 30 percent",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-23"
+  },
+  {
+    "id": "gcp-october-23--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "October 23, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#October_23_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-23"
+  },
+  {
     "id": "aws-amazon-connect-customer-n",
     "cloud": "aws",
     "service": "",
@@ -7,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-22"
   },
   {
@@ -18,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-22"
   },
   {
@@ -29,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-22"
   },
   {
@@ -40,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-22"
   },
   {
@@ -51,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-22"
   },
   {
@@ -62,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-22"
   },
   {
@@ -73,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-22"
   },
   {
@@ -84,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-22"
   },
   {
@@ -95,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-22"
   },
   {
@@ -106,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-22"
   },
   {
@@ -117,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-now-available-in-the-aws-singapore-region/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-22"
   },
   {
@@ -126,6 +203,28 @@
     "service": "General",
     "feature": "October 22, 2026",
     "link": "https://docs.cloud.google.com/release-notes#October_22_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-10-22"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-22"
+  },
+  {
+    "id": "aws-amazon-msk-connect-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK Connect now supports pausing and resuming connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-pause-resume",
     "status": "Not Supported",
     "version": "--",
     "lag": 1,
@@ -172,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-21"
   },
   {
@@ -216,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-21"
   },
   {
@@ -238,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-21"
   },
   {
@@ -260,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-new-networks/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-21"
   },
   {
@@ -304,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-20"
   },
   {
@@ -447,7 +546,7 @@
     "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-20"
   },
   {
@@ -568,7 +667,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-19"
   },
   {
@@ -590,7 +689,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-10-17"
   },
   {
@@ -711,7 +810,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-10-16"
   },
   {
@@ -733,7 +832,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-10-16"
   },
   {
@@ -986,7 +1085,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-10-15"
   },
   {
@@ -1272,7 +1371,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-10-13"
   },
   {
@@ -1305,7 +1404,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-10-13"
   },
   {
@@ -1490,8 +1589,8 @@
     "service": "General",
     "feature": "October 09, 2026",
     "link": "https://docs.cloud.google.com/release-notes#October_09_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v7.46.2",
     "lag": 14,
     "date": "2026-10-09"
   },
@@ -1679,7 +1778,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-10-08"
   },
   {
@@ -1745,7 +1844,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-10-07"
   },
   {
@@ -1767,7 +1866,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-10-07"
   },
   {
@@ -1800,7 +1899,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-10-06"
   },
   {
@@ -1809,8 +1908,8 @@
     "service": "General",
     "feature": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Global Industrial AIoT Platforms",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v5.11.0",
     "lag": 16,
     "date": "2026-10-06"
   },
@@ -1822,7 +1921,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-10-05"
   },
   {
@@ -1965,7 +2064,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-10-04"
   },
   {
@@ -1976,7 +2075,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_03_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-10-03"
   },
   {
@@ -2823,7 +2922,7 @@
     "link": "https://docs.cloud.google.com/release-notes#September_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 25,
+    "lag": 26,
     "date": "2026-09-28"
   },
   {
