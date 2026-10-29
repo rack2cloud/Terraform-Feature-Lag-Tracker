@@ -7,7 +7,139 @@
     "link": "https://docs.cloud.google.com/release-notes#October_28_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-amazon-rds-for-oracle-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-aws-lambda-supports-seeka",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-introducing-time-series-c",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-quick-now-supports-smart-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Quick now supports smart approvals for agentic actions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-amazon-eks-dashboard-now-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-amazon-ecs-managed-instan",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-aws-lambda-durable-functi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda durable functions now exports live telemetry for execution insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-amazon-eks-auto-mode-now-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-aws-backup-adds-restore-t",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup adds restore testing support for Amazon Redshift",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-announcing-the-aws-market",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing the AWS Marketplace and Amazon Business unified storefront",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/marketplace-business-storefront/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-aws-iam-identity-center-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-10-28"
   },
   {
@@ -16,8 +148,8 @@
     "service": "",
     "feature": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.71.0",
     "lag": 0,
     "date": "2026-10-27"
   },
@@ -27,8 +159,8 @@
     "service": "General",
     "feature": "SageMaker MLflow Apps now support MLflow 3.16",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.71.0",
     "lag": 0,
     "date": "2026-10-27"
   },
@@ -38,9 +170,9 @@
     "service": "",
     "feature": "Amazon Aurora serverless now supports up to 384 ACUs",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 0,
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 1,
     "date": "2026-10-27"
   },
   {
@@ -51,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-27"
   },
   {
@@ -60,8 +192,8 @@
     "service": "",
     "feature": "Amazon Corretto October 2026 Patch Updates",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.71.0",
     "lag": 1,
     "date": "2026-10-27"
   },
@@ -73,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-27"
   },
   {
@@ -85,6 +217,28 @@
     "status": "Supported",
     "version": "v8.9.0",
     "lag": 0,
+    "date": "2026-10-27"
+  },
+  {
+    "id": "aws-amazon-connect-customer-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer supports inline attachment previews",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-attachment-previews/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-27"
+  },
+  {
+    "id": "aws-amazon-elasticache-expand",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ElastiCache expands data tiering to R8gd and R7gd nodes in Europe (Spain) and Asia Pacific (Hyderabad)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elasticache-data-tiering-spain/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 1,
     "date": "2026-10-27"
   },
   {
@@ -104,9 +258,9 @@
     "service": "",
     "feature": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 2,
     "date": "2026-10-26"
   },
   {
@@ -115,9 +269,9 @@
     "service": "",
     "feature": "Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 2,
     "date": "2026-10-26"
   },
   {
@@ -126,9 +280,9 @@
     "service": "",
     "feature": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 2,
     "date": "2026-10-26"
   },
   {
@@ -137,9 +291,9 @@
     "service": "",
     "feature": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 2,
     "date": "2026-10-26"
   },
   {
@@ -150,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-26"
   },
   {
@@ -159,8 +313,8 @@
     "service": "",
     "feature": "Amazon Connect Customer now measures the outcomes that drive retention and revenue",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.71.0",
     "lag": 2,
     "date": "2026-10-26"
   },
@@ -172,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-26"
   },
   {
@@ -183,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-26"
   },
   {
@@ -192,8 +346,8 @@
     "service": "General",
     "feature": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.71.0",
     "lag": 2,
     "date": "2026-10-26"
   },
@@ -203,8 +357,8 @@
     "service": "",
     "feature": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.71.0",
     "lag": 2,
     "date": "2026-10-26"
   },
@@ -216,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-catalog-oauth-iceberg-rest/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-26"
   },
   {
@@ -227,7 +381,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 2,
     "date": "2026-10-26"
   },
   {
@@ -238,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-26"
   },
   {
@@ -247,9 +401,9 @@
     "service": "",
     "feature": "Amazon IVS Low-Latency Streaming now provides a failover slate",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 2,
     "date": "2026-10-26"
   },
   {
@@ -258,8 +412,8 @@
     "service": "General",
     "feature": "AWS Elemental MediaConnect Router now supports endpoint connection management",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-cross-account-endpoints/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.71.0",
     "lag": 2,
     "date": "2026-10-26"
   },
@@ -368,8 +522,8 @@
     "service": "",
     "feature": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v6.71.0",
     "lag": 4,
     "date": "2026-10-23"
   },
@@ -843,7 +997,7 @@
     "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-10-20"
   },
   {
@@ -964,7 +1118,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-10-19"
   },
   {
@@ -1129,7 +1283,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-10-16"
   },
   {
@@ -1382,7 +1536,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-10-15"
   },
   {
@@ -1701,7 +1855,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-10-13"
   },
   {
@@ -1844,7 +1998,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 17,
     "date": "2026-10-12"
   },
   {
@@ -2075,7 +2229,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-10-08"
   },
   {
@@ -2163,7 +2317,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 20,
+    "lag": 21,
     "date": "2026-10-07"
   },
   {
