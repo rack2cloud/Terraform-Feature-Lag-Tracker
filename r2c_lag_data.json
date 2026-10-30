@@ -1,5 +1,148 @@
 [
   {
+    "id": "gcp-october-30--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "October 30, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#October_30_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-30"
+  },
+  {
+    "id": "aws-amazon-dynamodb-accelerat",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-aws-marketplace-now-enabl",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-amazon-rds-for-oracle-and",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-amazon-aurora-now-support",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora now supports post-quantum TLS key exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-amazon-msk-connect-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK Connect now supports updating connector plugins and worker configurations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-aws-step-functions-workfl",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Step Functions workflows now available as AI agent tools",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-amazon-managed-grafana-no",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-aws-datasync-enhanced-mod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-acm-now-supports-acme-for",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "aws-aws-backup-now-supports-c",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-29"
+  },
+  {
+    "id": "gcp-october-29--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "October 29, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#October_29_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-10-29"
+  },
+  {
     "id": "gcp-october-28--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +150,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_28_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-28"
   },
   {
@@ -18,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-28"
   },
   {
@@ -62,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-10-28"
   },
   {
@@ -139,6 +282,39 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-public-endpoints-for-amaz",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "aws-aws-agent-registry-is-now",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Agent Registry is now available in four additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-four-regions/",
+    "status": "Supported",
+    "version": "v6.71.0",
+    "lag": 0,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "azure-introducing-the-microsoft",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
+    "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 1,
     "date": "2026-10-28"
   },
@@ -183,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-27"
   },
   {
@@ -205,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-27"
   },
   {
@@ -227,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-attachment-previews/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-10-27"
   },
   {
@@ -239,6 +415,17 @@
     "status": "Supported",
     "version": "v6.71.0",
     "lag": 1,
+    "date": "2026-10-27"
+  },
+  {
+    "id": "aws-amazon-bedrock-now-offers",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock now offers Canada cross-Region inference for Claude Haiku 5.5",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-canada-cris/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 3,
     "date": "2026-10-27"
   },
   {
@@ -381,7 +568,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-26"
   },
   {
@@ -392,7 +579,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-10-26"
   },
   {
@@ -997,7 +1184,7 @@
     "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-10-20"
   },
   {
@@ -1116,8 +1303,8 @@
     "service": "General",
     "feature": "Designing for sovereign AI: A shared foundation from edge to cloud",
     "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v5.12.0",
     "lag": 9,
     "date": "2026-10-19"
   },
@@ -1283,7 +1470,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-10-16"
   },
   {
@@ -1534,8 +1721,8 @@
     "service": "General",
     "feature": "Evolving the cloud-native foundation for the next generation of AI",
     "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v5.12.0",
     "lag": 13,
     "date": "2026-10-15"
   },
@@ -1855,7 +2042,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 15,
+    "lag": 16,
     "date": "2026-10-13"
   },
   {
@@ -1998,7 +2185,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-10-12"
   },
   {
@@ -2229,7 +2416,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-10-08"
   },
   {
@@ -2680,17 +2867,6 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-introduces-filtered-export/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
-    "date": "2026-10-01"
-  },
-  {
-    "id": "aws-amazon-dynamodb-accelerat",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-dynamodb-accelerator/",
-    "status": "Supported",
-    "version": "v6.68.0",
     "lag": 6,
     "date": "2026-10-01"
   },
