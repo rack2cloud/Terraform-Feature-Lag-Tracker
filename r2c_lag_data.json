@@ -7,7 +7,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-03"
   },
   {
@@ -16,9 +16,86 @@
     "service": "General",
     "feature": "November 03, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_03_2026",
+    "status": "Supported",
+    "version": "v8.10.0",
+    "lag": 0,
+    "date": "2026-11-03"
+  },
+  {
+    "id": "aws-amazon-rds-now-supports-t",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-03"
+  },
+  {
+    "id": "aws-amazon-connect-customer-l",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer lets agents pause and resume emails",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
     "status": "Not Supported",
     "version": "--",
     "lag": 0,
+    "date": "2026-11-03"
+  },
+  {
+    "id": "aws-amazon-workspaces-for-ai-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-03"
+  },
+  {
+    "id": "aws-amazon-connect-customer-p",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer prefills the email address for new threads started from cases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-03"
+  },
+  {
+    "id": "aws-aws-config-now-supports-1",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Config now supports 10 new resource types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-03"
+  },
+  {
+    "id": "aws-aws-transform-for-mainfra",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform for mainframe improves the reimagine modernization workflow",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-03"
+  },
+  {
+    "id": "aws-amazon-eks-capabilities-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EKS Capabilities now supports Argo CD Notifications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-11-03"
   },
   {
@@ -27,8 +104,8 @@
     "service": "General",
     "feature": "November 02, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_02_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.10.0",
     "lag": 1,
     "date": "2026-11-02"
   },
@@ -40,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-02"
   },
   {
@@ -51,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-02"
   },
   {
@@ -62,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-02"
   },
   {
@@ -73,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-02"
   },
   {
@@ -84,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-02"
   },
   {
@@ -95,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-314-available/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-02"
   },
   {
@@ -106,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-02"
   },
   {
@@ -117,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-02"
   },
   {
@@ -128,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-02"
   },
   {
@@ -139,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-tokyo-zurich/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-02"
   },
   {
@@ -150,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-1",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-02"
   },
   {
@@ -161,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-text-detection-model/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-02"
   },
   {
@@ -172,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-02"
   },
   {
@@ -183,7 +260,7 @@
     "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-02"
   },
   {
@@ -192,8 +269,8 @@
     "service": "General",
     "feature": "November 01, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_01_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.10.0",
     "lag": 2,
     "date": "2026-11-01"
   },
@@ -205,7 +282,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-31"
   },
   {
@@ -214,8 +291,8 @@
     "service": "General",
     "feature": "October 30, 2026",
     "link": "https://docs.cloud.google.com/release-notes#October_30_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.10.0",
     "lag": 4,
     "date": "2026-10-30"
   },
@@ -227,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-30"
   },
   {
@@ -238,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-30"
   },
   {
@@ -249,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-30"
   },
   {
@@ -260,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-30"
   },
   {
@@ -271,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-30"
   },
   {
@@ -282,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-tls/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-30"
   },
   {
@@ -293,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-10-30"
   },
   {
@@ -304,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 5,
     "date": "2026-10-30"
   },
   {
@@ -315,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-versioning-aliasing/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-30"
   },
   {
@@ -326,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-30"
   },
   {
@@ -337,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-30"
   },
   {
@@ -348,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-30"
   },
   {
@@ -359,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-essentials/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-30"
   },
   {
@@ -381,7 +458,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-29"
   },
   {
@@ -489,8 +566,8 @@
     "service": "General",
     "feature": "October 29, 2026",
     "link": "https://docs.cloud.google.com/release-notes#October_29_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.10.0",
     "lag": 5,
     "date": "2026-10-29"
   },
@@ -524,7 +601,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-10-29"
   },
   {
@@ -533,8 +610,8 @@
     "service": "General",
     "feature": "October 28, 2026",
     "link": "https://docs.cloud.google.com/release-notes#October_28_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.10.0",
     "lag": 6,
     "date": "2026-10-28"
   },
@@ -700,7 +777,7 @@
     "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-10-28"
   },
   {
@@ -924,17 +1001,6 @@
     "date": "2026-10-26"
   },
   {
-    "id": "aws-amazon-rds-now-supports-t",
-    "cloud": "aws",
-    "service": "",
-    "feature": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-    "status": "Supported",
-    "version": "v6.71.0",
-    "lag": 2,
-    "date": "2026-10-26"
-  },
-  {
     "id": "aws-aws-glue-data-catalog-now",
     "cloud": "aws",
     "service": "General",
@@ -953,7 +1019,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-10-26"
   },
   {
@@ -1569,7 +1635,7 @@
     "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 13,
+    "lag": 14,
     "date": "2026-10-20"
   },
   {
@@ -1855,7 +1921,7 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-10-16"
   },
   {
@@ -2799,8 +2865,8 @@
     "service": "General",
     "feature": "October 08, 2026",
     "link": "https://docs.cloud.google.com/release-notes#October_08_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.10.0",
     "lag": 26,
     "date": "2026-10-08"
   },
