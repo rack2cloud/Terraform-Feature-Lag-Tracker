@@ -1,10 +1,241 @@
 [
   {
+    "id": "aws-capacity-reservation-reso",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-06"
+  },
+  {
+    "id": "aws-aws-security-hub-now-prov",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub now provides an SBOM inventory for your compute resources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gcp-november-06--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 06, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_06_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-06"
+  },
+  {
     "id": "gcp-november-05--2026",
     "cloud": "gcp",
     "service": "General",
     "feature": "November 05, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_05_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-aws-interconnect---last-m",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-announcing-web-answer-on-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing Web Answer on Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-aws-network-load-balancer",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Network Load Balancer is now available in the AWS Phoenix Local Zone",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-nlb-available-phx-local-zone/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-amazon-dynamodb-now-suppo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon DynamoDB now supports bulk put items",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-amazon-cognito-announces-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-iam-roles-anywhere-now-su",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "IAM Roles Anywhere now supports automatic certificate revocation checking",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service optimized engine now supports agent traces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-amazon-fsx-for-lustre-del",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-amazon-rds-for-oracle-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-aws-security-hub-network-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-aws-lambda-durable-functi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda durable functions increases default execution and API quotas",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-functions-default-quotas/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-aws-codeconnections-is-no",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS CodeConnections is now available in the AWS GovCloud (US-West) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codeconnections-govcloud-west/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-studi",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-aws-waf-ai-traffic-moneti",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS WAF AI traffic monetization now supports fiat payouts through Stripe",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-stripe-fiat-payouts/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws-amazon-q-developer-in-con",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Q Developer in console is now the AWS assistant",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/q-developer-renamed-aws-assistant/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "aws---aws-systems-manager-par",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "\ufeff\ufeffAWS Systems Manager Parameter Store now allows organization and validation with built-in data types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-ssm-parameter-store-allows-organization-validation-with-new-data-types/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "azure-stop-treating-agents-as-o",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Stop treating agents as one-off projects and start running them as a continuous discipline",
+    "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-05"
+  },
+  {
+    "id": "azure-designing-azure-silicon-o",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
     "status": "Not Supported",
     "version": "--",
     "lag": 0,
@@ -18,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-04"
   },
   {
@@ -51,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-04"
   },
   {
@@ -62,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-04"
   },
   {
@@ -106,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-04"
   },
   {
@@ -128,6 +359,28 @@
     "link": "https://docs.cloud.google.com/release-notes#November_04_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 2,
+    "date": "2026-11-04"
+  },
+  {
+    "id": "aws-amazon-mwaa-now-supports-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MWAA now supports cost allocation tags",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-cost-allocation-tags/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-04"
+  },
+  {
+    "id": "azure-predicting-and-detecting-",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+    "status": "Supported",
+    "version": "v5.13.0",
     "lag": 1,
     "date": "2026-11-04"
   },
@@ -172,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-03"
   },
   {
@@ -194,7 +447,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-03"
   },
   {
@@ -238,7 +491,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-api-keys-opentelemetry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-03"
   },
   {
@@ -401,9 +654,9 @@
     "service": "General",
     "feature": "The Platform Behind the Next AI Breakthrough",
     "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 1,
+    "status": "Supported",
+    "version": "v5.13.0",
+    "lag": 2,
     "date": "2026-11-02"
   },
   {
@@ -425,7 +678,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-10-31"
   },
   {
@@ -742,8 +995,8 @@
     "service": "",
     "feature": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
     "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v5.13.0",
     "lag": 7,
     "date": "2026-10-29"
   },
@@ -920,7 +1173,7 @@
     "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-10-28"
   },
   {
@@ -1776,9 +2029,9 @@
     "service": "General",
     "feature": "Advancing digital sovereignty with greater control and choice",
     "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-    "status": "Not Supported",
-    "version": "--",
-    "lag": 15,
+    "status": "Supported",
+    "version": "v5.13.0",
+    "lag": 16,
     "date": "2026-10-20"
   },
   {
