@@ -1,5 +1,60 @@
 [
   {
+    "id": "aws-aws-partner-central-now-p",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Partner Central now provides an improved business planning experience",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-cloudwatch-promql-alarms-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "CloudWatch PromQL alarms now support EC2 and Application Auto Scaling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-alarms-autoscaling-group-actions",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service now lets you validate and roll back version upgrades",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service/upgrades/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore now offers a Web Search API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "gcp-november-10--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 10, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_10_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
     "id": "aws-introducing-aws-nitro-san",
     "cloud": "aws",
     "service": "",
@@ -7,7 +62,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-09"
   },
   {
@@ -18,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-09"
   },
   {
@@ -29,7 +84,172 @@
     "link": "https://docs.cloud.google.com/release-notes#November_09_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-logs-an",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Logs announces account-level retention policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-aws-glue-adds-100-new-nat",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Glue adds 100 new native connectors for popular SaaS applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-glue-adds-100-new-native-connectors/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-aws-sts-now-supports-cros",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS STS now supports cross-partition federation for AWS identities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-amazon-quick-is-now-aws-q",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Quick is now AWS Quick",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-aws-quick/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-claude-fable-5-2-is-now-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-amazon-bedrock-now-offers",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-amazon-connect-customer-l",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer launches evaluation form templates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-evaluation-form-templates/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-amazon-mwaa-now-supports-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MWAA now supports DuckDB operators",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-supports-duckdb-operators/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-introducing-an-open-sourc",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing an open-source UI for graph analytics over data lakes with Amazon Neptune Analytics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-graphover-datalakes-generally-available",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-amazon-documentdb-serverl",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon DocumentDB Serverless now provides up to 35% higher throughput",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/documentdb-serverless-platform-version-4/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-amazon-athena-introduces-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Athena introduces system tables for observability, auditing, and usage analytics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-claude-fable-5-2-is-now-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Claude Fable 5.2 is now available on AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-aws-analytics-services-no",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Analytics services now support Workday Data Cloud integration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-analytics-workday-data-cloud/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-amazon-s3-access-points-f",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Access Points for Amazon FSx are now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-09"
+  },
+  {
+    "id": "aws-amazon-route-53-profiles-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Route 53 Profiles now supports multiple Profiles per VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-profiles-multiple-per-vpc/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-11-09"
   },
   {
@@ -40,7 +260,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_08_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-08"
   },
   {
@@ -51,7 +271,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_07_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-07"
   },
   {
@@ -62,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -73,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -84,7 +304,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_06_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -95,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-06"
   },
   {
@@ -106,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-06"
   },
   {
@@ -117,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -128,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -139,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -150,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -161,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -172,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mediaconvert-elemental-smart-subtitles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -183,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-serverless-connections-variables/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -194,7 +414,18 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-serverless-custom-operators/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
+    "date": "2026-11-06"
+  },
+  {
+    "id": "azure-building-the-next-generat",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -205,7 +436,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_05_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-11-05"
   },
   {
@@ -216,7 +447,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-05"
   },
   {
@@ -227,7 +458,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-05"
   },
   {
@@ -392,7 +623,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 5,
     "date": "2026-11-05"
   },
   {
@@ -403,7 +634,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 5,
     "date": "2026-11-05"
   },
   {
@@ -535,7 +766,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_04_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-11-04"
   },
   {
@@ -854,7 +1085,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-10-31"
   },
   {
@@ -1349,7 +1580,7 @@
     "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 13,
     "date": "2026-10-28"
   },
   {
@@ -1591,7 +1822,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-10-26"
   },
   {
