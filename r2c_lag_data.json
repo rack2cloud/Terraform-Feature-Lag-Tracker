@@ -1,5 +1,16 @@
 [
   {
+    "id": "gcp-november-11--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 11, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_11_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-11"
+  },
+  {
     "id": "aws-aws-partner-central-now-p",
     "cloud": "aws",
     "service": "General",
@@ -18,7 +29,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-alarms-autoscaling-group-actions",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-10"
   },
   {
@@ -29,7 +40,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service/upgrades/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-10"
   },
   {
@@ -40,7 +51,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-10"
   },
   {
@@ -49,9 +60,152 @@
     "service": "General",
     "feature": "November 10, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_10_2026",
+    "status": "Supported",
+    "version": "v8.11.0",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-aws-billing-and-cost-mana",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
     "status": "Not Supported",
     "version": "--",
     "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-ec2-g7-instances-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 G7 instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-opensearch-service",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Service announces managed cross-Region disaster recovery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-rds-for-mysql-26-1",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-rds-for-postgresql",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-s3-access-grants-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Access Grants now support listing grants across multiple AWS accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-access-grants-list-across-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-bedrock-adds-bedro",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-s3-tables-now-supp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Tables now support S3 server access logging",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-server-access-logging/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-aws-marketplace-saas-free",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace SaaS free trials now convert automatically to paid subscriptions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-free-trial-conversion/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-aws-network-firewall-laun",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Network Firewall launches next-generation firewall policy",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-launches-ngfw-policy/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-elasticache-server",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ElastiCache Serverless now supports vector, full-text and hybrid searches plus aggregations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-elasticache-serverless-search-aggregations/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-gamelift-servers-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon GameLift Servers now supports Game Session Placement Insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gamelift-game-session-insights/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-documentdb--with-m",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon DocumentDB (with MongoDB compatibility) now supports post-quantum TLS, wildcard indexes, and $unionWith in version 8.0.3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-8-0-3/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-11-10"
   },
   {
@@ -62,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-09"
   },
   {
@@ -73,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-09"
   },
   {
@@ -82,8 +236,8 @@
     "service": "General",
     "feature": "November 09, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_09_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.11.0",
     "lag": 1,
     "date": "2026-11-09"
   },
@@ -95,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-09"
   },
   {
@@ -106,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-glue-adds-100-new-native-connectors/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-09"
   },
   {
@@ -117,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-09"
   },
   {
@@ -216,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-09"
   },
   {
@@ -227,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-analytics-workday-data-cloud/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-09"
   },
   {
@@ -238,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-09"
   },
   {
@@ -249,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-profiles-multiple-per-vpc/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-09"
   },
   {
@@ -258,8 +412,8 @@
     "service": "General",
     "feature": "November 08, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_08_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.11.0",
     "lag": 2,
     "date": "2026-11-08"
   },
@@ -269,8 +423,8 @@
     "service": "General",
     "feature": "November 07, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_07_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.11.0",
     "lag": 3,
     "date": "2026-11-07"
   },
@@ -302,8 +456,8 @@
     "service": "General",
     "feature": "November 06, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_06_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.11.0",
     "lag": 4,
     "date": "2026-11-06"
   },
@@ -315,7 +469,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-06"
   },
   {
@@ -434,8 +588,8 @@
     "service": "General",
     "feature": "November 05, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_05_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.11.0",
     "lag": 5,
     "date": "2026-11-05"
   },
@@ -764,8 +918,8 @@
     "service": "General",
     "feature": "November 04, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_04_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.11.0",
     "lag": 6,
     "date": "2026-11-04"
   },
@@ -1083,8 +1237,8 @@
     "service": "General",
     "feature": "October 31, 2026",
     "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
-    "status": "Not Supported",
-    "version": "--",
+    "status": "Supported",
+    "version": "v8.11.0",
     "lag": 10,
     "date": "2026-10-31"
   },
