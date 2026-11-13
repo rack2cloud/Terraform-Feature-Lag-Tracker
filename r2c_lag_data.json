@@ -1,5 +1,16 @@
 [
   {
+    "id": "aws-grok-4-7-now-available-on",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-13"
+  },
+  {
     "id": "gcp-november-12--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +18,183 @@
     "link": "https://docs.cloud.google.com/release-notes#November_12_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-amazon-cognito-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Cognito now supports OAuth 2.0 token exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-amazon-aurora-and-rds-now",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-amazon-mwaa-now-supports-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-amazon-connect-customer-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer supports merging and linking related cases in the agent workspace",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-amazon-sns-now-supports-p",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SNS now supports push notifications in four additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-aws-quick-enhances-granul",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Quick enhances granular governance with the ability to restrict structured data sources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-structured-data-source-restrictions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-amazon-route-53-domains-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Route 53 Domains now supports self-service restore for expired and deleted domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-domains-self-service-restore/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-ec2-image-builder-console",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-amazon-fsx-for-lustre-low",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-aws-glue-announces-automa",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Glue announces automatic version upgrades for Apache Spark jobs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-aws-backup-adds-logically",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup adds logically air-gapped vault support for Amazon EBS Snapshots Archive",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-lag-vault-ebs-archive/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-aws-backup-now-supports-r",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup now supports resource modifiers for Amazon EKS restores",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-resource-modifiers-eks/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-aws-cloud-wan-now-support",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Cloud WAN now supports BGP communities on Direct Connect attachments for routing policy",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloud-wan-bgp-community-directconnect/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-amazon-managed-service-fo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Managed Service for Apache Flink introduces enhanced snapshots",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/managed-flink-enhanced-snapshots/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-amazon-rds-for-sql-server",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for SQL Server now supports M8id and R8id instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-m8id-r8id-instances",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-12"
+  },
+  {
+    "id": "aws-the-next-generation-agent",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "The next generation AgentCore runtime is now the default",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-11-12"
   },
   {
@@ -18,7 +205,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-11"
   },
   {
@@ -29,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-11"
   },
   {
@@ -40,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-11"
   },
   {
@@ -62,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cloud-wan-flow-logs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-11"
   },
   {
@@ -73,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-provisioned-control-plane-larger-etcd-database/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-11"
   },
   {
@@ -95,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-11"
   },
   {
@@ -335,6 +522,17 @@
     "service": "",
     "feature": "Amazon DocumentDB (with MongoDB compatibility) now supports post-quantum TLS, wildcard indexes, and $unionWith in version 8.0.3",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-8-0-3/",
+    "status": "Supported",
+    "version": "v6.73.0",
+    "lag": 1,
+    "date": "2026-11-10"
+  },
+  {
+    "id": "aws-amazon-mwaa-serverless-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MWAA Serverless supports DuckDB operators",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-serverless-duckdb-operators/",
     "status": "Supported",
     "version": "v6.73.0",
     "lag": 1,
@@ -711,7 +909,7 @@
     "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 6,
     "date": "2026-11-06"
   },
   {
@@ -909,7 +1107,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-11-05"
   },
   {
@@ -1866,7 +2064,7 @@
     "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 14,
+    "lag": 15,
     "date": "2026-10-28"
   },
   {
