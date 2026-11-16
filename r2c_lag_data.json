@@ -1,5 +1,38 @@
 [
   {
+    "id": "gcp-november-16--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 16, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_16_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "gcp-november-15--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 15, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_15_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-15"
+  },
+  {
+    "id": "gcp-november-14--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 14, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_14_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-11-14"
+  },
+  {
     "id": "aws-grok-4-7-now-available-on",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +40,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -18,7 +51,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -29,7 +62,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-reduces-maintenance-downtime-for-amvu-scheduled-upgrades/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -40,7 +73,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-cspm-org-policies/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -51,7 +84,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-oauth2-discovery/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -62,7 +95,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -73,7 +106,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -84,7 +117,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -95,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-vat-credit-notes/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -106,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-google-cloud-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -117,7 +150,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-13"
   },
   {
@@ -128,7 +161,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -139,7 +172,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-12"
   },
   {
@@ -150,7 +183,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-12"
   },
   {
@@ -161,7 +194,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-12"
   },
   {
@@ -172,7 +205,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -183,7 +216,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -194,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-structured-data-source-restrictions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -205,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-domains-self-service-restore/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -216,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -227,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -238,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -249,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-lag-vault-ebs-archive/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -260,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-resource-modifiers-eks/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -271,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloud-wan-bgp-community-directconnect/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -282,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/managed-flink-enhanced-snapshots/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -293,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-m8id-r8id-instances",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -304,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -315,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/airflow-ui-for-mwaa-serverless/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-12"
   },
   {
@@ -326,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-batch-actions-100-cases/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -337,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-route-53-record-set-protection/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -348,7 +381,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-11-11"
   },
   {
@@ -359,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-11"
   },
   {
@@ -370,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-11"
   },
   {
@@ -392,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cloud-wan-flow-logs/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-11"
   },
   {
@@ -403,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-provisioned-control-plane-larger-etcd-database/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-11"
   },
   {
@@ -1261,7 +1294,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 11,
     "date": "2026-11-05"
   },
   {
@@ -2218,7 +2251,7 @@
     "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 19,
     "date": "2026-10-28"
   },
   {
@@ -2460,7 +2493,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 21,
     "date": "2026-10-26"
   },
   {
