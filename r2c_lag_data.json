@@ -1,5 +1,27 @@
 [
   {
+    "id": "aws-aws-security-hub-extends-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub extends unified security management to Google Cloud Platform",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "gcp-november-17--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 17, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_17_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
     "id": "gcp-november-16--2026",
     "cloud": "gcp",
     "service": "General",
@@ -7,7 +29,205 @@
     "link": "https://docs.cloud.google.com/release-notes#November_16_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-amazon-ecr-now-replicates",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECR now replicates image deletions across regions and accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-amazon-ebs-now-supports-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EBS now supports associating additional KMS keys with snapshots",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-amazon-s3-vectors-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-amazon-redshift-now-suppo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-aws-devops-agent-is-now-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS DevOps Agent is now available in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-govcloud-west/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-amazon-connect-health-med",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Health medical coding is now available in public preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-health-medical-coding/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-amazon-connect-customer-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer agent assist now supports interactive responses",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/Connect-Custom-agent-interactive-responses",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-aws-kms-now-supports-key-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS KMS now supports key sharing with AWS Resource Access Manager",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-set-up--connect--and-gove",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Set up, connect, and govern AI agents faster with Amazon WorkSpaces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-aws-marketplace-metering-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace Metering Service now supports decimal usage quantities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-aws-secrets-manager-adds-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Secrets Manager adds managed external secrets support for Auth0, Okta, and Palo Alto Networks",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-managed-external-secrets-auth0-okta-palo-alto/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-iam-identity-center-now-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "IAM Identity Center now supports VPC endpoints and network access controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-vpc-endpoints/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI now supports KV cache-aware routing for real-time inference endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-kv-cache-routing/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-aws-backup-adds-logically",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Backup adds logically air-gapped vault support for Amazon RDS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-air-gapped-vault-rds/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-aws-waf-advanced-rate-bas",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-aws-announces-networking-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS announces Networking Flexible Cost Allocation for Amazon VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/networking-flexible-cost-allocation/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-aws-iam-identity-center-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IAM Identity Center now supports ForceAuthn in SAML requests",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-reauth/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-16"
+  },
+  {
+    "id": "aws-agentcore-runtime-instanc",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AgentCore runtime instances are now available in six more AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-aws-regions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-11-16"
   },
   {
@@ -18,7 +238,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-15"
   },
   {
@@ -29,7 +249,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-14"
   },
   {
@@ -40,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -51,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -62,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-reduces-maintenance-downtime-for-amvu-scheduled-upgrades/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -73,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-cspm-org-policies/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -84,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-oauth2-discovery/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -95,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -106,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -117,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -128,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-vat-credit-notes/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -139,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-google-cloud-support/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -150,7 +370,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-13"
   },
   {
@@ -161,7 +381,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-11-12"
   },
   {
@@ -172,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -183,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -194,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -205,7 +425,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-11-12"
   },
   {
@@ -216,7 +436,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-11-12"
   },
   {
@@ -348,7 +568,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/airflow-ui-for-mwaa-serverless/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-12"
   },
   {
@@ -381,7 +601,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-11-11"
   },
   {
@@ -1294,7 +1514,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-11-05"
   },
   {
@@ -1754,9 +1974,9 @@
     "service": "General",
     "feature": "October 31, 2026",
     "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
-    "status": "Supported",
-    "version": "v8.11.0",
-    "lag": 10,
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 17,
     "date": "2026-10-31"
   },
   {
@@ -2493,7 +2713,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 21,
+    "lag": 22,
     "date": "2026-10-26"
   },
   {
