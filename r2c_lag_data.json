@@ -1,5 +1,27 @@
 [
   {
+    "id": "aws-aws-control-tower-now-sup",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Control Tower now supports existing Amazon S3 bucket for log delivery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "gcp-november-18--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 18, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_18_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
     "id": "aws-aws-security-hub-extends-",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +29,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -16,6 +38,424 @@
     "service": "General",
     "feature": "November 17, 2026",
     "link": "https://docs.cloud.google.com/release-notes#November_17_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-workspaces-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Applications adds support for smart card redirection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-emr-8-2-is-now-ava",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EMR 8.2 is now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-introducing-the-apache-sp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-aws-transform-now-acceler",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-ec2-c8gn-instances",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-ec2-c8ine-instance",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-ecr-now-supports-g",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ECR now supports global authentication tokens for private registries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-customize-aws-elemental-i",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Customize AWS Elemental Inference with custom models, prompts, and decisions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-aws-security-hub-now-infe",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Security Hub now infers resource criticality from installed software and usage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-api-gateway-rest-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore Memory now provides full session summaries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-sagemaker-now-supp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-aws-lambda-now-supports-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda now supports scale to and from zero for Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-managed-instances-scale-to-zero/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-dynamodb-caching-i",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-caching-elasticache/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-opensearch-ui-is-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch UI is now available in the Africa (Cape Town) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-ui-available-africa-cape-town-region",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-bedrock-agentcore-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Bedrock AgentCore now offers free monthly web search queries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-aws-config-announces-mana",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Config announces managed conformance packs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-aurora-dsql-now-of",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL now offers SQL statement statistics in Database Insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-evs-launches-suppo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-evs-r7i-agent-skill-support/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-openai-gpt-6-2-astra--and",
+    "cloud": "aws",
+    "service": "",
+    "feature": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-workspaces-advisor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-vpc--aws-transit-g",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-aws-announces-general-ava",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-workspaces-provide",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces provides a new Windows client experience",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-new-windows-client",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-msk-standard-broke",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK Standard Brokers now support Graviton4-based M8g instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-graviton4-m8g-instances/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-msk-express-broker",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK Express Brokers now support Graviton4-based M8g instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-express-brokers-graviton4-m8g-instances/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-corretto-november-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Corretto November 2026 Critical Security Patch Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-corretto-nov-2026-updates/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-s3-now-provides-po",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-amazon-s3-adds-post-quant",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 adds post-quantum TLS key exchange support to additional S3 endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-key-exchange-support/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-aws-launches-credit-split",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS launches credit splitting and transfers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-credit-splitting-transfers/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "aws-aws-iam-announces-access-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IAM announces Access Troubleshooter to debug access denied errors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "azure-microsoft-and-oracle-brin",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft and Oracle bring agentic AI into flow of enterprise work",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "azure-introducing-azure-catalys",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "azure-microsoft-ignite-2026--wh",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Microsoft Ignite 2026: What\u2019s new in Azure, the platform purpose-built for AI",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "azure-azure-cobalt-200-vms-now-",
+    "cloud": "azure",
+    "service": "",
+    "feature": "Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "azure-continuous-improvement-co",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Continuous improvement comes to Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-17"
+  },
+  {
+    "id": "azure-introducing-the-new-micro",
+    "cloud": "azure",
+    "service": "General",
+    "feature": "Introducing the new Microsoft IQ: Putting your organization\u2019s intelligence to work in every agent",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
     "status": "Not Supported",
     "version": "--",
     "lag": 0,
@@ -29,7 +469,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-16"
   },
   {
@@ -238,7 +678,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-15"
   },
   {
@@ -249,7 +689,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-14"
   },
   {
@@ -370,7 +810,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-11-13"
   },
   {
@@ -381,7 +821,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-11-12"
   },
   {
@@ -601,7 +1041,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-11-11"
   },
   {
@@ -1976,7 +2416,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 17,
+    "lag": 18,
     "date": "2026-10-31"
   },
   {
