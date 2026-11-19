@@ -1,5 +1,38 @@
 [
   {
+    "id": "aws-aws-transform-supports-op",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform supports optimized storage for server migration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-transform-automates-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform automates source and migration target actions to accelerate cutover",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-systems-manager-param",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Systems Manager Parameter Store raises API throughput limits",
+    "link": "https://aws.amazon.com/aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
     "id": "aws-aws-control-tower-now-sup",
     "cloud": "aws",
     "service": "",
@@ -7,7 +40,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-18"
   },
   {
@@ -18,7 +51,249 @@
     "link": "https://docs.cloud.google.com/release-notes#November_18_2026",
     "status": "Not Supported",
     "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-opensearch-memory-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon OpenSearch Memory is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/",
+    "status": "Not Supported",
+    "version": "--",
     "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-introducing-the-apache-sp",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Introducing the Apache Spark Optimization Agent for AWS Glue ETL",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-sagemaker-ai-now-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker AI now supports cross-Region inference routing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-aws-announces-extenddb-1-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS announces ExtendDB 1.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-aws-transform-custom-now-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform custom now supports cross-account sharing of transformation definitions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-custom-cross-account-td/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-cloudfront-standar",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront standard logging now supports CMCD and additional log fields",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-standard-logging-cmcd-fields",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-cloudfront-announc",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-aws-lambda-adds-support-f",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda adds support for GPU instances on Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-rds-for-mysql-supp",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-rds-for-mysql-now-",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS for MySQL now supports MySQL major version 9.7",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-974-available/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-eks-hybrid-nodes-r",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EKS Hybrid Nodes reduces price for large hosts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-hybrid-nodes-pricing-change/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-cognito-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Cognito now supports point-in-time recovery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-cloudfront-functio",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront Functions now supports network calls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-functions-network-calls/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-rds-now-supports-f",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon RDS now supports fast storage volume initialization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-aws-clean-rooms-supports-",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Clean Rooms supports writing PySpark job results to intermediate tables",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-clean-rooms-pyspark-intermediate-table",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-aws-lambda-now-supports-c",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda now supports customer-managed runtimes, giving platform teams centralized control over runtime contents and updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-customer-managed-runtimes/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-aurora-dsql-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL now supports audit logging",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-dsql-audit-logging/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-elasticache-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon ElastiCache now supports distributed KV caching for self-hosted LLM inference",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-simplif",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch simplifies network performance monitoring for your Amazon Virtual Private Cloud (VPC)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-network-path-monitoring/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-aws-iam-account-access-ma",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS IAM account access manager is now even easier to deploy and use",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-account-access-manager-easier/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-s3-replication-add",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon S3 Replication adds exclusions and Multi-Region key resolution",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-replication-exclusions-multi-region-key-resolution/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-18"
+  },
+  {
+    "id": "aws-amazon-sagemaker-hyperpod",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker HyperPod now supports higher pod density on EKS-orchestrated clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-higher-pod-density/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-11-18"
   },
   {
@@ -40,7 +315,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-17"
   },
   {
@@ -51,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -62,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -73,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -84,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -95,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -106,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -117,7 +392,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -128,7 +403,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -139,7 +414,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -403,7 +678,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -414,7 +689,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -425,7 +700,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -436,7 +711,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -447,7 +722,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -458,7 +733,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-17"
   },
   {
@@ -469,7 +744,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-16"
   },
   {
@@ -678,7 +953,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-15"
   },
   {
@@ -689,7 +964,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-11-14"
   },
   {
@@ -810,7 +1085,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-11-13"
   },
   {
@@ -821,7 +1096,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-11-12"
   },
   {
@@ -1041,7 +1316,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-11-11"
   },
   {
@@ -1954,7 +2229,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 12,
+    "lag": 14,
     "date": "2026-11-05"
   },
   {
@@ -2416,7 +2691,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 18,
+    "lag": 19,
     "date": "2026-10-31"
   },
   {
