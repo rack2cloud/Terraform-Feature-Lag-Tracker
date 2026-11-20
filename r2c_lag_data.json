@@ -1,5 +1,27 @@
 [
   {
+    "id": "aws-announcing-the-general-av",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing the general availability of a new AWS Local Zone in Bogot\u00e1, Colombia",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-20"
+  },
+  {
+    "id": "gcp-november-20--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 20, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_20_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-20"
+  },
+  {
     "id": "aws-aws-transform-supports-op",
     "cloud": "aws",
     "service": "General",
@@ -7,7 +29,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 0,
+    "lag": 1,
     "date": "2026-11-19"
   },
   {
@@ -26,10 +48,373 @@
     "cloud": "aws",
     "service": "General",
     "feature": "AWS Systems Manager Parameter Store raises API throughput limits",
-    "link": "https://aws.amazon.com/aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-devops-agent-now-supp",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-slack-code-channels-teams-two-way/",
     "status": "Not Supported",
     "version": "--",
     "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-marketplace-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace now supports agentic payments with AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-cognito-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Cognito now supports client ID metadata documents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-aurora-dsql-now-de",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL now delivers up to 50% higher write throughput",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-cloudfront-adds-ip",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront adds IP based routing and connection logs to SaaS Manager",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-ip-based-routing-connection-logging",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-cloudfront-simplif",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront simplifies domain moves and onboarding for SaaS Manager",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-domain-moves-distribution-tenants",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-connect-launches-r",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-lambda-durable-functi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda durable functions now supports OpenTelemetry tracing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-marketplace-agent-mod",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace agent mode now helps you assess, buy, and deploy solutions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-workspaces-applica",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces Applications now supports WebAuthn redirection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-webauthn-redirection/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-route-53-now-suppo",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Route 53 now supports health checks for private endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-revenue-measurement-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-lambda-now-supports-a",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Lambda now supports a 30-minute timeout for on-demand Event Functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-30-minute-ondemand-event-functions/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-transform-combines-mi",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform combines migration assessment and planning in one experience",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-assessment-and-planning",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-transform-extends-app",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Transform extends application-centric migration across the lifecycle",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-ivs-real-time-stre",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-elemental-mediatailor",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Elemental MediaTailor adds Dynamic Avail Sizing for live HLS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-cognito-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Cognito now supports AWS Secrets Manager for app client secrets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-secrets-manager-integration/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-waf-launches-new-secu",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS WAF launches new Security Analytics Dashboard for real-time investigations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-security-analytics-dashboard/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-partner-central-now-s",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aurora-postgresql-with-ex",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Aurora PostgreSQL with express configuration now supports Amazon VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-express-vpc/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-aurora-now-support",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora now supports moving clusters to a different VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-move-clusters-to-different-vpc/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-msk-connect-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon MSK Connect now supports restarting existing connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-aurora-dsql-now-su",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Aurora DSQL now supports multi-Region peering across continents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-marketplace-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace now supports buyer contact sharing at subscription",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-agentcore-runtime-instanc",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AgentCore runtime instances now support Nested Virtualization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-nested-virtualization/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-marketplace-now-suppo",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Marketplace now supports buyer approval workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-approvals/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-connect-customer-e",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer enables Cases by default for new instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-cases-enabled-by-default/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-revenue-measurement-n",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Revenue Measurement now supports Identity Tagging",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-identity-tagging/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-aws-revenue-measurement-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Revenue Measurement now supports closed-source models in Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-bedrock/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-amazon-workspaces-now-let",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon WorkSpaces now lets developers enable Nested Virtualization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-nested-virtualization/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "aws-announcing-data-as-a-serv",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "Announcing Data as a Service for AWS Marketplace",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-data-as-a-service/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
+    "date": "2026-11-19"
+  },
+  {
+    "id": "gcp-november-19--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 19, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_19_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 1,
     "date": "2026-11-19"
   },
   {
@@ -51,7 +436,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-18"
   },
   {
@@ -315,7 +700,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-17"
   },
   {
@@ -678,7 +1063,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-17"
   },
   {
@@ -689,7 +1074,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-17"
   },
   {
@@ -700,7 +1085,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-17"
   },
   {
@@ -711,7 +1096,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-17"
   },
   {
@@ -722,7 +1107,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-17"
   },
   {
@@ -733,7 +1118,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-17"
   },
   {
@@ -744,7 +1129,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-16"
   },
   {
@@ -953,7 +1338,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-11-15"
   },
   {
@@ -964,7 +1349,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-11-14"
   },
   {
@@ -1085,7 +1470,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-11-13"
   },
   {
@@ -1096,7 +1481,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-11-12"
   },
   {
@@ -1316,7 +1701,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-11-11"
   },
   {
@@ -2691,7 +3076,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 19,
+    "lag": 20,
     "date": "2026-10-31"
   },
   {
