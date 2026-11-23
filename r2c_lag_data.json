@@ -1,5 +1,126 @@
 [
   {
+    "id": "aws-aws-partner-central-expan",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "aws-agentcore-runtime-instanc",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "aws-amazon-cloudfront-announc",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudFront Announces HTTP/2 Support for Connections to Origins",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "aws-aws-global-accelerator-no",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "aws-announcing-metal-size-for",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Announcing metal size for Amazon EC2 G7 instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "aws-amazon-sagemaker-studio-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "aws-amazon-connect-customer-a",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon Connect Customer AI agents now fill in step-by-step guides",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "aws-aws-codedeploy-now-suppor",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS CodeDeploy now supports suspending Amazon EC2 Auto Scaling processes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "aws-aws-systems-manager-autom",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Systems Manager Automation now automates operational tasks in Azure and Google Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-multicloud-automation/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "aws-amazon-ec2-capacity-block",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
+    "id": "gcp-november-23--2026",
+    "cloud": "gcp",
+    "service": "General",
+    "feature": "November 23, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#November_23_2026",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 0,
+    "date": "2026-11-23"
+  },
+  {
     "id": "aws-amazon-cloudwatch-omni-no",
     "cloud": "aws",
     "service": "",
@@ -7,7 +128,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-21"
   },
   {
@@ -18,7 +139,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-21"
   },
   {
@@ -29,7 +150,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-21"
   },
   {
@@ -40,7 +161,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-21"
   },
   {
@@ -51,7 +172,29 @@
     "link": "https://docs.cloud.google.com/release-notes#November_21_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-11-21"
+  },
+  {
+    "id": "aws-aws-certificate-manager-n",
+    "cloud": "aws",
+    "service": "",
+    "feature": "AWS Certificate Manager now supports Amazon N2 certificates for mTLS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/acm-amazon-n2-certificates/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-11-21"
+  },
+  {
+    "id": "aws-amazon-cloudwatch-query-s",
+    "cloud": "aws",
+    "service": "",
+    "feature": "Amazon CloudWatch Query Studio now supports saved queries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-query-studio-saved-queries",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
     "date": "2026-11-21"
   },
   {
@@ -73,7 +216,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_20_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 2,
+    "lag": 3,
     "date": "2026-11-20"
   },
   {
@@ -84,7 +227,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -95,7 +238,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-function-state-events/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -106,7 +249,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -117,7 +260,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -128,7 +271,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -139,7 +282,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -150,7 +293,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -161,7 +304,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -172,7 +315,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -183,7 +326,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -194,7 +337,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-kubernetes-tools/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -205,7 +348,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -216,7 +359,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -227,7 +370,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -238,7 +381,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -447,7 +590,7 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-flows-automations-chat/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -458,7 +601,29 @@
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-japanese-german-chinese-vietnamese/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 1,
+    "lag": 2,
+    "date": "2026-11-20"
+  },
+  {
+    "id": "aws-aws-compute-optimizer-aut",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS Compute Optimizer automation rules now support organizational units",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-compute-optimizer/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
+    "date": "2026-11-20"
+  },
+  {
+    "id": "aws-aws-devops-agent-achieves",
+    "cloud": "aws",
+    "service": "General",
+    "feature": "AWS DevOps Agent achieves FedRAMP Class D Certification in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-fedramp-class-d/",
+    "status": "Not Supported",
+    "version": "--",
+    "lag": 2,
     "date": "2026-11-20"
   },
   {
@@ -854,7 +1019,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_19_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 3,
+    "lag": 4,
     "date": "2026-11-19"
   },
   {
@@ -876,7 +1041,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_18_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 5,
     "date": "2026-11-18"
   },
   {
@@ -1140,7 +1305,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_17_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 5,
+    "lag": 6,
     "date": "2026-11-17"
   },
   {
@@ -1503,7 +1668,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 6,
     "date": "2026-11-17"
   },
   {
@@ -1514,7 +1679,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 6,
     "date": "2026-11-17"
   },
   {
@@ -1525,7 +1690,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 6,
     "date": "2026-11-17"
   },
   {
@@ -1536,7 +1701,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 6,
     "date": "2026-11-17"
   },
   {
@@ -1547,7 +1712,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 6,
     "date": "2026-11-17"
   },
   {
@@ -1558,7 +1723,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 4,
+    "lag": 6,
     "date": "2026-11-17"
   },
   {
@@ -1569,7 +1734,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_16_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 6,
+    "lag": 7,
     "date": "2026-11-16"
   },
   {
@@ -1778,7 +1943,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_15_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 7,
+    "lag": 8,
     "date": "2026-11-15"
   },
   {
@@ -1789,7 +1954,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_14_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 8,
+    "lag": 9,
     "date": "2026-11-14"
   },
   {
@@ -1910,7 +2075,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_13_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 9,
+    "lag": 10,
     "date": "2026-11-13"
   },
   {
@@ -1921,7 +2086,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_12_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 10,
+    "lag": 11,
     "date": "2026-11-12"
   },
   {
@@ -2141,7 +2306,7 @@
     "link": "https://docs.cloud.google.com/release-notes#November_11_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 11,
+    "lag": 12,
     "date": "2026-11-11"
   },
   {
@@ -3054,7 +3219,7 @@
     "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
     "status": "Not Supported",
     "version": "--",
-    "lag": 16,
+    "lag": 18,
     "date": "2026-11-05"
   },
   {
@@ -3516,7 +3681,7 @@
     "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
     "status": "Not Supported",
     "version": "--",
-    "lag": 22,
+    "lag": 23,
     "date": "2026-10-31"
   },
   {
